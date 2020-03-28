@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Aikido in Linz - Aiki-no-michi Linz
-email: info@aiki-no-michi-linz.at
+email: linzaikido@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Der Verein Aikinomichi Linz wurde im April 2018 als unpolitischer, 
   nicht religiöser und nicht auf Gewinn ausgerichteter Verein gegründet. 

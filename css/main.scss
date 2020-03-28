@@ -4,7 +4,4 @@
 @import 'bootstrap/bootstrap';
 @import 'custom/includes/header';
 @import 'custom/includes/social_links';
-
-h1 {
-    @extend .text-primary;
-}
+@import 'custom/includes/index';
