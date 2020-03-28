@@ -7,14 +7,17 @@ layout: default
 <div class="col" markdown="1">
 # helloooooooo
 ## Hello 2
-### hello 3
-This is a test
+
+This is a test - for our homepage
 
 with an addtional line
 
-and an list
+### Überschrift 3
+
+and a list
 * 1
 * 2
+* 3
 </div>
 </div>
 </div>
