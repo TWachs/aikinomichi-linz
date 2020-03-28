@@ -6,27 +6,27 @@ layout: default
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/StartpageImage.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/images/SliderOne.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/TestImage2.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/images/SliderTwo.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/IMG_1115.JPG" style="width:100%">
+    <img src="{{ site.baseurl }}/images/SliderThree.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/A9_18556.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/images/SliderFour.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/DSCN4930.JPG" style="width:100%">
+    <img src="{{ site.baseurl }}/images/SliderFive.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/P1180455.JPG" style="width:100%">
+    <img src="{{ site.baseurl }}/images/SliderSix.jpg" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
