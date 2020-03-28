@@ -14,7 +14,7 @@ layout: default
   </div>
 
   <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/IMG_1115.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/images/IMG_1115.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
@@ -22,11 +22,11 @@ layout: default
   </div>
 
   <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/DSCN4930.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/images/DSCN4930.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/P1180455.jpg" style="width:100%">
+    <img src="{{ site.baseurl }}/images/P1180455.JPG" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
