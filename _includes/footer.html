@@ -1,21 +1,18 @@
-<footer class="py-5">
-    <hr>
-    <div class="container text-center text-info">
+<footer class="py-5" style="background-color: black;color: white;">
+    <div class="container">
         <div class="row">
-        <div class="col">
-            {% if site.show_social_icons %}
+        <div class="col text-left">
+            KONTAKT<br />
+            <a href="tel:+436648360461">+43 664 83 60 461</a><br />
+            <a href="mailto:linzaikido@gmail.com">linzaikido@gmail.com</a>
+        </div>
+        <div class="col text-center">
             {% include social_links.html %}
-            {% endif %}
         </div>
-        </div>
-        <div class="row">
-        <div class="col">
-            All content copyright Your Name &copy; {{ site.time | date: '%Y' }}.
-        </div>
-        </div>
-        <div class="row">
-        <div class="col">
-            All rights reserved.
+        <div class="col text-right">
+            Impressum<br />
+            Datenschutz<br />
+            Sitemap
         </div>
         </div>
     </div>
