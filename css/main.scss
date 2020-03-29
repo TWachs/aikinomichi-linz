@@ -1,7 +1,50 @@
 ---
 ---
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+html, body {
+    height: 100%;
+}
+
+.pageContent {
+    min-height: 100%;
+}
+
+.main {
+    overflow: auto;
+    padding-bottom: 150px;
+}
+
+.block {
+    padding-top: 50px;
+}
+
+footer {
+    background-color: black;
+    color: white; 
+    position: relative;
+    height: 150px;
+    margin-top:  -150px;
+    clear: both;
+}
+
+td {
+    padding-right: 20px;
+}
+
+ul {
+    list-style-type: decimal;
+    margin-left: 50px;
+}
 
 @import 'bootstrap/bootstrap';
 @import 'custom/includes/header';
+@import 'custom/includes/pageHeader';
 @import 'custom/includes/social_links';
 @import 'custom/includes/index';
+@import 'custom/includes/images';
+
