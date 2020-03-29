@@ -10,7 +10,14 @@ layout: default
 
 This is a test - for our homepage
 
-with an addtional line
+**Fett Text**
+
+_italic Text_
+
+> quotation
+
+with an addtional line   
+Neue Zeile durch drei Leerzeichen
 
 ### Überschrift 3
 
