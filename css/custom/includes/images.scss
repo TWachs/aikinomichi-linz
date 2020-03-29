@@ -2,3 +2,28 @@
     height: 150px;
     float: left;
 }
+
+// figures
+.positionLeft {
+    float: left;
+    border: 1px solid grey;
+    width: 170px;
+    text-align: center;
+}
+
+.positionRight {
+    float: right;
+    border: 1px solid grey;
+    width: 190px;
+    text-align: center;
+}
+
+.doshuImage {
+    max-width: 98%;
+    padding-top: 2px;
+}
+
+figcaption {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

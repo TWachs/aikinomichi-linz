@@ -37,8 +37,17 @@ td {
 }
 
 ul {
-    list-style-type: decimal;
     margin-left: 50px;
+}
+
+blockquote {
+    font-style: italic;
+    padding-left: 50px;
+
+    p {
+        background-color: rgb(223, 223, 223);
+        padding: 20px;
+    }
 }
 
 @import 'bootstrap/bootstrap';

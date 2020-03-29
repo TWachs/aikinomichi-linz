@@ -2,6 +2,11 @@
 layout: page
 title: Aikido
 ---
+<style>
+ul {
+    list-style-type: decimal;
+}
+</style>
 
 <div class="container block" markdown="1">
 Was ist Aikido? Eine japanische Kampfkunst, klar, aber ist Aikido eher ein Budo (Weg des Kriegers), ein Bujutsu (kriegerische Fertigkeiten) oder ein Bugei (Kriegskunst). Diese Frage ist gar nicht so leicht zu beantworten und im Laufe eines „Aikido-lebens“ wird sich die Antwort vielleicht auch immer wieder verändern. Sehen wir uns zuerst die einzelnen Silben des Wortes Ai-ki-do an.

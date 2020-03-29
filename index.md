@@ -71,20 +71,6 @@ Die Bewegungen im Aikido sind oft kreis- bzw. spiralförmig. Im Aikido lernt man
 Aikido ist aber mehr als das Erlernen von Techniken: Selbstvertrauen, Präsenz, Mut, Aufrichtigkeit, Glaubwürdigkeit aber auch Güte und Höflichkeit werden durch das regelmäßige Üben der Kampfkunst  Aikido verinnerlicht.  Auch im Alltag werden sich diese Tugenden ganz automatisch etablieren: es ist erstaunlich, wie viele Konflikte man durch Aufmerksamkeit und Selbstvertrauen bereits im Vorfeld vermeiden oder durch Höflichkeit, Respekt und eine Prise Humor gewaltlos lösen kann. Als traditionelle japanische Kampfkunst verbindet Aikido einen aufmerksamen Geist und eine effektive Technik mit Respekt und Höflichkeit bei einem fürsorglichen Umgang miteinander.
 </div>
 </div>
-<!--
-<div class="container" >
-<div class="row">
-<div class="col text-danger" markdown="1">
-# helloooooooo
-## Hello 2
-### hello 3
-This is a test
-* 1
-* 2
-</div>
-</div>
-</div>
--->
 <script>
 var slideIndex = 0;
 showSlides();
