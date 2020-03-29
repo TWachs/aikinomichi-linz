@@ -38,19 +38,19 @@ layout: default
         <p>Persönliche Entwicklung durch Kampfkunst</p>
         <div class="row">
             <div class="col">
-                <button class="buttonType1">WAS IST AIKIDO</button><br/><br />
-                <button class="buttonType1">WAS DICH ERWARTET</button>
+                <a class="buttonType1" href="{{ site.baseurl }}/aikido">WAS IST AIKIDO</a><br/><br />
+                <a class="buttonType1" href="#wasDichErwartet">WAS DICH ERWARTET</a>
             </div>
             <div class="col">
-                <button class="buttonType2">WER WIR SIND</button><br /><br />
-                <button class="buttonType2">ERSTES TRAINING</button>
+                <a class="buttonType2" href="{{ site.baseurl }}/ueberUns">WER WIR SIND</a><br /><br />
+                <a class="buttonType2" href="{{ site.baseurl }}/training#erstesTraining">ERSTES TRAINING</a>
             </div>
         </div>
     </div>
 </div>
 <br/>
 
-<div class="container">
+<div class="container" id="wasDichErwartet">
 <div class="row text-center">
 <div class="col" markdown="1">
 # Aikido

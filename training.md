@@ -4,6 +4,8 @@ title: Training
 ---
 
 <div class="container block" markdown="1">
+<div class="row">
+<div class="col" markdown="1">
 # Wann und wo
 Es wird ein Training pro Woche angeboten. Dieses findet an zwei unterschiedlichen Orten statt. Im Trainings-Kalendar sind Information über Trainingsort und Zeit zu finden. Bei Fragen kann gerne Kontakt aufgenommen werden.
 
@@ -16,7 +18,10 @@ Das erste Training ist kostenlos, damit du dir einen unverbindlichen Eindruck ve
 Der Mitgliedsbeitrag wird mittels einem Punktekartensystem abgerechnet. Eine 10 Punktekarte kostet 50€ und erlaubt dir 10 Trainingseinheiten zu konsumieren.
 
 Der Jahresmitgliedsbeitrag kostet 20€.
-
+</div>
+</div>
+<div class="row" id="erstesTraining">
+<div class="col" markdown="1">
 # Schnuppertraining
 
 Wenn du Intersse an Aikido hast und dir ein Bild davon machen möchtest, bist du bei uns jederzeit herzlich willkommen. Hier findest du noch hilfreiche Tipps, um für dein erstes Training vorbereitet zu sein. Du kannst auch gerne mit uns [Kontakt]({{ site.baseurl }}/kontakt) aufnehmen. Wir können dir noch weitere Hinweise geben, zum Beispiel wie du uns am besten findest oder wo du dein Auto abstellen kannst.
@@ -33,4 +38,6 @@ Nach der traditionellen Begrüßung (Reiho, Verbeugung) folgen einige Aufwärmü
 Aikidobewegungen besehen aus **natürlichen Bewegungen** die keinerlei besondere Kraft, Akrobatik oder Dehnung benötigen. Aikido ist für jeden zugänglich, der den Willen hat es zu erlernen. Alles was du dafür benötigst ist Zeit, kontinuierliches Training und Freude.
 
 Zum Abschluss eines Trainings verbeugen wir uns ebenfalls voreinander (Reiho) und der Trainer beendet das Training. Zur Erfrischung stehen in all **unseren Trainingsorten Duschmöglichkeiten** zur Verfügung.
+</div>
+</div>
 </div>
