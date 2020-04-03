@@ -24,7 +24,7 @@ Der Jahresmitgliedsbeitrag kostet 20€.
 <div class="col" markdown="1">
 # Schnuppertraining
 
-Wenn du Intersse an Aikido hast und dir ein Bild davon machen möchtest, bist du bei uns jederzeit herzlich willkommen. Hier findest du noch hilfreiche Tipps, um für dein erstes Training vorbereitet zu sein. Du kannst auch gerne mit uns [Kontakt]({{ site.baseurl }}/kontakt) aufnehmen. Wir können dir noch weitere Hinweise geben, zum Beispiel wie du uns am besten findest oder wo du dein Auto abstellen kannst.
+Wenn du Intersse an Aikido hast und dir ein Bild davon machen möchtest, bist du bei uns jederzeit herzlich willkommen. Hier findest du hilfreiche Tipps, um für dein erstes Training vorbereitet zu sein. Du kannst auch gerne mit uns [Kontakt]({{ site.baseurl }}/kontakt) aufnehmen. Wir können dir noch weitere Hinweise geben, zum Beispiel wie du uns am besten findest oder wo du dein Auto abstellen kannst.
 
 # Kleidung
 
