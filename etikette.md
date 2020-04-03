@@ -21,23 +21,30 @@ Um Verletzungen während des Trainings zu vermeiden, ist Aufmerksamkeit und Resp
 Daher sind folgende Grundregeln zu beachten:   
 **Sicherheit**
 
+* Unter dem Einfluss von Alkohol (oder anderen Drogen) darf nicht trainiert werden.
 * Den Anweisungen des Trainers ist Folge zu leisten.
 * Verlässt man das Tatami (Turnmatten) vor dem Trainingsende ist der Trainer darüber zu informieren.
 * Man ist sich seiner Umgebung gewahr und vergewissert sich, dass vor einem Wurf bzw. einem Ukemi (Rolle) dafür genügend Platz vorhanden ist.
-* Wärend des Trainings darf kein Schmuck wie Ringe, Uhr, Ketten, Ohringe, … getragen werden.
+* Wärend des Aikido-Trainings darf kein Schmuck wie Ringe, Uhr, Ketten, Ohringe, … getragen werden.
 * Finger- und Zehennägel sind kurz zu halten.
 
 **Respekt**
 
+* Selbstgefälliges Verhalten und Egoismus haben im Aikido-Training nichts verloren; Höflichkeit und der Gedanke an Mittrainierende sollen im Vordergrund stehen.
 * Kommt man zu spät, setzt man sich im Seiza (Kniesitz) an den Mattenrand und wartet auf die Aufforderung des Trainers, am Training Teil zu nehmen.
 * Beim Betreten und Verlassen des Dojos (Übungsraums) und des Tatami (Turnmatten) verneigt man sich in Richtung Kamiza (Ehrenwand).
 * Vor und nach jeder Übung verneigt man sich vor seinen Trainingspartnern.
-* Wärend des Trainings verhält man sich ruhig.
+* Wärend des Aikido-Trainings verhält man sich ruhig.
 
 **Sauberkeit**
 
 * Bis zum Tatami trägt man Hausschuhe (oder Socken), die Matten betritt man barfuß mit sauberen Füßen.
 * Das Trainingsgewand sollte sauber und hygenisch sein.
 * Generell ist auf Körperpflege zu achten.
+
+**Einstellung**
+
+* Wenn die Einstellung nicht richtig ist, dann kann die Aikido-Technik auch nicht richtig sein.
+* Die ernsthafte Einstellung, Aikido lernen zu wollen ist vonnöten.
 
 </div>
