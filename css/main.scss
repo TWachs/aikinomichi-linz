@@ -63,7 +63,14 @@ blockquote {
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 60px;
+    color: $primary;
+    text-transform: uppercase; 
+    padding-top: 40px;
+}
+
+h2 {
+    font-size: 40px;
     color: $primary;
     text-transform: uppercase; 
     padding-top: 40px;
