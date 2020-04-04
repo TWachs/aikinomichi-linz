@@ -2,37 +2,7 @@
 layout: default
 ---
  <!-- Slideshow container -->
-<div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/SliderOne.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/SliderTwo.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/SliderThree.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/SliderFour.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/SliderFive.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <img src="{{ site.baseurl }}/images/SliderSix.jpg" style="width:100%">
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
+<div class="slideshow-container" id="slider">
   <div class="centered">
         <h1>Aikinomichi Linz</h1>
         <p>Persönliche Entwicklung durch Kampfkunst</p>
@@ -72,18 +42,17 @@ Aikido ist aber mehr als das Erlernen von Techniken: **Selbstvertrauen**, Präse
 </div>
 </div>
 <script>
-var slideIndex = 0;
-showSlides();
+//Array of images which you want to show: Use path you want.
+var images=new Array('./images/SliderOne.jpg','./images/SliderTwo.jpg','./images/SliderThree.jpg','./images/SliderFour.jpg','./images/SliderFive.jpg','./images/SliderSix.jpg');
+var nextimage=-1;
+doSlideshow();
 
-function showSlides() {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1} 
-  slides[slideIndex-1].style.display = "block";  
-  setTimeout(showSlides, 8000); // Change image every 2 seconds
+function doSlideshow(){
+  nextimage++;
+  if(nextimage>=images.length){nextimage=0;}
+  var slider = document.getElementById('slider');
+  slider.style.backgroundImage = "url("+images[nextimage]+")";
+  setTimeout(doSlideshow, 8000);
+
 }
 </script>
