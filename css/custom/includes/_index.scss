@@ -12,7 +12,7 @@
     }
 
     @media (max-width: 576px) {
-      transform: translate(-50%, -45%);
+      transform: translate(-50%, -55%);
       h1 {
         font-size: 20px;
       }  
@@ -64,6 +64,7 @@
 
 /* Slideshow container */
 .slideshow-container {
+  position: relative;
   height: 675px;
   width: 100%;
   background-image: url('../images/SliderOne.jpg');
