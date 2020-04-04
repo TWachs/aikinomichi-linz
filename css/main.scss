@@ -1,5 +1,13 @@
 ---
 ---
+@import 'bootstrap/bootstrap';
+@import 'custom/includes/header';
+@import 'custom/includes/pageHeader';
+@import 'custom/includes/social_links';
+@import 'custom/includes/index';
+@import 'custom/includes/images';
+
+
 * {
     margin: 0;
     padding: 0;
@@ -30,6 +38,10 @@ footer {
     height: 150px;
     margin-top:  -150px;
     clear: both;
+
+    @media (max-width: 576px) {
+        height: 200px;
+    }
 }
 
 td {
@@ -50,10 +62,16 @@ blockquote {
     }
 }
 
-@import 'bootstrap/bootstrap';
-@import 'custom/includes/header';
-@import 'custom/includes/pageHeader';
-@import 'custom/includes/social_links';
-@import 'custom/includes/index';
-@import 'custom/includes/images';
+h1 {
+    font-size: 45px;
+    color: $primary;
+    text-transform: uppercase; 
+    padding-top: 40px;
+}
 
+
+.hide-when-small {
+    @media (max-width: 576px) {
+      display: none !important;
+    } 
+  }

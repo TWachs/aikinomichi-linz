@@ -10,6 +10,16 @@
     h1 {
         color: white;
     }
+
+    @media (max-width: 576px) {
+      transform: translate(-50%, -45%);
+      h1 {
+        font-size: 20px;
+      }  
+      p {
+        font-size: small;
+      }
+    }
 }
 
 .buttonType1 {
@@ -22,6 +32,11 @@
     display: inline-block;
     font-size: 14px;
     width: 250px;
+
+    @media (max-width: 576px) {
+      padding: 5px 11px;
+      margin-left: -22px;
+    }
   }
 
 .buttonType2 {
@@ -34,6 +49,11 @@
     display: inline-block;
     font-size: 14px;
     width: 250px;
+
+    @media (max-width: 576px) {
+      padding: 5px 11px;
+      margin-left: -22px;
+    }
 }
 
 .buttonType2:hover {

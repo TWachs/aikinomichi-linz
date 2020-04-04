@@ -8,10 +8,12 @@ layout: default
         <p>Persönliche Entwicklung durch Kampfkunst</p>
         <div class="row">
             <div class="col">
+                <br class="hide-when-small"/>
                 <a class="buttonType1" href="{{ site.baseurl }}/aikido">WAS IST AIKIDO</a><br/><br />
                 <a class="buttonType1" href="#wasDichErwartet">WAS DICH ERWARTET</a>
             </div>
             <div class="col">
+                <br />
                 <a class="buttonType2" href="{{ site.baseurl }}/ueberUns">WER WIR SIND</a><br /><br />
                 <a class="buttonType2" href="{{ site.baseurl }}/training#erstesTraining">ERSTES TRAINING</a>
             </div>
