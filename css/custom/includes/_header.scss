@@ -10,3 +10,9 @@
     color: $primary !important;
   }
 }
+
+.hide-h3-small {
+  @media (max-width: 576px) {
+    display: none !important;
+  } 
+}
