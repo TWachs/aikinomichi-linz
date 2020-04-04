@@ -69,7 +69,7 @@
   width: 100%;
   background-image: url('../images/SliderOne.jpg');
   background-position: center;
-  background-size: auto 875px;
+  background-size: 100% auto;
   background-repeat: no-repeat;
 
   @media (max-width: 576px) {
