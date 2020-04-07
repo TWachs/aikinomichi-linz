@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vortand
+title: Vorstand
 ---
 
 
@@ -13,7 +13,7 @@ title: Vortand
 ## Präsident, Generalsekretär
 
 **Martin Hölzl**   
-Ich wurde 1976 in Österreich geboren und habe technische Chemie an der Johannes Kepler Universität in Linz studiert. Seit 2007 arbeite ich in der voestalpine Stahl GmbH als Betreibsingenieur
+Ich wurde 1976 in Österreich geboren und habe technische Chemie an der Johannes Kepler Universität in Linz studiert. Seit 2007 arbeite ich in der voestalpine Stahl GmbH als Betreibsingenieur.
 </div>
 </div>
 <div class="row" style="padding-bottom: 50px;">
