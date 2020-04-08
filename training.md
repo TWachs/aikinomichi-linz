@@ -14,9 +14,7 @@ Aktuell wird ein Aikido-Training pro Woche angeboten. Dieses findet an zwei unte
 
 # Kosten
 Das erste Aikido-Training ist kostenlos, damit du dir einen unverbindlichen Eindruck verschaffen kannst.
-
 Der Mitgliedsbeitrag wird mittels einem Punktekartensystem abgerechnet. Eine Punktekarte kostet 50€ und erlaubt dir 10 Trainingseinheiten zu konsumieren.
-
 Der Jahresmitgliedsbeitrag beträgt 20€.
 </div>
 </div>
