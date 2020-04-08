@@ -25,7 +25,7 @@ layout: default
 <div class="container" id="wasDichErwartet">
 <div class="row text-center">
 <div class="col" markdown="1">
-# Aikido
+<h1 class="mainPageHeader">Aikido</h1>
 Was dich erwartet
 </div>
 </div>
