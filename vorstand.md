@@ -39,10 +39,12 @@ Ich wurde 1985 in Linz geboren und habe in Salzburg Psychologie studiert. Seit 2
 </div>
 </div>
 <div class="row" style="padding-bottom: 50px;">
-<div class="col-12" markdown="1">
+<div class="col"></div>
+<div class="col-9" markdown="1">
 ## Beirat
 
-**Christoph Kopf**
+**Paul Weingraber**   
+Ich wurde 1989 in Österreich geboren und habe 2019 die Meisterprüfung für Chemie und Umwelttechnik abgelegt. Seit 2013 arbeite ich als Chemieverfahrenstechniker am Chemiepark Linz.
 </div>
 </div>
 </div>
