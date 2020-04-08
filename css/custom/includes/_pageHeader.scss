@@ -10,7 +10,7 @@
     width: 100%;
     background-image: url('../images/PageHeader.jpg');
     background-position: center;
-    background-size: auto 215px;
+    background-size: 100% auto;
 
     @media (max-width: 576px) {
         background-size: auto 150px;

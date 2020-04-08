@@ -9,6 +9,7 @@
     
     h1 {
         color: white;
+        font-weight: bold;
     }
 
     @media (max-width: 576px) {
@@ -76,4 +77,9 @@
       height: 400px;
       background-size: auto 400px;
   }
+}
+
+.mainPageHeader {
+  font-size: 60px;
+  font-weight: bold;
 }

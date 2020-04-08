@@ -7,10 +7,14 @@ title: Training
 <div class="row">
 <div class="col" markdown="1">
 # Wann und wo
-Aktuell wird ein Aikido-Training pro Woche angeboten. Dieses findet an zwei unterschiedlichen Orten statt, je nachdem ob wir Schulzeit oder Ferienzeit haben. Im Trainings-Kalendar sind Informationen über den Trainingsort und die Zeit zu finden. Bei Fragen kann gerne Kontakt aufgenommen werden.
+Aktuell wird ein Aikido-Training pro Woche angeboten. Dieses findet an zwei unterschiedlichen Orten statt, je nachdem ob wir Schulzeit oder Ferienzeit haben. Im [Trainings-Kalender]({{ site.baseurl }}/trainingszeiten) sind Informationen über den Trainingsort und die Zeit zu finden. Bei Fragen kann gerne [Kontakt]({{ site.baseurl }}/kontakt) aufgenommen werden.
 
-| BRG Solar City | Heliosallee 140-142, 4030 Linz | Parkplatz, Video Wegbeschreibung |
-| Sportpark Pichling | Weikerlseestraße 73-75, 4030 Linz | |
+<div style="width: 100%; overflow: hidden; height: 480px;">
+<iframe src="https://www.google.com/maps/d/embed?mid=1OIoleZmsnFjgnRor_2qF2PnTd1qx9t9e" width="100%" height="780px" frameborder="0" style="margin-top: -150px;"></iframe>
+</div>
+
+| **BRG Solar City** | [Heliosallee 140-142, 4030 Linz](https://www.google.at/maps/dir//48.2552757,14.360738/@48.2552113,14.3599065,18z/data=!4m2!4m1!3e0?hl=de){:target="_blank"} | [Parkplatz](https://www.google.at/maps/dir/48.2565,14.3621667/48.255253,14.3610156/@48.2559553,14.3599123,596m/am=t/data=!3m2!1e3!4b1){:target="_blank"}, Video Wegbeschreibung |
+| **Sportpark Lissfeld** | [Hausleitnerweg 105, 4020 Linz](https://www.google.at/maps/dir//48.2552757,14.360738/@48.2552113,14.3599065,18z/data=!4m2!4m1!3e0?hl=de){:target="_blank"} | |
 
 # Kosten
 Das erste Aikido-Training ist kostenlos, damit du dir einen unverbindlichen Eindruck verschaffen kannst.
