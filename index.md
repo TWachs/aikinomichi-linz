@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Aikido in Linz - Aiki-no-michi Linz
 ---
  <!-- Slideshow container -->
 <div class="slideshow-container" id="slider">
