@@ -24,7 +24,7 @@ Ich wurde 1976 in Österreich geboren und habe technische Chemie an der Johannes
 ## Schatzmeister
 
 **Tamara Wachs**   
-Ich wurde 1991 in Österreich geboren und habe an der FH Oberösterreich Campus Hagenberg studiert. Seit 2017 arbeite ich als Software Entwicklerin.
+Ich wurde 1991 in Österreich geboren und habe an der FH Oberösterreich Campus Hagenberg studiert. Seit 2019 arbeite ich als Software Entwicklerin bei der Firma Adliance.
 </div>
 </div>
 <div class="row" style="padding-bottom: 50px;">
