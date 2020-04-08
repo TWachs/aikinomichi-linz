@@ -20,7 +20,7 @@ Hagenstraße 49
 
 Der Aikido Verein Aikinomichi Linz ist ein unpolitischer, nicht religiöser, nicht auf Gewinn ausgerichteter Verein. Er hat seinen Sitz in Linz und seine Tägigkeit erstreckt sich auf die Gemeinde Linz und Umgebung.
 
-Zweck des Vereins ist die Pflege der körperlichen und geistigen Leistungsfähigkeit der Mitglieder durch Förderung und Verbreitung der japanischen Kampfkunst Aikido, nach dem Reglement der [Aikikai Foundation](http://www.aikikai.or.jp/eng/), Beratung und Unterstützung der Mitglieder in ihrer Tätigkeit, insbesondere die Förderung der sportlichen Betätigung im Freizeitsport und die Pflege der Beziehungen mit anderen Vereinen und Organisationen gleicher Zielsetzung.
+Zweck des Vereins ist die Pflege der körperlichen und geistigen Leistungsfähigkeit der Mitglieder durch Förderung und Verbreitung der japanischen Kampfkunst Aikido, nach dem Reglement der [Aikikai Foundation](http://www.aikikai.or.jp/eng/){:target="_blank"}, Beratung und Unterstützung der Mitglieder in ihrer Tätigkeit, insbesondere die Förderung der sportlichen Betätigung im Freizeitsport und die Pflege der Beziehungen mit anderen Vereinen und Organisationen gleicher Zielsetzung.
 
 Genauere Details entnehmen sie unserem [Statut]({{ site.baseurl }}/downloadAndLinks).
 </div>

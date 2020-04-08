@@ -41,6 +41,6 @@ Aus diesen Beispielen ist ersichtlich warum wir beim Aiki-no-michi Linz Aikido a
 
 In seinem Wesen ist Aikido aber eine Kunst der Integration und des Friedens und der Aikidoka lernt technische Mittel um Angriffe zu neutralisieren, ohne den Angreifer dabei zu verletzen. Aikido ermöglicht somit Empathie und Menschlichkeit sogar noch innerhalb der körperlichen Auseiandersetzung, und damit ist es ziemlich einzigartig in der Welt der Kampfkünste.
 
-In diesem Zusammenhang sei auch auf die [Ethic Charter of Aikido](http://www.aikikai.or.jp/eng/pdf/rinri.pdf) verwiesen, die im Jänner 2015 von Moriteru Ueshiba verfasst wurde.
+In diesem Zusammenhang sei auch auf die [Ethic Charter of Aikido](http://www.aikikai.or.jp/eng/pdf/rinri.pdf){:target="_blank"} verwiesen, die im Jänner 2015 von Moriteru Ueshiba verfasst wurde.
 
 </div>
