@@ -12,5 +12,5 @@ Wie sieht es aber mit den physischen Aspekten aus? Durch Aikido wird die Kernmus
 
 Das ist aber noch nicht alles: insbesondere bei der Uke-Arbeit werden die Bänder und Faszien gedehnt und die Flexibilität des Körpers wird so gesteigert. Es gibt einige Übungen im Yoga, die eine erstaunliche Ähnlichkeit und Parallelität mit Bewegungen im Aikido haben. Die Yoga-Position _Nadel und Faden_ (Parsva Balasana) ist der Beginn von Mae-Ukemi im Aikido, die Yoga-Position _Halbmond_ (Ardha Chandrasana) entspricht dem Beginn des Ukemi für die Aikido-Technik Iriminage und die Yoga-position des friedlichen Kriegers (Shanti Virabhadrasana) ist der Beginn des Ukemi für die Aikido-Technik Ikkyo omote. Aikido wird daher manchmal auch als dynamisches Yogo bezeichnet.
 
-
+Zu guter letzt werden durch manche Aikido-Techniken auch Meridian-Punkte stimuliert. Das prominenteste Beispiel hierfür ist sicherlich die Aikido-Technik Yonky, die den Lungen- oder den Herzmeridian stimuliert.
 </div>
