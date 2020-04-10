@@ -15,6 +15,7 @@ Aktuell wird ein Aikido-Training pro Woche angeboten. Dieses findet an zwei unte
 
 | **BRG Solar City** | [Heliosallee 140-142, 4030 Linz](https://www.google.at/maps/dir//48.2552757,14.360738/@48.2552113,14.3599065,18z/data=!4m2!4m1!3e0?hl=de){:target="_blank"} | [Parkplatz](https://www.google.at/maps/dir/48.2565,14.3621667/48.255253,14.3610156/@48.2559553,14.3599123,596m/am=t/data=!3m2!1e3!4b1){:target="_blank"}, Video Wegbeschreibung |
 | **Sportpark Lissfeld** | [Hausleitnerweg 105, 4020 Linz](https://www.google.at/maps/dir//48.2552757,14.360738/@48.2552113,14.3599065,18z/data=!4m2!4m1!3e0?hl=de){:target="_blank"} | |
+
 Lissfeld weg und Sportpark Solar City hin; beide Adresse zeigen zum selben Ort
 
 # Kosten
