@@ -9,7 +9,7 @@ ul {
 </style>
 
 <div class="container block" markdown="1">
-Was ist Aikido? Es gibt viele gute Erklärungen und Definitionen, was Aikido ist: eine Schule für Körper und Geist, eine Charakterschulung, eine Kampfkunst, eine Kriegskunst, ein **Erziehungssystem** für einen soziale Umgang miteinander. Alle diese genannten Ansichten sind richtig, wir wollen hier and dieser Stelle aber etwas genauer darauf eingehen, was Aikido für uns, für den Verein Aiki-no-michi Linz ist: eine **Kampfkunst zur Persönslichkeitsentwicklung**. Diese Sichtweise ist natürlich geprägt von unseren eigenen Erfahrungen, von unseren Lehrern und von unserer eigenen Entwicklung.
+Was ist Aikido? Es gibt viele gute Erklärungen und Definitionen, was Aikido ist: eine Schule für Körper und Geist, eine Charakterschulung, eine Kampfkunst, eine Kriegskunst, ein **Erziehungssystem** für einen soziale Umgang miteinander. Alle diese genannten Ansichten sind richtig, wir wollen hier and dieser Stelle aber etwas genauer darauf eingehen, was Aikido für uns, für den Verein Aiki-no-michi Linz ist: eine **Kampfkunst zur Persönlichkeitsentwicklung**. Diese Sichtweise ist natürlich geprägt von unseren eigenen Erfahrungen, von unseren Lehrern und von unserer eigenen Entwicklung.
 
 Sehen wir uns im ersten Schritt die einzelnen Silben des Wortes Ai-ki-do an:
 
