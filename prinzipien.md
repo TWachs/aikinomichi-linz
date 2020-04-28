@@ -32,7 +32,7 @@ Was komt nach dem 4. Dan? Ich will diese Frage hier nicht beantworten, weil Aiki
 
 
 
-Bezügliche Effizienz und Aikido sei auf einen [Artikel] (http://aikido-brunogonzalez.com/Online/Article/Effectiveness.pdf) verwiesen, der diesbezüglich wesentlich tiefer geht. 
+Bezügliche Effizienz und Aikido sei auf einen [Artikel] (http://aikido-brunogonzalez.com/Online/Article/Effectiveness.pdf){:target="_blank"} verwiesen, der diesbezüglich wesentlich tiefer geht. 
 
 
 </div>
