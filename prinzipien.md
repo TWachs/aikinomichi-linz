@@ -28,6 +28,8 @@ Man lernt
 Prinzipen sind bei jeder Technik gleich.
 
 
+https://aikidonosekai.wordpress.com/2014/03/21/shu-ha-ri-mastery-aikido/
+
 Was kommt nach dem 4. Dan? Was gibt es zu Lernen, wenn die Technik abgeschlossen ist? Ich will diese Frage hier nicht beantworten, weil Aikido ein zutiefst persönlicher Weg ist, und es lohnt sich selber gründlich über diesen Weg nachzudenken, ohne alles vorgekaut zu bekommen. 
 
 Als Denkanstoß sei ein Ausspruch meines Lehrers Stéphane Goffin angeführt: "Unsere schlechten Gewohnheiten im Aikido hindern uns heute daran gutes Aikido zu machen, unsere guten Gewohnheiten im Aikido werden uns morgen daran hindern gutes Aikido zu machen".
