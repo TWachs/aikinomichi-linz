@@ -17,4 +17,6 @@ Warum ist diese Iaido-schule mit Aikido so gut kompatibel? Bei vielen Iaido-schu
 
 Ein weiterer Aspekt, ist die Einstellung zum Partner: Nach dem noto (Wegstecken des Schwerts in die Saya) werden die Füße geschlossen, durch das Beiziehen eines Fußes. In vielen Iaido-Schulen geschieht dies, indem der hintere Fuß zum vorderen beigezogen wird. Man nimmt sozusagen den Platz ein, den man sich gerade erkämpft hat. Im Kyoshin-ryo Iaido geschieht es indem der vordere Fuß zum hinteren beigezogen wird. Man gibt dem Gegner, auch wenn man ihn besiegt hat, wieder seinen Platz. Dies wird in der japanischen Kultur als sehr höflich angesgehen und entspricht der mentalen Einstellung im Aikido, wo wir nur die Kontrolle über den Partner anstreben, nicht seine Zuerstörung. 
 
+Ev. noch Einbau von Bokkenkata und Messer? (youtube links)
+
 </div>
