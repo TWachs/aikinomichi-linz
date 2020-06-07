@@ -11,9 +11,9 @@ Rei-ho \[Re:ho:\] (Etikette) ist wohl eines der wichtigsten Dinge, die wir im Ai
 Die Etikette lehrt einen, wann und wo man sich zu verbeugen hat, wie diese Verbeugung auszusehen hat, wie man eine Waffe korrekt überreicht und im Dojo trägt, um einige Beispiele zu nennen. Neben der äußeren Form (die eigentlich nur Mittel zum Zweck ist) lehrt die Etikette Aufmerksamkeit und Achtsamkeit gegenüber anderen aber auch Höflichkeit und Rücksicht. Im selben Ausmaß wie sich die äußere Form der Etikette im Laufe der Zeit verbessert, wird sich auch die innere Haltung des Praktizierenden verändern. Die äußere Form bzw. der Ritus der Etikette ist vor allem anfangs wichtig, da es dem Aikidoka bei der Verinnerlichung der Werte der Etikette unterstützt.
 
 Die äußere Form beeinflusst also die innere Haltung. Li-Ki bringt es auf den Punkt indem er sagt:
-
+<center>
 > Die Einwirkung des Ritus auf die Bildung des Menschen ist von geheimer Art. Sie kommt dem Bösen zuvor, ehe es noch auftritt; sie rückt ihn dem Guten näher und dem Bösen ferner, ohne dass er es merkt.
-
+</center>
 Aikido beginnt und endet mit der Verbeugung. Diesen Respekt vor dem Partner, dem Lehrer und dem Dojo den man durch die Verbeugung ausdrückt, wird sich im Laufe der Zeit als natürliche Einstellung im Leben etablieren als Respekt vor allen Lebewesen und gegenüber allen Dingen. Auch in Konfliktsituationen wird sich diese Einstellung etablieren. Es ist erstaunlich, wie viele Konflikte man vermeiden oder gewaltlos lösen kann durch Höflichkeit, gutes Benehmen, Respekt, Bescheidenheit und eine Prise Humor.
 
 Um Verletzungen während des Trainings zu vermeiden, sind Aufmerksamkeit und Respekt von den Trainingspartnern, dem Trainer aber auch dem Übungsort selbst, oberstes Gebot. Da man beim Aikido in Körperkontakt kommt, ist auch die eigene Sauberkeit und die Achtung gegenüber anderen für ein gutes Trainingsklima wesentlich.
