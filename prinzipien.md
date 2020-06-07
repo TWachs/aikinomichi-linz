@@ -15,7 +15,7 @@ In verschiedenen Kampfkünsten haben sich unterschiedliche Formen des Lernens et
 Je mehr der Wettkampf und die Effizienz einer Kampfkunst im Vordergrund steht, desto weniger Techniken gibt es in dieser Kampfkunst. Da im Aikido die persönliche Entwicklung im Vordergrund steht, gibt es viele Techniken und sehr viele Variationen dieser Techniken. Anfangs lernt und studiert man die ganze Palette von Techniken aus verschiedensten Angriffen. Die Erkenntnis, dass alle Techniken Gemeinsamkeiten haben, auch wenn es sich um noch so unetrschiedliche Techniken handelt, wird immer klarer. Das Gefühl das sich bei zwei äußerlich noch so unterschiedlich wirkenden Bewegungen einstellt, wird dasselbe werden.
 
 Anfänglich werden die Basis-Techniken aus unterschiedlichen Angriffen in einer unterschiedlichen Art und Weise gelernt und durchgeführt. Das ist nicht real, weil wir vorher wissen müssen, welcher Angriff ausgeführt wird, um die Technik richtig zu machen. Aber aus dieser Vielfalt an Basis-Techniken destilliert sich aber die Essenz heraus, und wir erlernen schließlich, dass wir aus jeglichem Angriff gleich reagieren können. Aus der Basis-Technik wurde eine Applikation, die sehr wohl realen Charakter besitzt. [Yamaguchi Sensei](https://www.youtube.com/watch?v=EqQdOXD79k8){:target="_blank"} pflegte 
-> „Dou demo ii“
+> <center>„Dou demo ii“</center>
 
 zu sagen, „was immer du machst, es ist ok, es wird funktionieren“
 
