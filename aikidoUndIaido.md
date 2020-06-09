@@ -7,7 +7,7 @@ title: Waffen im Aikido
 <div class="container block" markdown="1">
 
  
-Im Aikido wird zwar hauptsächlich waffenlos trainiert, dennoch verwenden wir auch gelegentlich den [**Stock (Jo)**](https://www.youtube.com/watch?v=gVl-DzhUTMI){:target="_blank"}, das **Schwert (Bokken)** und das **Messer (Tanto)** zum Trainieren. Warum ist das so? Weil viele Bewegungen im Aikido auf Bewegungen mit dem Stock oder dem Schwert zurückgeführt werden können und mit dem Schwert oder dem Stock die Bewegungsrichtungen viel klarer ersichtlich sind, als bei den waffenlosen Techniken. Es macht daher Sinn, die Waffen gründlichzu studieren, und sich auch der Parallelitäten der Bewegungen mit und ohne Waffen bewußt zu sein. Ein Beispiel für die Technik Soto-kaitennage mit dem Stock und waffenlos findest du [hier](https://www.youtube.com/watch?v=aWpEFcDG-Nk){:target="_blank"}
+Im Aikido wird zwar hauptsächlich waffenlos trainiert, dennoch verwenden wir auch gelegentlich den [**Stock (Jo)**](https://www.youtube.com/watch?v=gVl-DzhUTMI){:target="_blank"}, das [**Schwert (Bokken)**](https://www.youtube.com/watch?v=p8-9o0L_SxU){:target="_blank"} und das **Messer (Tanto)** zum Trainieren. Warum ist das so? Weil viele Bewegungen im Aikido auf Bewegungen mit dem Stock oder dem Schwert zurückgeführt werden können und mit dem Schwert oder dem Stock die Bewegungsrichtungen viel klarer ersichtlich sind, als bei den waffenlosen Techniken. Es macht daher Sinn, die Waffen gründlichzu studieren, und sich auch der Parallelitäten der Bewegungen mit und ohne Waffen bewußt zu sein. Ein Beispiel für die Technik Soto-kaitennage mit dem Stock und waffenlos findest du [hier](https://www.youtube.com/watch?v=aWpEFcDG-Nk){:target="_blank"}
 
 Wer sich noch intensiver mit den Waffen auseinander setzen möchte, dem stehen mehrere Möglichkeiten offen: Iaido, Jodo, Kendo, Batodo, ... - nicht alle diese Kampfkünste werden in Linz angeboten und nicht alle sind gut mit Aikido kompatibel, weil der Zugang ein anderer ist. Das kann beim Erlernen einer Kampfkunst für Verwirrung sorgen.
 
@@ -17,6 +17,6 @@ Warum ist diese Iaido-schule mit Aikido so gut kompatibel? Bei vielen Iaido-schu
 
 Ein weiterer Aspekt, ist die Einstellung zum Partner: Nach dem noto (Wegstecken des Schwerts in die Saya) werden die Füße geschlossen, durch das Beiziehen eines Fußes. In vielen Iaido-Schulen geschieht dies, indem der hintere Fuß zum vorderen beigezogen wird. Man nimmt sozusagen den Platz ein, den man sich gerade erkämpft hat. Im Kyoshin-ryo Iaido geschieht es indem der vordere Fuß zum hinteren beigezogen wird. Man gibt dem Gegner, auch wenn man ihn besiegt hat, wieder seinen Platz. Dies wird in der japanischen Kultur als sehr höflich angesgehen und entspricht der mentalen Einstellung im Aikido, wo wir nur die Kontrolle über den Partner anstreben, nicht seine Zuerstörung. 
 
-Ev. noch Einbau von Bokkenkata und Messer? (youtube links)
+Ev. noch Einbau von Messer? (youtube links)
 
 </div>
