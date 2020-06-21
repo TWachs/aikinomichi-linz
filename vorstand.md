@@ -7,7 +7,7 @@ title: Vorstand
 <div class="container block">
 <div class="row" style="padding-bottom: 50px;">
 <div class="col">
-<img class="imageStyle" src="{{ site.baseurl }}/images/Martin.jpg" alt="Martin" />
+<img class="imageStyle" src="{{ site.baseurl }}/images/MartinVorstandSeite.jpg" alt="Martin" />
 </div>
 <div class="col-9" markdown="1">
 ## Präsident, Generalsekretär

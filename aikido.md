@@ -12,11 +12,16 @@ ul {
 Was ist Aikido? Es gibt viele gute Erklärungen und Definitionen, was Aikido ist: eine Schule für Körper und Geist, eine Charakterschulung, eine Kampfkunst, eine Kriegskunst, ein **Erziehungssystem** für einen soziale Umgang miteinander. Alle diese genannten Ansichten sind richtig, wir wollen hier and dieser Stelle aber etwas genauer darauf eingehen, was Aikido für uns, für den Verein Aiki-no-michi Linz ist: eine **Kampfkunst zur Persönlichkeitsentwicklung**. Diese Sichtweise ist natürlich geprägt von unseren eigenen Erfahrungen, von unseren Lehrern und von unserer eigenen Entwicklung.
 
 Sehen wir uns im ersten Schritt die einzelnen Silben des Wortes Ai-ki-do an:
-
+</div>
+<div class="row">
+<div class="col-3"></div>
+<div class="col-9" markdown="1">
 **Ai** … Harmonie in der Bedeutung von Zusammenpassen   
 **Ki** … Lebensenergie, Kraft   
-**Do** … Lebensweg im Sinne von Entwicklung   
-
+**Do** … Lebensweg im Sinne von Entwicklung 
+</div>
+</div>  
+<div class="container" markdown="1">
 Ai und Ki darf man aber "übersetzungstechnisch" nicht trennen, die Kombination von diesen beiden Schriftzeichen zu Aiki kann man mit "Synchronisation" übersetzen. Im kampftechnischen Sinn ist damit eine Synchronisation mit der gegnerischen Karft oder Energie des Angriffs gemeint. Auf menschlicher Ebene kann es aber auch Mitgefühl oder Einfühlungsvermögen bedeuten. Somit lässt sich das Wort Aikido als _Weg zur Harmonie (Synchronisation) der Kräfte, Weg der Harmonie mit der Energie des Universums oder Weg der Empathie_ übersetzenen.
 
 Im zweiten Schritt wollen wir etwas näher darauf eingehen, warum wir, der Aiki-no-michi Linz, Aikido als Kampfkunst zur Persönlichkeitsentwicklung sehen, und warum es im Aikido weder um Kämpfen, noch um Gewinnen oder Verlieren geht.

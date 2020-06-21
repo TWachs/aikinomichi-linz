@@ -12,7 +12,7 @@ Die Etikette lehrt einen, wann und wo man sich zu verbeugen hat, wie diese Verbe
 
 Die äußere Form beeinflusst also die innere Haltung. Li-Ki bringt es auf den Punkt indem er sagt:
 
-> <center> Die Einwirkung des Ritus auf die Bildung des Menschen ist von geheimer Art. Sie kommt dem Bösen zuvor, ehe es noch auftritt; sie rückt ihn dem Guten näher und dem Bösen ferner, ohne dass er es merkt.</center>
+<blockquote><p style="text-align: center;">Die Einwirkung des Ritus auf die Bildung des Menschen ist von geheimer Art. Sie kommt dem Bösen zuvor, ehe es noch auftritt; sie rückt ihn dem Guten näher und dem Bösen ferner, ohne dass er es merkt.</p></blockquote>
 
 Aikido beginnt und endet mit der Verbeugung. Diesen Respekt vor dem Partner, dem Lehrer und dem Dojo den man durch die Verbeugung ausdrückt, wird sich im Laufe der Zeit als natürliche Einstellung im Leben etablieren als Respekt vor allen Lebewesen und gegenüber allen Dingen. Auch in Konfliktsituationen wird sich diese Einstellung etablieren. Es ist erstaunlich, wie viele Konflikte man vermeiden oder gewaltlos lösen kann durch Höflichkeit, gutes Benehmen, Respekt, Bescheidenheit und eine Prise Humor.
 
