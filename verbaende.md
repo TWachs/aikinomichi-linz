@@ -11,11 +11,11 @@ title: Verbände
 </div>
 </div>
 <div class="row">
-<div class="col">
-<img class="imageStyle" src="{{ site.baseurl }}/images/ASVOE.png" alt="ASVÖ" />
-</div>
 <div class="col-6" markdown="1">
 Der Aiki-no-michi Linz ist Mitglied des Dachverbands [Allgemeiner Sportverband Oberösterreich (ASVÖ)](https://asvo-sport.eu){:target="_blank"}   
+</div>
+<div class="col">
+<img class="imageStyleVerband" src="{{ site.baseurl }}/images/ASVOE.png" alt="ASVÖ" />
 </div>
 </div>
 <div class="row">
