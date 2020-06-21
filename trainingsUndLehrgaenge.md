@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trainingszeiten
+title: Trainings und Lehrgänge
 ---
 
 
