@@ -5,8 +5,6 @@ title: Aktuelles
 
 
 <div class="container block" markdown="1">
-Empty
-</div>
 
 #2020
 
@@ -31,3 +29,5 @@ Empty
 17. Oktober - der Aiki-no-michi Linz wird Schutzmitglied beim ASVÖ - Allgemeiner Sportverband OÖ
 
 30. März - Gründung des Vereins "Aikido-Verein Aiki-no-michi Linz"
+
+</div>
