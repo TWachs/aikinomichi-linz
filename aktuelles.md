@@ -8,10 +8,10 @@ title: Aktuelles
 
 **2020**
 
-* 8. Juni - Eingeschränkter Trainingsbetreib im BRG Solar City wird wieder aufgenommen
-* 13. März - Trainingsbetrieb wird aufgrund von "Corona" eingestellt
-* 12. Jänner - Verleihung des 5. Dan an Martin Hölzl beim Kagami Biraki in Tokio
-* 11. Jänner - [Shinshun no gasshuku](https://www.facebook.com/aikinomichilinz/photos/pcb.2469373419944097/2469359846612121/?type=3&theater){:target="_blank"}
+* _8. Juni_ - Eingeschränkter Trainingsbetreib im BRG Solar City wird wieder aufgenommen
+* _13. März_ - Trainingsbetrieb wird aufgrund von "Corona" eingestellt
+* _12. Jänner_ - Verleihung des 5. Dan an Martin Hölzl beim Kagami Biraki in Tokio
+* _11. Jänner_ - [Shinshun no gasshuku](https://www.facebook.com/aikinomichilinz/photos/pcb.2469373419944097/2469359846612121/?type=3&theater){:target="_blank"}
 
 **2019**
 
