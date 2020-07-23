@@ -36,15 +36,15 @@ Wie kann aber körperliches Training einer Kampfkunst, wie Aikido, den Geist des
 
 * Um möglichst stabil zu sein, brauchen wir eine **aufrechte Haltung**. Dieses Prinzip der Körperachse (Seichusen) findet man in jeder Kampfkunst. Diese gute Haltung, die wir im Training verinnerlichen, wird sich automatisch in unseren Alltag einschleichen: wir werden stabiler und aufrichtiger im Leben.
 
-* Im Aikido wird miteinander in kooperativer Weise geübt. Durch dieses miteinander Üben anstelle gegeneinander zu kämpfen, steigt das Niveau beider Partner gleichermaßen und sie werden sich gegenseitig mehr fordern können, was wiederum die Grundlage für die weitere Entwicklung ist. Auch im Alltag ist es oft besser eine **kooperative Lösung** zu suchen (win-win-Situation), sich gemeinsam zu entwickeln als stur gegeneinander zu kämpfen.
+* Im Aikido wird miteinander in kooperativer Weise geübt. Durch dieses miteinander Üben, statt gegeneinander zu kämpfen, steigt das Niveau beider Partner gleichermaßen und sie werden sich gegenseitig mehr fordern können, was wiederum die Grundlage für die weitere Entwicklung ist. Auch im Alltag ist es oft besser eine **kooperative Lösung** zu suchen (win-win-Situation) und sich gemeinsam zu entwickeln als stur gegeneinander zu kämpfen.
 
-* Erfolgt ein Angriff, dann gibt es einen Zeitpunkt, wo der Angreifer eine gewisse Distanz überwindet und wir innerhalb seiner Reichweite sind. Diese Distanz lernen wir durch das Aikidotraining kennen und wir lernen ebeso, den Partner diese Grenze nicht überschreiten zu lassen. Genauso lernen wir im Alltag unsere Grenzen zu erkennen, **Grenzen bewußt zu setzen** und damit auch **Selbstvertrauen** aufzubauen.
+* Ein Angriff ist nur dann gefährlich, wenn der Angreifer in die "persönliche Zone" eindringt und man sich dadurch innerhalb der Reichweite dieses Angriffs befindet. Diese persönliche Zone lernen wir durch das Aikido-Training kennen und wir lernen ebenso, den Partner diese Grenze zur persönlichen Zone nicht überschreiten zu lassen. Genauso lernen wir im Alltag unsere Grenzen zu erkennen, **Grenzen bewusst zu setzen** und damit auch **Selbstvertrauen** aufzubauen.
 
-* Durch die Etikette im Aikidotraining erlernen wir **Höflichkeit und Respekt** und kultivieren unseren Geist.
+* Durch die Etikette im Aikido-Training erlernen wir **Höflichkeit und Respekt** und kultivieren unseren Geist.
 
-Aus diesen Beispielen ist ersichtlich warum wir beim Aiki-no-michi Linz Aikido als Kampfkunst zur Persönlichkeitsentwicklung sehen. Das soll aber nicht darüber hinwegtäuschen, dass sehr viel Wert auf die kampftechnisch sinnvolle und korrekte Durchführung der Techniken im Training gelegt wird und, dass die Techniken prinzipiell das Potential haben zu verletzen bzw. auch zu töten.
+Aus diesen Beispielen ist ersichtlich warum wir beim Aiki-no-michi Linz Aikido als Kampfkunst zur Persönlichkeitsentwicklung sehen. Das soll aber nicht darüber hinweg täuschen, dass im Training sehr viel Wert auf die kampftechnisch sinnvolle und korrekte Durchführung der Techniken gelegt wird und, dass die Techniken prinzipiell das Potential haben zu verletzen bzw. auch zu töten.
 
-In seinem Wesen ist Aikido aber eine Kunst der Integration und des Friedens und der Aikidoka lernt technische Mittel um Angriffe zu neutralisieren, ohne den Angreifer dabei zu verletzen. Aikido ermöglicht somit Empathie und Menschlichkeit sogar noch innerhalb der körperlichen Auseiandersetzung, und mit diesem Konzept ist es ziemlich einzigartig in der Welt der Kampfkünste.
+In seinem Wesen ist Aikido aber eine Kunst der Integration und des Friedens und der Aikidoka lernt technische Mittel, um Angriffe zu neutralisieren, ohne den Angreifer dabei zu verletzen. Aikido ermöglicht somit Empathie und Menschlichkeit sogar noch innerhalb der körperlichen Auseinandersetzung, und mit diesem Konzept ist es ziemlich einzigartig in der Welt der Kampfkünste.
 
 In diesem Zusammenhang sei auch auf die [Ethic Charter of Aikido](http://www.aikikai.or.jp/eng/pdf/rinri.pdf){:target="_blank"} verwiesen, die im Jänner 2015 von Moriteru Ueshiba verfasst wurde.
 
