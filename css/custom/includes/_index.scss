@@ -13,7 +13,7 @@
     }
 
     @media (max-width: 576px) {
-      transform: translate(-50%, -55%);
+      transform: translate(-50%, -60%);
       h1 {
         font-size: 20px;
       }  
@@ -63,23 +63,17 @@
   color: black;
 }
 
-* {box-sizing:border-box}
-
-/* Slideshow container */
-.slideshow-container {
-  position: relative;
+.carousel-item {
   height: 675px;
-  width: 100%;
-  background-image: url('../images/SliderOne.jpg');
-  background-position: center;
-  background-size: 100% auto;
-  background-repeat: no-repeat;
-
+  background: no-repeat center center scroll;
+  background-size: cover;
+  
   @media (max-width: 576px) {
       height: 400px;
-      background-size: auto 400px;
   }
-}
+}     
+
+* {box-sizing:border-box}
 
 .mainPageHeader {
   font-size: 60px;

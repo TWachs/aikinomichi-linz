@@ -2,9 +2,44 @@
 layout: default
 title: Aikido in Linz - Aiki-no-michi Linz
 ---
- <!-- Slideshow container -->
-<div class="slideshow-container" id="slider">
-  <div class="centered">
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="8000">
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <!-- Slide One - Set the background image for this slide in the line below -->
+        <div class="carousel-item active" style="background-image: url('./images/SliderOne.jpg')">
+            <!--<div class="carousel-caption d-none d-md-block">
+                <h3>Third One</h3>
+                <p>This is a description for the third slide.</p>
+            </div> -->
+        </div>
+        <div class="carousel-item" style="background-image: url('./images/SliderTwo.jpg')">
+        </div>
+        <div class="carousel-item" style="background-image: url('./images/SliderThree.jpg')">
+        </div>
+        <div class="carousel-item" style="background-image: url('./images/SliderFour.jpg')">
+        </div>
+        <div class="carousel-item" style="background-image: url('./images/SliderFive.jpg')">
+        </div>
+        <div class="carousel-item" style="background-image: url('./images/SliderSix.jpg')">
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+    <div class="centered">
         <h1>Aiki-no-michi Linz</h1>
         <p>Persönliche Entwicklung durch Kampfkunst</p>
         <div class="row">
@@ -44,18 +79,3 @@ Die Bewegungen im Aikido sind oft kreis- bzw. spiralförmig. Im Aikido lernt man
 Aikido ist aber mehr als nur das Erlernen von Techniken: **Selbstvertrauen**, Präsenz, Mut, Aufrichtigkeit, Glaubwürdigkeit aber auch Güte und Höflichkeit werden durch das regelmäßige Üben der Kampfkunst  Aikido verinnerlicht.  Auch im Alltag werden sich diese Tugenden ganz automatisch etablieren: es ist erstaunlich, wie viele Konflikte man durch Aufmerksamkeit und Selbstvertrauen bereits im Vorfeld vermeiden oder durch Höflichkeit, Respekt und eine Prise Humor gewaltlos lösen kann. Als traditionelle japanische Kampfkunst verbindet Aikido einen aufmerksamen Geist und eine effektive Technik mit Respekt und Höflichkeit und einem fürsorglichen Umgang miteinander.
 </div>
 </div>
-<script>
-//Array of images which you want to show: Use path you want.
-var images=new Array('./images/SliderOne.jpg','./images/SliderTwo.jpg','./images/SliderThree.jpg','./images/SliderFour.jpg','./images/SliderFive.jpg','./images/SliderSix.jpg');
-var nextimage=-1;
-doSlideshow();
-
-function doSlideshow(){
-  nextimage++;
-  if(nextimage>=images.length){nextimage=0;}
-  var slider = document.getElementById('slider');
-  slider.style.backgroundImage = "url("+images[nextimage]+")";
-  setTimeout(doSlideshow, 8000);
-
-}
-</script>
