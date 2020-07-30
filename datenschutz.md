@@ -8,7 +8,7 @@ title: Datenschutz
 # Datenschutzerklärung   
 ## Datenschutz
 
-Wir haben diese Datenschutzerklärung (Fassung 08.07.2018-211067098) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 und dem [Datenschutzgesetz (DSG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597&tid=211067098) zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.
+Wir haben diese Datenschutzerklärung (Fassung 08.07.2018-211067098) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 und dem [Datenschutzgesetz (DSG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597&tid=211067098){:target="_blank"} zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.
 
 Leider liegt es in der Natur der Sache, dass diese Erklärungen sehr technisch klingen, wir haben uns bei der Erstellung jedoch bemüht die wichtigsten Dinge so einfach und klar wie möglich zu beschreiben.
 
@@ -28,11 +28,11 @@ Wenn Sie unsere Webseite so wie jetzt gerade besuchen, speichert unser Webserver
 in Dateien (Webserver-Logfiles).
 
 In der Regel werden Webserver-Logfiles zwei Wochen gespeichert und danach automatisch gelöscht. Wir geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden.
-Die Rechtsgrundlage besteht nach [Artikel 6  Absatz 1 f DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE&tid=211067098) (Rechtmäßigkeit der Verarbeitung) darin, dass berechtigtes Interesse daran besteht, den fehlerfreien Betrieb dieser Webseite durch das Erfassen von Webserver-Logfiles zu ermöglichen.
+Die Rechtsgrundlage besteht nach [Artikel 6  Absatz 1 f DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&from=DE&tid=211067098){:target="_blank"} (Rechtmäßigkeit der Verarbeitung) darin, dass berechtigtes Interesse daran besteht, den fehlerfreien Betrieb dieser Webseite durch das Erfassen von Webserver-Logfiles zu ermöglichen.
 
 ## Rechte laut Datenschutzgrundverordnung
 
-Ihnen stehen laut den Bestimmungen der DSGVO und des österreichischen [Datenschutzgesetzes (DSG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597&tid=211067098) grundsätzlich die folgende Rechte zu:
+Ihnen stehen laut den Bestimmungen der DSGVO und des österreichischen [Datenschutzgesetzes (DSG)](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597&tid=211067098){:target="_blank"} grundsätzlich die folgende Rechte zu:
 
 * Recht auf Berichtung (Artikel 16 DSGVO)
 * Recht auf Löschung („Recht auf Vergessenwerden“) (Artikel 17 DSGVO)

@@ -13,7 +13,7 @@ Hagenstraße 49
 
 <a href="tel:+436648360461">+43 664 83 60 461</a><br />
 <a href="mailto:{{ site.email }}">{{ site.email }}</a><br /> 
-[ZVR-Zahl](https://citizen.bmi.gv.at/at.gv.bmi.fnsweb-p/zvn/public/Registerauszug) 1933903369   
+[ZVR-Zahl](https://citizen.bmi.gv.at/at.gv.bmi.fnsweb-p/zvn/public/Registerauszug){:target="_blank"} 1933903369   
 
  
 # Offenlegung
