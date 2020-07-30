@@ -13,13 +13,10 @@ Was ist Aikido? Es gibt viele gute Erklärungen und Definitionen, was Aikido ist
 
 Sehen wir uns im ersten Schritt die einzelnen Silben des Wortes Ai-ki-do an:
 </div>
-<div class="row">
-<div class="col-3"></div>
-<div class="col-9" markdown="1">
+<div markdown="1" class="centered-text">
 **Ai** … Harmonie in der Bedeutung von Zusammenpassen   
 **Ki** … Lebensenergie, Kraft   
 **Do** … Lebensweg im Sinne von Entwicklung 
-</div>
 </div>  
 <div class="container" markdown="1">
 Ai und Ki darf man aber "übersetzungstechnisch" nicht trennen, die Kombination von diesen beiden Schriftzeichen zu Aiki kann man mit "Synchronisation" übersetzen. Im kampftechnischen Sinn ist damit eine Synchronisation mit der gegnerischen Kraft oder Energie des Angriffs gemeint. Auf menschlicher Ebene kann es aber auch Mitgefühl oder Einfühlungsvermögen bedeuten. Somit lässt sich das Wort Aikido als _Weg zur Harmonie (Synchronisation) der Kräfte, Weg der Harmonie mit der Energie des Universums_ oder _Weg der Empathie_ übersetzenen.
