@@ -70,18 +70,18 @@ title: Downloads & Links
 <ul class="fileDownload">
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="www.aikinomichi.at" target="blank">www.aikinomichi.at</a>
-<a href="www.aikinomichi.at" target="blank">Öffnen</a>
+<a href="http://www.aikinomichi.at" target="blank">www.aikinomichi.at</a>
+<a href="http://www.aikinomichi.at" target="blank">Öffnen</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="www.svk-aikido.com" target="blank">www.svk-aikido.com</a>
-<a href="www.svk-aikido.com" target="blank">Öffnen</a>
+<a href="http://www.svk-aikido.com" target="blank">www.svk-aikido.com</a>
+<a href="http://www.svk-aikido.com" target="blank">Öffnen</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="www.andersleben.at" target="blank">www.andersleben.at</a>
-<a href="www.andersleben.at" target="blank">Öffnen</a>
+<a href="http://www.andersleben.at" target="blank">www.andersleben.at</a>
+<a href="http://www.andersleben.at" target="blank">Öffnen</a>
 </li>
 </ul>
 </div>
