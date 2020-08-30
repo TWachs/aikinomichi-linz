@@ -7,7 +7,8 @@ title: Aktuelles
 <div class="container block" markdown="1">
 
 **2020**
-
+* _14. September - Trainingsbetrieb nach Sommertraining im BRG Solar City wird wieder aufgenommen
+* _13. Juli - Sommertraining im Sportpark Lissfeld
 * _8. Juni_ - Eingeschränkter Trainingsbetreib im BRG Solar City wird wieder aufgenommen
 * _13. März_ - Trainingsbetrieb wird aufgrund von "Corona" eingestellt
 * _12. Jänner_ - Verleihung des 5. Dan an Martin Hölzl beim Kagami Biraki in Tokio
