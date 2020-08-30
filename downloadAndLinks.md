@@ -39,15 +39,25 @@ title: Downloads & Links
 
 <ul class="fileDownload">
 <li>
-<img src="{{ site.baseurl }}/images/image_icon.png" alt="Image" />
-<a href="{{ site.baseurl }}/downloads/Tips_Bericht_022020.png" download="Tips_Bericht_022020.png">Auszeichnung im Mutterland Japan</a>
-<a href="{{ site.baseurl }}/downloads/Tips_Bericht_022020.png" download="Tips_Bericht_022020.png">Download</a>
+<img src="{{ site.baseurl }}/images/image_icon.png" alt="Pdf" />
+<a href="{{ site.baseurl }}/images/Tips_Bericht_022020.png" download="Tips_Bericht_022020.png">Auszeichnung im Mutterland Japan</a>
+<a href="{{ site.baseurl }}/images/Tips_Bericht_022020.png" download="Tips_Bericht_022020.png">Download</a>
+</li>
+<li>
+<img src="{{ site.baseurl }}/images/image_icon.png" alt="Pdf" />
+<a href="{{ site.baseurl }}/images/DanImAikido.jpg" download="DanImAikido.jpg">"Dan" im Aikido</a>
+<a href="{{ site.baseurl }}/images/DanImAikido.jpg" download="DanImAikido.jpg">Download</a>
 </li>
 </ul>
 
 # Links
 
 <ul class="fileDownload">
+<li>
+<img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
+<a href="https://www.yumpu.com/de/document/read/4041679/schummelzettel-aikido-schule-steyr" target="blank">Aikido Schummelzettel Aikidoschule Steyr [HTML]</a>
+<a href="https://www.yumpu.com/de/document/read/4041679/schummelzettel-aikido-schule-steyr" target="blank">Öffnen</a>
+</li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
 <a href="https://www.stenudd.com/aikido/aikido-stenudd.pdf" target="blank">Aikido – Stenudd Stefan [PDF]</a>
@@ -77,6 +87,11 @@ title: Downloads & Links
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
 <a href="http://www.svk-aikido.com" target="blank">www.svk-aikido.com</a>
 <a href="http://www.svk-aikido.com" target="blank">Öffnen</a>
+</li>
+<li>
+<img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
+<a href="http://zummaikido.hu" target="blank">zummaikido.hu</a>
+<a href="http://zummaikido.hu" target="blank">Öffnen</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />

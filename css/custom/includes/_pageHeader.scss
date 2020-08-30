@@ -4,6 +4,11 @@
     font-weight: bold !important;
     text-transform: uppercase; 
     padding-top: 50px;
+
+    @media (max-width: 576px) {
+        padding-top: 40px;
+        font-size: 30px !important;
+    }
 }
 
 .imageContainer {

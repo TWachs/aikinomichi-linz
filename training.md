@@ -7,10 +7,10 @@ title: Training
 <div class="row">
 <div class="col" markdown="1">
 # Wann und wo
-Aktuell wird ein Aikido-Training pro Woche angeboten. Dieses findet an zwei unterschiedlichen Orten statt, je nachdem ob wir Schulzeit oder Ferienzeit haben. Im [Trainings-Kalender]({{ site.baseurl }}/trainingsUndLehrgaenge) findest du Informationen über den Trainingsort und die Trainingszeiten. Bei Fragen kannst du uns gerne [kontaktieren]({{ site.baseurl }}/kontakt).
+Aktuell wird ein Aikido-Training pro Woche angeboten. Dieses findet an zwei unterschiedlichen Orten statt, je nachdem ob wir Schulzeit oder Ferienzeit haben. Im [Trainings-Kalender]({{ site.baseurl }}/trainingsUndLehrgaenge) findest du Informationen über den Trainingsort und die Trainingszeiten. Bei Fragen kannst du uns gerne [kontaktieren](#kontaktPosition).
 
 <div style="width: 100%; overflow: hidden; height: 480px;">
-<iframe src="https://www.google.com/maps/d/embed?mid=1OIoleZmsnFjgnRor_2qF2PnTd1qx9t9e" width="100%" height="780px" frameborder="0" style="margin-top: -150px;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1OIoleZmsnFjgnRor_2qF2PnTd1qx9t9e" width="100%" height="780px" frameborder="0" style="margin-top: -50px;"></iframe>
 </div>
 
 | **BRG Solar City** | [Heliosallee 140-142, 4030 Linz](https://www.google.at/maps/dir//48.2552757,14.360738/@48.2552113,14.3599065,18z/data=!4m2!4m1!3e0?hl=de){:target="_blank"} | [Wegbeschreibung](https://www.google.at/maps/dir/48.2565,14.3621667/48.255253,14.3610156/@48.2559553,14.3599123,596m/am=t/data=!3m2!1e3!4b1){:target="_blank"} |
@@ -26,7 +26,7 @@ Der Jahresmitgliedsbeitrag beträgt 20€.
 <div class="col" markdown="1">
 # Schnuppertraining
 
-Wenn du Intersse an der Kampfkunst Aikido hast und dir ein Bild davon machen möchtest, bist du bei uns jederzeit herzlich willkommen. Unten stehend findest du hilfreiche Tipps, um für dein erstes Aikido-Training vorbereitet zu sein. Du kannst auch gerne mit uns [Kontakt]({{ site.baseurl }}/kontakt) aufnehmen. Wir können dir noch weitere Hinweise geben, zum Beispiel wie du uns am besten findest oder wo du dein Auto abstellen kannst.
+Wenn du Intersse an der Kampfkunst Aikido hast und dir ein Bild davon machen möchtest, bist du bei uns jederzeit herzlich willkommen. Unten stehend findest du hilfreiche Tipps, um für dein erstes Aikido-Training vorbereitet zu sein. Du kannst auch gerne mit uns [Kontakt](#kontaktPosition) aufnehmen. Wir können dir noch weitere Hinweise geben, zum Beispiel wie du uns am besten findest oder wo du dein Auto abstellen kannst.
 
 # Kleidung
 
