@@ -7,6 +7,9 @@
         border: 1px solid lightgrey;
         line-height: 55px;
         margin-bottom: 5px;
+
+        @media (max-width: 576px) {
+        }
     }
 
     li:last-of-type {
@@ -27,6 +30,10 @@
         font-size: large;
         display: inline-block;
         margin-left: 5px;
+
+        @media (max-width: 576px) {
+            font-size: medium;
+        }
     }
 
     li a:last-of-type{
@@ -42,5 +49,9 @@
         float: right;
         font-size: 16px;
         border-radius: 10px;
+
+        @media (max-width: 576px) {
+            display: none;
+        }
     }
 }

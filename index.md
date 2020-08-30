@@ -10,7 +10,6 @@ title: Aikido in Linz - Aiki-no-michi Linz
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
     </ol>
     <div class="carousel-inner" role="listbox">
         <!-- Slide One - Set the background image for this slide in the line below -->
@@ -22,13 +21,11 @@ title: Aikido in Linz - Aiki-no-michi Linz
         </div>
         <div class="carousel-item" style="background-image: url('./images/SliderTwo.jpg')">
         </div>
-        <div class="carousel-item" style="background-image: url('./images/SliderThree.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/SliderThreeNew.jpg')">
         </div>
         <div class="carousel-item" style="background-image: url('./images/SliderFour.jpg')">
         </div>
         <div class="carousel-item" style="background-image: url('./images/SliderFive.jpg')">
-        </div>
-        <div class="carousel-item" style="background-image: url('./images/SliderSix.jpg')">
         </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
