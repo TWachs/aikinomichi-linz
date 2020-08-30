@@ -45,7 +45,7 @@ title: Downloads & Links
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/image_icon.png" alt="Pdf" />
-<a href="{{ site.baseurl }}/images/DanImAikido.jpg" download="DanImAikido.jpg">"Dan" im Aikido</a>
+<a href="{{ site.baseurl }}/images/DanImAikido.jpg" download="DanImAikido.jpg">5. "Dan" im Aikido</a>
 <a href="{{ site.baseurl }}/images/DanImAikido.jpg" download="DanImAikido.jpg">Download</a>
 </li>
 </ul>
