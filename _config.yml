@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   (8. Dan Aikikai) wir arbeiten eng mit seinem Schüler Stéphane Goffin 
   (6. Dan Aikikai) zusammen.
 
-baseurl: "/aikinomichi-linz" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
