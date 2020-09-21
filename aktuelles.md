@@ -8,7 +8,7 @@ title: Aktuelles
 
 ### 2020
 
-* **1. Oktober** - Training von 17:00 - 19:00 im BRG Solar City
+* **1., 8. und 15. Oktober** - Basis-Training von 17:00 - 19:00 im BRG Solar City
 * **14. September** - Trainingsbetrieb nach Sommertraining wird im BRG Solar City wieder aufgenommen
 * **13. Juli** - Sommertraining im Sportpark Lissfeld
 * **8. Juni** - Eingeschränkter Trainingsbetreib im BRG Solar City wird wieder aufgenommen
