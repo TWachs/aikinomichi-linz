@@ -8,7 +8,9 @@ title: Aktuelles
 
 ### 2020
 
-* **5. November** - Start eines zweiten Trainings pro Woche am Donnerstag im BRG Solar City
+* **3. Dezember** - Start eines fixen zweiten Trainings pro Woche am Donnerstag im BRG Solar City
+* **1. November** - kein Training im gesamten November aufgrund von "Corona"
+* **16. Oktober** - Aiki-no-michi Linz [Kansha Fest](https://www.facebook.com/aikinomichilinz/photos/pcb.2702514973296606/2702510259963744){:target="_blank"}
 * **1., 8. und 15. Oktober** - Basis-Training von 17:00 - 19:00 im BRG Solar City
 * **14. September** - Trainingsbetrieb nach Sommertraining wird im BRG Solar City wieder aufgenommen
 * **13. Juli** - Sommertraining im Sportpark Lissfeld
