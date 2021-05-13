@@ -6,6 +6,10 @@ title: Aktuelles
 
 <div class="container block" markdown="1">
 
+### 2021
+
+* **21. Mai** - Trainingsbetrieb wird wieder aufgenommen
+
 ### 2020
 
 * **1. November** - Trainingsbetrieb wird vorübergehend aufgrund von "Corona" eingestellt
