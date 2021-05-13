@@ -8,7 +8,7 @@ title: Aktuelles
 
 ### 2021
 
-* **21. Mai** - Trainingsbetrieb wird wieder aufgenommen
+* **20. Mai** - Trainingsbetrieb wird wieder aufgenommen
 
 ### 2020
 
