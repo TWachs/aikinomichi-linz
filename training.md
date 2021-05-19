@@ -7,7 +7,7 @@ title: Training
 <div class="row">
 <div class="col" markdown="1">
 # Wann und wo
-Aktuell wird ein Aikido-Training pro Woche angeboten. Dieses findet an zwei unterschiedlichen Orten statt, je nachdem ob wir Schulzeit oder Ferienzeit haben. Im [Trainings-Kalender]({{ site.baseurl }}/trainingsUndLehrgaenge) findest du Informationen über den Trainingsort und die Trainingszeiten. Bei Fragen kannst du uns gerne [kontaktieren](#kontaktPosition).
+Aktuell werden in der Schulzeit zwei Trainingseinheiten und in den Sommerferien eine Aikido-Trainingseinheit pro Woche angeboten. Diese findet an zwei unterschiedlichen Orten statt, je nachdem ob wir Schulzeit oder Ferienzeit haben. Im [Trainings-Kalender]({{ site.baseurl }}/trainingsUndLehrgaenge) findest du Informationen über den Trainingsort und die Trainingszeiten. Bei Fragen kannst du uns gerne [kontaktieren](#kontaktPosition).
 
 <div style="width: 100%; overflow: hidden; height: 480px;">
 <iframe src="https://www.google.com/maps/d/embed?mid=1OIoleZmsnFjgnRor_2qF2PnTd1qx9t9e" width="100%" height="780px" frameborder="0" style="margin-top: -50px;"></iframe>
