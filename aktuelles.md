@@ -8,6 +8,7 @@ title: Aktuelles
 
 ### 2021
 
+* **18. Juni** - Zweites Aiki-no-michi Linz [Ramen slurping](https://www.facebook.com/aikinomichilinz/photos/pcb.2896867920527976/2896864300528338){:target="_blank"}
 * **20. Mai** - Trainingsbetrieb wird wieder aufgenommen
 
 ### 2020
