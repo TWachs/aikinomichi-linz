@@ -8,6 +8,8 @@ title: Trainer
 <div class="row">
 <div class="col">
 <img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Martin.jpg" alt="Martin" />
+<p></p>
+<img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Martin2.jpg" alt="Martin" />
 </div>
 <div class="col-9" markdown="1">
 ## Martin Hölzl
