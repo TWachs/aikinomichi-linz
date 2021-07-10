@@ -16,9 +16,9 @@ Aktuell werden in der Schulzeit zwei Trainingseinheiten und in den Sommerferien 
 <iframe src="https://www.google.com/maps/d/embed?mid=1FaREw3yb-k2IqrDPJsFljkuYYraBZVYo" width="100%" height="780px" frameborder="0" style="margin-top: -50px;"></iframe>
 </div>
 
-
 | **BRG Solar City** | [Heliosallee 140-142, 4030 Linz](https://www.google.at/maps/dir//48.2552757,14.360738/@48.2552113,14.3599065,18z/data=!4m2!4m1!3e0?hl=de){:target="_blank"} | [Wegbeschreibung](https://www.google.at/maps/dir/48.2565,14.3621667/48.255253,14.3610156/@48.2559553,14.3599123,596m/am=t/data=!3m2!1e3!4b1){:target="_blank"} |
-| Sportpark Pichling | [Weikerlseestraße 73-75, 4030 Linz](https://goo.gl/maps/y5o5E9E66BfYRFrs6){:target="_blank"} | |
+| **Sportpark Pichling** | [Weikerlseestraße 73-75, 4030 Linz](https://goo.gl/maps/y5o5E9E66BfYRFrs6){:target="_blank"} | |
+
 <!--
 | **Sportpark Lissfeld** | [Hausleitnerweg 105, 4020 Linz](https://www.google.at/maps/place/Sportpark+Lissfeld/@48.2680788,14.2958579,17z/data=!4m5!3m4!1s0x0:0x5078978453af212!8m2!3d48.2680835!4d14.297656){:target="_blank"} | |
 -->
