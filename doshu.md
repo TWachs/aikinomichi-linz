@@ -18,9 +18,9 @@ Obwohl Aikido von Morihei Ueshiba begründet wurde, ist das Aikido wie wir es he
 <div class="row">
 <div class="col">
 <figure class="positionLeft">
-<img class="doshuImage" src="{{ site.baseurl }}/images/Kisshomaru_Ueshiba.jpg" alt="Kisshomaru Ueshiba" />
+<img class="doshuImage" src="{{ site.baseurl }}/images/Moriteru_Ueshiba.jpg" alt="Moriteru Ueshiba" />
 <figcaption>
-Kisshomaru Ueshiba (1921-1999)
+Moriteru Ueshiba<br />(1951-)
 </figcaption>
 </figure>
 </div>
@@ -34,9 +34,9 @@ Morihei Ueshiba<br/>(1883-1969)
 </div>
 <div class="col">
 <figure class="positionRight">
-<img class="doshuImage" src="{{ site.baseurl }}/images/Moriteru_Ueshiba.jpg" alt="Moriteru Ueshiba" />
+<img class="doshuImage" src="{{ site.baseurl }}/images/Kisshomaru_Ueshiba.jpg" alt="Kisshomaru Ueshiba" />
 <figcaption>
-Moriteru Ueshiba<br />(1951-)
+Kisshomaru Ueshiba (1921-1999)
 </figcaption>
 </figure>
 </div>
