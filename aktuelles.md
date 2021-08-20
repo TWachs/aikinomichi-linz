@@ -8,7 +8,7 @@ title: Aktuelles
 
 ### 2021
 
-* **18. September** - Shinsa Renshûkai
+* **18. September** - [Shinsa Renshûkai](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/2945594972321937/){:target="_blank"}
 * **16. August** - Gasttraining mit [Daniel Derflinger](https://www.facebook.com/100002455483738/videos/2778261658932323/){:target="_blank"}
 * **14. August** - Aiki-no-michi Linz [Wandertag](https://www.facebook.com/aikinomichilinz/photos/pcb.2941015092779925/2941013476113420/){:target="_blank"}
 * **12. Juli** - Sommertraining im Sportpark Pichling
