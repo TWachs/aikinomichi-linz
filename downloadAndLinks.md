@@ -25,8 +25,8 @@ title: Downloads & Links
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/pdf_icon.png" alt="Pdf" />
-<a href="{{ site.baseurl }}/downloads/Pruefungsprogramm_Rev0.pdf" download="Pruefungsprogramm_Rev0.pdf">Prüfungsprogramm</a>
-<a href="{{ site.baseurl }}/downloads/Pruefungsprogramm_Rev0.pdf" download="Pruefungsprogramm_Rev0.pdf">Download</a>
+<a href="{{ site.baseurl }}/downloads/Pruefungsprogramm_Rev1.pdf" download="Pruefungsprogramm_Rev1.pdf">Prüfungsprogramm</a>
+<a href="{{ site.baseurl }}/downloads/Pruefungsprogramm_Rev1.pdf" download="Pruefungsprogramm_Rev1.pdf">Download</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/pdf_icon.png" alt="Pdf" />
