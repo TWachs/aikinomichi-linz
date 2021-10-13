@@ -8,6 +8,8 @@ title: Aktuelles
 
 ### 2021
 
+* **14. Oktober** - ab 14. Oktober trainieren wir donnerstags bereits ab 19:00 
+* **9. Oktober** - Kurt Kermer besteht die Prüfung zum 1. Dan
 * **18. September** - [Shinsa Renshûkai](https://www.facebook.com/aikinomichilinz/photos/pcb.2973914229490011/2973907026157398){:target="_blank"}
 * **16. August** - Gasttraining mit [Daniel Derflinger](https://www.facebook.com/100002455483738/videos/2778261658932323/){:target="_blank"}
 * **14. August** - Aiki-no-michi Linz [Wandertag](https://www.facebook.com/aikinomichilinz/photos/pcb.2941015092779925/2941013476113420/){:target="_blank"}
