@@ -8,6 +8,7 @@ title: Aktuelles
 
 ### 2021
 
+* **22. November** - Trainingsbetrieb wird vorübergehend aufgrund von "Corona" eingestellt
 * **14. Oktober** - ab 14. Oktober trainieren wir donnerstags bereits ab 19:00 
 * **9. Oktober** - Kurt Kermer besteht die Prüfung zum 1. Dan
 * **18. September** - [Shinsa Renshûkai](https://www.facebook.com/aikinomichilinz/photos/pcb.2973914229490011/2973907026157398){:target="_blank"}
