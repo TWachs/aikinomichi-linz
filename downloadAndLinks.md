@@ -53,6 +53,11 @@ title: Downloads & Links
 <a href="{{ site.baseurl }}/downloads/Shinshun_no_gasshuku.pdf" download="Shinshun_no_gasshuku.pdf">Shinshun no gasshuku</a>
 <a href="{{ site.baseurl }}/downloads/Shinshun_no_gasshuku.pdf" download="Shinshun_no_gasshuku.pdf">Download</a>
 </li>
+<li>
+<img src="{{ site.baseurl }}/images/image_icon.png" alt="Pdf" />
+<a href="{{ site.baseurl }}/images/Aikido_als_Jungbrunnen-Informer-0421.jpg" download="Aikido_als_Jungbrunnen-Informer-0421.jpg">Aikido als Jungbrunnen</a>
+<a href="{{ site.baseurl }}/downloads/Aikido_als_Jungbrunnen-Informer-0421.jpg" download="Aikido_als_Jungbrunnen-Informer-0421.jpg">Download</a>
+</li>
 </ul>
 
 # Links
