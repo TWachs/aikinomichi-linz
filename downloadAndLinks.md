@@ -56,7 +56,7 @@ title: Downloads & Links
 <li>
 <img src="{{ site.baseurl }}/images/image_icon.png" alt="Pdf" />
 <a href="{{ site.baseurl }}/images/Aikido_als_Jungbrunnen-Informer-0421.jpg" download="Aikido_als_Jungbrunnen-Informer-0421.jpg">Aikido als Jungbrunnen</a>
-<a href="{{ site.baseurl }}/downloads/Aikido_als_Jungbrunnen-Informer-0421.jpg" download="Aikido_als_Jungbrunnen-Informer-0421.jpg">Download</a>
+<a href="{{ site.baseurl }}/images/Aikido_als_Jungbrunnen-Informer-0421.jpg" download="Aikido_als_Jungbrunnen-Informer-0421.jpg">Download</a>
 </li>
 </ul>
 
