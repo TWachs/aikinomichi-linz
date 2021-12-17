@@ -8,6 +8,7 @@ title: Aktuelles
 
 ### 2021
 
+* **20. Dezember** - Trainingsbetrieb wird wieder aufgenommen
 * **22. November** - Trainingsbetrieb wird vorübergehend aufgrund von "Corona" eingestellt
 * **14. Oktober** - ab 14. Oktober trainieren wir donnerstags bereits ab 19:00 
 * **9. Oktober** - Kurt Kermer besteht die Prüfung zum 1. Dan
