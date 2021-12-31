@@ -19,7 +19,7 @@ title: Aktuelles
 * **16. August** - Gasttraining mit [Daniel Derflinger](https://www.facebook.com/100002455483738/videos/2778261658932323/){:target="_blank"}
 * **14. August** - Aiki-no-michi Linz [Wandertag](https://www.facebook.com/aikinomichilinz/photos/pcb.2941015092779925/2941013476113420/){:target="_blank"}
 * **12. Juli** - Sommertraining im Sportpark Pichling
-* **18. Juni** - Zweites Aiki-no-michi Linz [Ramen slurping](https://www.facebook.com/aikinomichilinz/photos/pcb.2896867920527976/2896864300528338){:target="_blank"}
+* **18. Juni** - Zweites Aiki-no-michi Linz [Ramen Slurping](https://www.facebook.com/aikinomichilinz/photos/pcb.2896867920527976/2896864300528338){:target="_blank"}
 * **20. Mai** - Trainingsbetrieb wird wieder aufgenommen
 
 ### 2020
