@@ -6,6 +6,9 @@ title: Aktuelles
 
 <div class="container block" markdown="1">
 
+### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
+
+
 ### 2021
 
 * **20. Dezember** - Trainingsbetrieb wird wieder aufgenommen
