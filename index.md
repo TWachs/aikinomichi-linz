@@ -13,19 +13,19 @@ title: Aikido in Linz - Aiki-no-michi Linz
     </ol>
     <div class="carousel-inner" role="listbox">
         <!-- Slide One - Set the background image for this slide in the line below -->
-        <div class="carousel-item active" style="background-image: url('./images/SliderOne.jpg')">
+        <div class="carousel-item active" style="background-image: url('./images/Slider1.jpg')">
             <!--<div class="carousel-caption d-none d-md-block">
                 <h3>Third One</h3>
                 <p>This is a description for the third slide.</p>
             </div> -->
         </div>
-        <div class="carousel-item" style="background-image: url('./images/SliderTwo.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/Slider2.jpg')">
         </div>
-        <div class="carousel-item" style="background-image: url('./images/SliderThreeNew.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/Slider3.jpg')">
         </div>
-        <div class="carousel-item" style="background-image: url('./images/SliderFour.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/Slider4.jpg')">
         </div>
-        <div class="carousel-item" style="background-image: url('./images/SliderFive.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/Slider5.jpg')">
         </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
