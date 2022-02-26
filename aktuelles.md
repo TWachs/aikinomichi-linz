@@ -6,8 +6,11 @@ title: Aktuelles
 
 <div class="container block" markdown="1">
 
+[**I M A G E V I D E O**](https://www.youtube.com/watch?v=DrgovmdFho8){:target="_blank"}
+
 ### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
 
+* **22. Februar** - Aiki-no-michi Linz goes [Instagram](https://www.instagram.com/aikinomichilinz/){:target="_blank"}
 
 ### 2021
 
