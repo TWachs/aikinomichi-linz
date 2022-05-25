@@ -10,6 +10,10 @@ title: Aktuelles
 
 ### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
 
+* **3. Juli** - Aiki-no-michi Linz Wandertag
+* **6. Mai** - verspätete [Weihnachtsfeier](https://www.facebook.com/aikinomichilinz/photos/pcb.3144151759132923/3144149329133166/){:target="_blank"}
+* **14. April** - [Ei-kido](https://www.facebook.com/aikinomichilinz/photos/pcb.3127591917455574/3127590477455718/){:target="_blank"}
+* **28. Februar** - Rosenmontag mit [Krapfen](https://www.facebook.com/aikinomichilinz/photos/pcb.3093817634166336/3093817477499685/){:target="_blank"}
 * **22. Februar** - Aiki-no-michi Linz goes [Instagram](https://www.instagram.com/aikinomichilinz/){:target="_blank"}
 
 ### 2021
