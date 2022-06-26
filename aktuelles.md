@@ -10,6 +10,7 @@ title: Aktuelles
 
 ### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
 
+* **11. Juli** - Start Sommertraining im [Sportpark Pichling](https://www.livasport.at/sportparks/sportpark-pichling/){:target="_blank"} 
 * **3. Juli** - Aiki-no-michi Linz Wandertag
 * **6. Mai** - verspätete [Weihnachtsfeier](https://www.facebook.com/aikinomichilinz/photos/pcb.3144151759132923/3144149329133166/){:target="_blank"}
 * **14. April** - [Ei-kido](https://www.facebook.com/aikinomichilinz/photos/pcb.3127591917455574/3127590477455718/){:target="_blank"}
@@ -49,7 +50,7 @@ title: Aktuelles
 
 ### 2018
 
-* **17. Oktober** - der Aiki-no-michi Linz wird Schutzmitglied beim ASVÖ - Allgemeiner Sportverband OÖ
+* **17. Oktober** - der Aiki-no-michi Linz wird Schutzmitglied beim [ASVÖ](https://www.asvoe.at/de/asvoe/landesorganisationen/asvoe-oberoesterreich){:target="_blank"} - Allgemeiner Sportverband OÖ
 * **30. März** - Gründung des Vereins "Aikido-Verein Aiki-no-michi Linz"
 
 </div>
