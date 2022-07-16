@@ -11,8 +11,8 @@ title: Aktuelles
 ### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
 
 * **12. September** - Start des regulären Trainings nach den Sommerferien im BRG Solar City
-* **10. September** - Shinsa Renshukai (Tanto dori)
-* **11. Juli** - Start Sommertraining im [Sportpark Pichling](https://www.livasport.at/sportparks/sportpark-pichling/){:target="_blank"} 
+* **10. September** - [Shinsa Renshukai](https://www.facebook.com/photo/?fbid=448313660637184&set=a.441578571310693){:target="_blank"} (Tanto dori)
+* **11. Juli** - Start [Sommertraining](https://www.instagram.com/tv/Cf3plVrgYdo/?utm_source=ig_web_copy_link){:target="_blank"} im [Sportpark Pichling](https://www.livasport.at/sportparks/sportpark-pichling/){:target="_blank"} 
 * **3. Juli** - Aiki-no-michi Linz [Wandertag](https://www.facebook.com/aikinomichilinz/photos/pcb.3187675338113898/3187673444780754){:target="_blank"}
 * **6. Mai** - verspätete [Weihnachtsfeier](https://www.facebook.com/aikinomichilinz/photos/pcb.3144151759132923/3144149329133166/){:target="_blank"}
 * **14. April** - [Ei-kido](https://www.facebook.com/aikinomichilinz/photos/pcb.3127591917455574/3127590477455718/){:target="_blank"}
