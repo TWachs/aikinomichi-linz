@@ -10,7 +10,7 @@ title: Aktuelles
 
 ### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
 
-* **31. Oktober** - Halloween-Training
+* **31. Oktober** - [Halloween-Training](https://www.facebook.com/photo?fbid=538221621646387&set=pcb.538221754979707){:target="_blank"}
 * **12. September** - Start des regulären Trainings nach den Sommerferien im BRG Solar City
 * **10. September** - [Shinsa Renshukai](https://www.facebook.com/aikinomichilinz/videos/1253320941935632){:target="_blank"} (Tanto dori)
 * **11. Juli** - Start [Sommertraining](https://www.instagram.com/tv/Cf3plVrgYdo/?utm_source=ig_web_copy_link){:target="_blank"} im [Sportpark Pichling](https://www.livasport.at/sportparks/sportpark-pichling/){:target="_blank"} 
