@@ -11,7 +11,7 @@ title: Aktuelles
 ### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
 
 * **22. Dezember** - Weihnachtstraining
-* **2. Dezember** - Aiki-no-michi Linz Weihnachtsfeier 
+* **2. Dezember** - Aiki-no-michi Linz [Weihnachtsfeier](https://www.instagram.com/p/Cly0QbJI_Xk/?igshid=MDJmNzVkMjY=){:target="_blank"} 
 * **31. Oktober** - [Halloween-Training](https://www.facebook.com/photo?fbid=538221621646387&set=pcb.538221754979707){:target="_blank"}
 * **8. Oktober** - Paul Weingraber besteht die Prüfung zum 1. Dan
 * **12. September** - Start des regulären Trainings nach den Sommerferien im BRG Solar City
