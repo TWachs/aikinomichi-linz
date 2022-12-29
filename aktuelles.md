@@ -8,9 +8,13 @@ title: Aktuelles
 
 [**I M A G E V I D E O**](https://www.youtube.com/watch?v=DrgovmdFho8){:target="_blank"}
 
+### 2023 - das Jahr des Hasen
+
+* **7.-11. Juni** - Aikido goes [Männerfestival](https://www.maennerfestival.at/){:target="_blank"}
+
 ### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
 
-* **22. Dezember** - Weihnachtstraining
+* **22. Dezember** - [Weihnachtstraining](https://www.instagram.com/p/CmwQG7KIWy8/?igshid=MDJmNzVkMjY=){:target="_blank"}
 * **2. Dezember** - Aiki-no-michi Linz [Weihnachtsfeier](https://www.instagram.com/p/Cly0QbJI_Xk/?igshid=MDJmNzVkMjY=){:target="_blank"} 
 * **31. Oktober** - [Halloween-Training](https://www.facebook.com/photo?fbid=538221621646387&set=pcb.538221754979707){:target="_blank"}
 * **8. Oktober** - Paul Weingraber besteht die Prüfung zum 1. Dan
