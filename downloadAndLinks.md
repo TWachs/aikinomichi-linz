@@ -30,8 +30,8 @@ title: Downloads & Links
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/pdf_icon.png" alt="Pdf" />
-<a href="{{ site.baseurl }}/downloads/Statuten_20180410_Rev1.pdf" download="Statuten_Aiki-no-michi-Linz_20180410_Rev1.pdf">Statuten</a>
-<a href="{{ site.baseurl }}/downloads/Statuten_20180410_Rev1.pdf" download="Statuten_Aiki-no-michi-Linz_20180410_Rev1.pdf">Download</a>
+<a href="{{ site.baseurl }}/downloads/Statuten_20220420_Rev2.pdf" download="Statuten_20220420_Rev2.pdf">Statuten</a>
+<a href="{{ site.baseurl }}/downloads/Statuten_20220420_Rev2.pdf" download="Statuten_20220420_Rev2.pdf">Download</a>
 </li>
 </ul>
 
