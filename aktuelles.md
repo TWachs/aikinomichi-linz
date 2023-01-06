@@ -6,7 +6,7 @@ title: Aktuelles
 
 <div class="container block" markdown="1">
 
-[**I M A G E V I D E O**](https://www.youtube.com/watch?v=DrgovmdFho8){:target="_blank"}
+<iframe width="560" height="315" style="display:block; margin: 0 auto 30px auto;" src="https://www.youtube.com/embed/DrgovmdFho8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2023 - das Jahr des Hasen
 
