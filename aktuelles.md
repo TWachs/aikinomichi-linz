@@ -8,7 +8,7 @@ title: Aktuelles
 
 <iframe width="560" height="315" style="display:block; margin: 0 auto 30px auto;" src="https://www.youtube.com/embed/DrgovmdFho8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### 2023 - das Jahr des Hasen
+### 2023 - das Jahr des [Hasen](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
 
 * **7.-11. Juni** - Aikido goes [Männerfestival](https://www.maennerfestival.at/){:target="_blank"}
 
