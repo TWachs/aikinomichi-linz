@@ -11,6 +11,7 @@ title: Aktuelles
 ### 2023 - das Jahr des [Hasen](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
 
 * **7.-11. Juni** - Aikido goes [Männerfestival](https://www.maennerfestival.at/){:target="_blank"}
+* **20. Jänner** - [Kagami Biraki](https://www.facebook.com/photo/?fbid=10227713134121227&set=a.1955049403280){:target="_blank"}
 
 ### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
 
