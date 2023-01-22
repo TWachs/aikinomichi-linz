@@ -12,7 +12,7 @@ title: Aktuelles
 
 * **7.-11. Juni** - Aikido goes [Männerfestival](https://www.maennerfestival.at/){:target="_blank"}
 * **20. Februar** - Aikido am Rosenmontag
-* **20. Jänner** - [Kagami Biraki](https://www.facebook.com/photo/?fbid=10227713134121227&set=a.1955049403280){:target="_blank"}
+* **20. Jänner** - [Kagami Biraki](https://www.facebook.com/photo/?fbid=10227879238633736&set=pcb.10227879239073747){:target="_blank"}
 
 ### 2022 - das Jahr des [Tigers](https://www.facebook.com/aikinomichilinz/photos/a.1467842003430582/3048312818716818){:target="_blank"}
 
