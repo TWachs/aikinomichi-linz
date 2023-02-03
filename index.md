@@ -69,7 +69,7 @@ Was dich erwartet
 </div>
 <div class="col" markdown="1">
 # Technik
-Die [Bewegungen im Aikido](https://www.facebook.com/aikinomichilinz/videos/803720060692899){:target="_blank"} sind oft kreis- bzw. spiralförmig. Im Aikido lernt man, nicht _gegen_ die Angriffsenergie, sondern _mit_ der Angriffsenergie zu arbeiten und diese in eine kreisförmige Bewegung umzuwandeln. Man lernt Hebel, Fixierungen und Würfe, um Angriffe zu neutralisieren, ohne den Angreifer dabei zu verletzen. In der selben Weise wie man die Techniken lernt, lernt man auch die Fallschule, die es ermöglicht geworfen zu werden, ohne sich dabei zu verletzen. Durch kontinuierliches und **kooperatives Training** verbessert man seine Technik, ohne dass es dabei einen Sieger oder einen Verlierer gibt: die persönliche Entwicklung steht im Vordergrund!
+Die [Bewegungen im Aikido](https://www.facebook.com/aikinomichilinz/videos/803720060692899){:target="_blank"} sind oft kreis- bzw. spiralförmig. Im Aikido lernt man, nicht _gegen_ die Angriffsenergie, sondern _mit_ der Angriffsenergie zu arbeiten und diese in eine kreisförmige Bewegung umzuwandeln. Man lernt Hebel, Fixierungen und Würfe, um Angriffe zu neutralisieren, ohne den Angreifer dabei zu verletzen. In derselben Weise wie man die Techniken lernt, lernt man auch die Fallschule, die es ermöglicht geworfen zu werden, ohne sich dabei zu verletzen. Durch kontinuierliches und **kooperatives Training** verbessert man seine Technik, ohne dass es dabei einen Sieger oder einen Verlierer gibt: die persönliche Entwicklung steht im Vordergrund!
 </div>
 <div class="col" markdown="1">
 # Essenz
