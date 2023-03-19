@@ -11,7 +11,7 @@ title: Aktuelles
 ### 2023 - das Jahr des [Hasen](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
 
 * **7.-11. Juni** - Aiki-no-michi Linz goes [Männerfestival](https://www.maennerfestival.at/){:target="_blank"} - ein Fest von Männern für Männer. Unser Beitrag: ein [Aikidoworkshop](https://www.maennerfestival.at/aikido.html){:target="_blank"}
-* **10. April** - Ei-kido
+* **7. April** - Sushi-kido
 * **20. Februar** - Aikido am [Rosenmontag](https://www.facebook.com/photo/?fbid=638725011596047&set=pcb.638725098262705){:target="_blank"}
 * **20. Jänner** - [Kagami Biraki](https://www.facebook.com/photo/?fbid=10227879238633736&set=pcb.10227879239073747){:target="_blank"}
 
