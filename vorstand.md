@@ -39,7 +39,9 @@ Ich wurde 1985 in Linz geboren und habe in Salzburg Psychologie studiert. Seit 2
 </div>
 </div>
 <div class="row" style="padding-bottom: 50px;">
-<div class="col"></div>
+<div class="col">
+<img class="imageStyle" src="{{ site.baseurl }}/images/Paul.jpg" alt="Paul" />
+</div>
 <div class="col-9" markdown="1">
 ## Beirat
 
