@@ -11,8 +11,8 @@ title: Aktuelles
 ### 2023 - das Jahr des [Hasen](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
 
 * **29. September - 16. Oktober** - Reise nach Japan
-* **9. September** - Aiki-no-michi Linz Gasshuku (Ri-Ai)
-* **19. August** - Aiki-no-michi Linz Wandertag
+* **9. September** - Aiki-no-michi Linz [Gasshuku](https://www.facebook.com/photo?fbid=688399769961904&set=a.441578571310693){:target="_blank"} (Ri-Ai)
+* **19. August** - Aiki-no-michi Linz Wandertag ([Rosenhofrundweg](https://www.ausflugstipps.at/oesterreich-tour/detail/430001088/rosenhof-rundweg.html){:target="_blank"})
 * **7.-11. Juni** - Aiki-no-michi Linz goes [Männerfestival](https://www.maennerfestival.at/){:target="_blank"} - ein Fest von Männern für Männer. Unser Beitrag: ein [Aikidoworkshop](https://www.maennerfestival.at/aikido.html){:target="_blank"}
 * **7. April** - [Sushi-kido](https://www.facebook.com/photo/?fbid=674288198039728&set=pcb.674288271373054){:target="_blank"}
 * **20. Februar** - Aikido am [Rosenmontag](https://www.facebook.com/photo/?fbid=638725011596047&set=pcb.638725098262705){:target="_blank"}
