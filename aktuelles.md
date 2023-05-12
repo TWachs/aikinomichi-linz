@@ -14,6 +14,7 @@ title: Aktuelles
 * **9. September** - Aiki-no-michi Linz [Gasshuku](https://www.facebook.com/photo?fbid=688399769961904&set=a.441578571310693){:target="_blank"} (Ri-Ai)
 * **19. August** - Aiki-no-michi Linz Wandertag ([Rosenhofrundweg](https://www.ausflugstipps.at/oesterreich-tour/detail/430001088/rosenhof-rundweg.html){:target="_blank"})
 * **7.-11. Juni** - Aiki-no-michi Linz goes [Männerfestival](https://www.maennerfestival.at/){:target="_blank"} - ein Fest von Männern für Männer. Unser Beitrag: ein [Aikidoworkshop](https://www.maennerfestival.at/aikido.html){:target="_blank"}
+* **6. Mai** - Tamara Wachs besteht die Prüfung zum 2. Dan
 * **7. April** - [Sushi-kido](https://www.facebook.com/photo/?fbid=674288198039728&set=pcb.674288271373054){:target="_blank"}
 * **20. Februar** - Aikido am [Rosenmontag](https://www.facebook.com/photo/?fbid=638725011596047&set=pcb.638725098262705){:target="_blank"}
 * **20. Jänner** - [Kagami Biraki](https://www.facebook.com/photo/?fbid=10227879238633736&set=pcb.10227879239073747){:target="_blank"}
@@ -23,7 +24,7 @@ title: Aktuelles
 * **22. Dezember** - [Weihnachtstraining](https://www.instagram.com/p/CmwQG7KIWy8/?igshid=MDJmNzVkMjY=){:target="_blank"}
 * **2. Dezember** - Aiki-no-michi Linz [Weihnachtsfeier](https://www.instagram.com/p/Cly0QbJI_Xk/?igshid=MDJmNzVkMjY=){:target="_blank"} 
 * **31. Oktober** - [Halloween-Training](https://www.facebook.com/photo?fbid=538221621646387&set=pcb.538221754979707){:target="_blank"}
-* **8. Oktober** - Paul Weingraber besteht die Prüfung zum 1. Dan
+* **8. Oktober** - Paul Weingraber besteht die Prüfung zum [1. Dan](https://www.facebook.com/photo?fbid=6113467595415998&set=pcb.6113469222082502){:target="_blank"}
 * **12. September** - Start des regulären Trainings nach den Sommerferien im BRG Solar City
 * **10. September** - [Shinsa Renshukai](https://www.facebook.com/aikinomichilinz/videos/1253320941935632){:target="_blank"} (Tanto dori)
 * **11. Juli** - Start [Sommertraining](https://www.instagram.com/tv/Cf3plVrgYdo/?utm_source=ig_web_copy_link){:target="_blank"} im [Sportpark Pichling](https://www.livasport.at/sportparks/sportpark-pichling/){:target="_blank"} 
