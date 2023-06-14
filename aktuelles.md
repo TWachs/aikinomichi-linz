@@ -13,8 +13,8 @@ title: Aktuelles
 * **29. September - 16. Oktober** - Reise nach Japan
 * **9. September** - Aiki-no-michi Linz [Gasshuku](https://www.facebook.com/photo?fbid=688399769961904&set=a.441578571310693){:target="_blank"} (Ri-Ai)
 * **19. August** - Aiki-no-michi Linz Wandertag ([Rosenhofrundweg](https://www.ausflugstipps.at/oesterreich-tour/detail/430001088/rosenhof-rundweg.html){:target="_blank"})
-* **17. Juli - 20. August: Sommerpause - kein Aikido-Training
-* **8. Juli* - Feier des 5. Geburtstags von Aiki-no-michi Linz
+* **17. Juli - 20. August** - Sommerpause - kein Aikido-Training
+* **8. Juli** - Feier des 5. Geburtstags von Aiki-no-michi Linz
 * **7.-11. Juni** - Aiki-no-michi Linz goes [Männerfestival](https://www.maennerfestival.at/){:target="_blank"} - ein Fest von Männern für Männer. Unser Beitrag: ein [Aikidoworkshop](https://www.maennerfestival.at/aikido.html){:target="_blank"}
 * **6. Mai** - Tamara Wachs besteht die Prüfung zum 2. Dan
 * **7. April** - [Sushi-kido](https://www.facebook.com/photo/?fbid=674288198039728&set=pcb.674288271373054){:target="_blank"}
