@@ -15,7 +15,7 @@ title: Aktuelles
 * **19. August** - Aiki-no-michi Linz Wandertag ([Rosenhofrundweg](https://www.ausflugstipps.at/oesterreich-tour/detail/430001088/rosenhof-rundweg.html){:target="_blank"})
 * **4. August** - Gasttraining bei Mayr Michael
 * **17. Juli - 20. August** - Sommerpause - kein Aikido-Training
-* **15. Juli** - ASVÖ Ehrenamtstag
+* **15. Juli** - [ASVÖ Ehrenamtstag](https://www.facebook.com/photo?fbid=746198400848707&set=pcb.746199180848629){:target="_blank"}
 * **8. Juli** - Feier des [5. Geburtstags von Aiki-no-michi Linz](https://www.facebook.com/photo?fbid=741040454697835&set=pcb.741044591364088){:target="_blank"}
 * **7.-11. Juni** - Aiki-no-michi Linz goes [Männerfestival](https://www.maennerfestival.at/){:target="_blank"} - ein Fest von Männern für Männer. Unser Beitrag: ein [Aikidoworkshop](https://www.maennerfestival.at/aikido.html){:target="_blank"}
 * **6. Mai** - Tamara Wachs besteht die Prüfung zum 2. Dan
