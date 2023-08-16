@@ -13,6 +13,7 @@ title: Aktuelles
 * **29. September - 16. Oktober** - Reise nach Japan
 * **9. September** - Aiki-no-michi Linz [Gasshuku](https://www.facebook.com/photo?fbid=688399769961904&set=a.441578571310693){:target="_blank"} (Ri-Ai)
 * **19. August** - Aiki-no-michi Linz Wandertag ([Rosenhofrundweg](https://www.ausflugstipps.at/oesterreich-tour/detail/430001088/rosenhof-rundweg.html){:target="_blank"})
+* **13. August** - Karl Holaubeck besteht die Prüfung zum 1. Dan
 * **4. August** - [Gasttraining](https://www.facebook.com/photo?fbid=111628922025535&set=pcb.111629042025523){:target="_blank"} im Dojo [Ji An Kan](https://www.facebook.com/profile.php?id=100095352828706){:target="_blank"}
 * **17. Juli - 20. August** - Sommerpause - kein Aikido-Training
 * **15. Juli** - [ASVÖ Ehrenamtstag](https://www.facebook.com/photo?fbid=746198400848707&set=pcb.746199180848629){:target="_blank"}
