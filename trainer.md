@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trainer
+title: Trainer / Sempai
 ---
 
 
@@ -28,4 +28,23 @@ Durch Tissier Sensei habe ich auch Kontakt zu den Techniken des **Kashima Shinry
 Um mit [**Tissier Sensei**](https://www.youtube.com/watch?v=8yjp8YgHqB0){:target="_blank"} und vor allem seinem Schüler [**Stéphane Goffin Sensei**](https://www.youtube.com/watch?v=nt9jrpoq2jU){:target="_blank"} enger zusammenarbeiten zu können, war es vonnöten, dass ich politisch alle Verbindungen zu anderen Shihans löse – daher wurde der Aikido Verein Aiki-no-michi Linz im April 2018 aus der Taufe gehoben. 2020 bekam ich auf Empfehlung von Tissier Sensei den 5. Dan im Aikido.
 </div>
 </div>
+
+<div class="row">
+<div class="col">
+<img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Tamara1.jpg" alt="Tamara" />
+<p></p>
+<img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Tamara2.jpg" alt="Tamara" />
+</div>
+<div class="col-9" markdown="1">
+## Tamara Wachs
+
+**2. Dan Aikido (Aikikai)**   
+Meine ersten Erfahrungen mit Kampfkünsten und Selbstverteidigung habe ich im Alter von ca. 15 Jahren gemacht. Damals trainierte ich “Special Concept Defence” mit Schwerpunkt Wing Tsun für ca. zweieinhalb Jahre. Eine Verletzung am Handgelenk machte aber die Fortführung des Training (vor allem Schläge) unmöglich. Nachdem auch drei Operationen und Ergotherapie am Handgelenk die ursprüngliche Belastbarkeit nicht wieder herstellen konnten, folgte gezwungenermaßen eine mehrjährige Pause. 
+
+Mein Wunsch eine Kampfkunst zu betreiben, in der ich mich körperlich und geistig weiterentwickeln konnte, blieb aber bestehen. Es musste aber eine Kampfkunst sein, wo Rücksicht auf mein Handgelenk möglich war. So habe ich 2014 mit der japanischen Kampfkunst **Aikido** begonnen und es war schnell klar, dass Aikido für mich möglich ist: es gibt keinen Wettkampf, der Umgang im Training ist respektvoll, meine Grenzen bezüglich Handgelenk werden respektiert und akzeptiert.
+
+Ich habe in den ersten Jahren unterschiedliche Trainer und unterschiedliche Konzepte kennengelernt. Es war relativ schnell klar, dass bezüglich Logik und Aufbau die Unterrichtsweise von [**Tissier Sensei**](https://www.youtube.com/watch?v=8yjp8YgHqB0){:target="_blank"} die passende für mich ist. 2018 war ich daher Gründungsmitglied des Vereins Aiki-no-michi Linz, da dieser Verein eben dieser Schule folgen wollte. Seither besuche ich regelmäßig Lehrgänge von Tissier Sensei und vor allem von seinem Schüler [**Stéphane Goffin Sensei**](https://www.youtube.com/watch?v=nt9jrpoq2jU){:target="_blank"} im In- und Ausland. 2023 habe ich meine Prüfung zum Ni-dan bestanden.
+</div>
+</div>
+
 </div>
