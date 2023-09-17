@@ -11,7 +11,7 @@ title: Aktuelles
 ### 2023 - das Jahr des [Hasen](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
 
 * **29. September - 16. Oktober** - Reise nach Japan
-* **9. September** - Aiki-no-michi Linz [Gasshuku](https://www.facebook.com/photo/?fbid=787715990030281&set=pcb.787716370030243){:target="_blank"} (Ri-Ai)
+* **9. September** - Aiki-no-michi Linz [Gasshuku](https://www.facebook.com/aikinomichilinz/posts/pfbid02h3uExmt2SS96H3Wf4ogJ4xUqfntZpXGTMLjfSEhBR8QBqm356XXvkrE659ear5d1l){:target="_blank"} (Ri-Ai)
 * **19. August** - Aiki-no-michi Linz Wandertag ([Rosenhofrundweg](https://www.facebook.com/photo/?fbid=768551938613353&set=pcb.768552838613263){:target="_blank"})
 * **13. August** - Karl Holaubeck besteht die [Prüfung](https://www.facebook.com/photo/?fbid=766160435519170&set=a.441578571310693){:target="_blank"} zum 1. Dan
 * **4. August** - [Gasttraining](https://www.facebook.com/photo?fbid=111628922025535&set=pcb.111629042025523){:target="_blank"} im Dojo [Ji An Kan](https://www.facebook.com/profile.php?id=100095352828706){:target="_blank"}
