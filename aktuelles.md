@@ -14,7 +14,7 @@ title: Aktuelles
 ### 2023 - das Jahr des [Hasen](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
 
 * **8. Dezember** - Weihnachtsfeier im [Fika](https://fika-linz.eatbu.com/?lang=de){:target="_blank"}
-* **29. September - 16. Oktober** - Reise nach Japan und Besuch von [Aikido-Kyoto](https://www.aikidokyoto.com/en){:target="_blank"} - anbei einige Impressionen [1](https://www.facebook.com/photo/?fbid=814682494000297&set=pcb.814683337333546){:target="_blank"} [2](https://www.facebook.com/photo/?fbid=814685274000019&set=pcb.814685350666678){:target="_blank"}
+* **29. September - 16. Oktober** - Reise nach Japan und Besuch von [Aikido-Kyoto](https://www.aikidokyoto.com/en){:target="_blank"} - anbei einige Impressionen [(1)](https://www.facebook.com/photo/?fbid=814682494000297&set=pcb.814683337333546){:target="_blank"} [(2)](https://www.facebook.com/photo/?fbid=814685274000019&set=pcb.814685350666678){:target="_blank"}
 * **9. September** - Aiki-no-michi Linz [Gasshuku](https://www.facebook.com/aikinomichilinz/posts/pfbid02h3uExmt2SS96H3Wf4ogJ4xUqfntZpXGTMLjfSEhBR8QBqm356XXvkrE659ear5d1l){:target="_blank"} (Ri-Ai)
 * **19. August** - Aiki-no-michi Linz Wandertag ([Rosenhofrundweg](https://www.facebook.com/photo/?fbid=768551938613353&set=pcb.768552838613263){:target="_blank"})
 * **13. August** - Karl Holaubeck besteht die [Prüfung](https://www.facebook.com/photo/?fbid=766160435519170&set=a.441578571310693){:target="_blank"} zum 1. Dan
