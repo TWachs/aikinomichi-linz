@@ -9,7 +9,7 @@ title: Aktuelles
 <iframe width="560" height="315" style="display:block; margin: 0 auto 30px auto;" src="https://www.youtube.com/embed/DrgovmdFho8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2024 - das Jahr des Drachen
-* **29. Mai - 2. Juni** - [Männerfest 2024](https://www.maennerfestival.at/festival.html){:target="_blank"} - Workshop Schwertarbeit
+* **29. Mai - 2. Juni** - [Männerfest 2024](https://www.maennerfestival.at/festival.html){:target="_blank"} - Workshop [Schwertarbeit](https://www.maennerfestival.at/japanische-schwertarbeit.html){:target="_blank"}
 * **5. Jänner** - Aiki-no-michi Linz - Ji An Kan - [Kagami Biraki](https://www.facebook.com/photo/?fbid=917215139835302&set=a.173888970834593){:target="_blank"}
 
 ### 2023 - das Jahr des [Hasen](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
