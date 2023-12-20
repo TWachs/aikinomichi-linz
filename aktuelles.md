@@ -15,7 +15,7 @@ title: Aktuelles
 
 ### 2023 - das Jahr des [Hasen](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
 
-* **18. Dezember** - Weihnachtstraining
+* **18. Dezember** - [Weihnachtstraining](https://www.facebook.com/photo/?fbid=850766070391939&set=pcb.850768587058354){:target="_blank"}
 * **8. Dezember** - [Weihnachtsfeier](https://www.facebook.com/photo/?fbid=842946447840568&set=pcb.842947737840439){:target="_blank"} im [Fika](https://fika-linz.eatbu.com/?lang=de){:target="_blank"}
 * **29. September - 16. Oktober** - Reise nach Japan und Besuch von [Aikido-Kyoto](https://www.aikidokyoto.com/en){:target="_blank"} - anbei einige Impressionen [(1)](https://www.facebook.com/photo/?fbid=814682494000297&set=pcb.814683337333546){:target="_blank"} [(2)](https://www.facebook.com/photo/?fbid=814685274000019&set=pcb.814685350666678){:target="_blank"} [(3)](https://www.facebook.com/photo/?fbid=816030163865530&set=pcb.816030960532117){:target="_blank"} [(4)](https://www.facebook.com/photo?fbid=818513933617153&set=pcb.818516103616936){:target="_blank"} [(5)](https://www.facebook.com/photo?fbid=824360219699191&set=pcb.824361063032440){:target="_blank"} [(6)](https://www.facebook.com/photo/?fbid=828575875944292&set=pcb.828576609277552){:target="_blank"}
 * **9. September** - Aiki-no-michi Linz [Gasshuku](https://www.facebook.com/aikinomichilinz/posts/pfbid02h3uExmt2SS96H3Wf4ogJ4xUqfntZpXGTMLjfSEhBR8QBqm356XXvkrE659ear5d1l){:target="_blank"} (Ri-Ai)
