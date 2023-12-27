@@ -16,7 +16,7 @@ Durch manche Aikido-Techniken werden auch **Meridian-Punkte** stimuliert. Das pr
 
 Tamura Sensei betont in einem seiner Bücher, dass man durch Aikido die Kontrolle über seinen Atem verbessert. Die **Atmung** spielt in allen traditionellen fernöstlichen Künsten, die sich mit dem Körper beschäftigen (Yoga, Qigong,...), eine zentrale Rolle. Der Begründer des Aikido, Morihei Ueshiba, ging sogar so weit, dass er behauptete "unlimited strength comes from breath power".
 
-Zu guter Letzt sein noch erwähnt, dass Aikido auch die **Resilienz** steigert. Eine japanische Redewendung drückt genau das aus:
+Zu guter Letzt sei noch erwähnt, dass Aikido auch die **Resilienz** steigert. Eine japanische Redewendung drückt genau das aus:
 <blockquote><p style="text-align:center;">„Banpen Fugyô“</p></blockquote>
 
 
