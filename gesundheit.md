@@ -20,6 +20,6 @@ Zu guter Letzt sein noch erwähnt, dass Aikido auch die **Resilienz** steigert. 
 <blockquote><p style="text-align:center;">„Banpen Fugyô“</p></blockquote>
 
 
-Wörtlich übersetzt heißt es 10.000 Veränderungen, keine Überraschung. Im Aikido-Training müssen wir uns ständig an unserem Partner-Gegner anpassen: der Angriff kann schnell oder langsam erfolgen, kraftvoll oder weich, unser Gegenüber kann größer oder kleiner sein als wir selber, kräftiger oder drahtiger. All diese Varianten müssen wir im Augenblick der Technik berücksichtigen – wenn man lange genug trainiert, dann überrascht einem nichts mehr. Man nimmt die Gegebenheiten so wie sie sind und adaptiert sich selber dazu – man wird resilient gegenüber Veränderungen.
+Wörtlich übersetzt heißt es 10.000 Veränderungen, keine Überraschung. Im Aikido-Training müssen wir uns ständig an unseren Partner-Gegner anpassen: der Angriff kann schnell oder langsam erfolgen, kraftvoll oder weich, unser Gegenüber kann größer oder kleiner sein, kräftiger oder drahtiger. All diese Varianten müssen wir im Augenblick der Technik berücksichtigen – wenn man lange genug trainiert, dann überrascht einem nichts mehr. Man nimmt die Gegebenheiten so wie sie sind und adaptiert sich selber dazu – man wird resilient gegenüber Veränderungen.
 
 </div>
