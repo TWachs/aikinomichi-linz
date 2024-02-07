@@ -108,5 +108,15 @@ title: Downloads & Links
 <a href="http://www.andersleben.at" target="blank">www.andersleben.at</a>
 <a href="http://www.andersleben.at" target="blank">Öffnen</a>
 </li>
+<li>
+<img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
+<a href="https://www.maennerfestival.at" target="blank">Männer-Festival</a>
+<a href="https://www.maennerfestival.at" target="blank">Öffnen</a>
+</li>
+<li>
+<img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
+<a href="https://www.mission-mann.eu/de/home.html" target="blank">Mission-Mann</a>
+<a href="https://www.mission-mann.eu/de/home.html" target="blank">Öffnen</a>
+</li>
 </ul>
 </div>
