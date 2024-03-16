@@ -11,7 +11,9 @@ title: Aktuelles
 ### 2024 - das Jahr des [Drachen](https://www.facebook.com/photo/?fbid=858191322982747&set=a.441578571310693&notif_id=1704027669781123&notif_t=feedback_reaction_generic&ref=notif){:target="_blank"}
 
 * **29. Mai - 2. Juni** - [Männerfest 2024](https://www.maennerfestival.at/festival.html){:target="_blank"} - Workshop [Schwertarbeit](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"}
-* **28. März** - Ei-kido am Gründonnerstag bei Aiki-no-michi Linz
+* **28. März** - Ei-kido am Gründonnerstag bei Aiki-no-michi Linz mit [Daniel Derflinger](https://www.facebook.com/daniel.derflinger){:target="_blank"} als Gasttrainer
+* **15. März** - [Vereins-Hoodies](https://www.facebook.com/photo?fbid=911502974318248&set=pcb.911504557651423){:target="_blank"}, bestickt mit unserem Logo von von [Druck und Faden](https://www.facebook.com/search/top?q=druck%20%26%20faden){:target="_blank"} wurden geliefert
+mit unserem Logo, sind fertig
 * **12. Februar** - [Rosenmontag](https://www.facebook.com/photo/?fbid=894601306008415&set=pcb.894601976008348){:target="_blank"} bei Aiki-no-michi Linz
 * **5. Jänner** - Aiki-no-michi Linz - Ji An Kan - [Kagami Biraki](https://www.facebook.com/photo/?fbid=917215139835302&set=a.173888970834593){:target="_blank"}
 
