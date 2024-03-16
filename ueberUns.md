@@ -5,14 +5,14 @@ title: Über Uns
 
 <div class="container block">
 <div class="row">
-<div class="col-9" markdown="1">Der Aikido-Verein Aiki-no-michi Linz wurde im April 2018 als unpolitischer, nicht religiöser und nicht auf Gewinn ausgerichteter Verein gegründet. Die Ziele des Vereins sind hauptsächlich die Förderung und Verbreitung der japanischen Kampfkunst Aikido im Sinne der [Aikikai Foundation](http://www.aikikai.or.jp/eng/){:target="_blank"}, der Weltzentrale des Aikikai-Aikidos in Tokio, sowie die Pflege der Beziehungen mit anderen Vereinen und Organisationen gleicher Zielsetzung.
+<div class="col-7" markdown="1">Der Aikido-Verein Aiki-no-michi Linz wurde im April 2018 als unpolitischer, nicht religiöser und nicht auf Gewinn ausgerichteter Verein gegründet. Die Ziele des Vereins sind hauptsächlich die Förderung und Verbreitung der japanischen Kampfkunst Aikido im Sinne der [Aikikai Foundation](http://www.aikikai.or.jp/eng/){:target="_blank"}, der Weltzentrale des Aikikai-Aikidos in Tokio, sowie die Pflege der Beziehungen mit anderen Vereinen und Organisationen gleicher Zielsetzung.
 
 Unser technischer Leiter ist [Christian Tissier Shihan](http://www.christiantissier.com){:target="_blank"} (8. Dan Aikikai) - wir arbeiten eng mit seinem Schüler [Stéphane Goffin Sensei](http://www.stephanegoffin.com){:target="_blank"} (6. Dan Aikikai) zusammen.
 
 Für weitere Informationen findest du in der Fußzeile die Kontaktdaten des Vereins.
 </div>
 <div class="col">
-<img class="imageStyleWaffen" src="{{ site.baseurl }}/images/Urkunde.png" alt="" />
+<img class="imageStyleUeberUns" src="{{ site.baseurl }}/images/UeberUns.jpg" alt="" />
 </div>
 </div>
 </div>
