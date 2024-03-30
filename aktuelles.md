@@ -13,7 +13,7 @@ title: Aktuelles
 * **7. September** - 3. Aiki-no-michi Linz Shinsa Renshukai
 * **22. Juni** - Aikido-Sommerfest im Dojo Ji-An-Kan
 * **29. Mai - 2. Juni** - [Männerfest 2024](https://www.maennerfestival.at/festival.html){:target="_blank"} - Workshop [Schwertarbeit](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"}
-* **28. März** - Ei-kido am Gründonnerstag bei Aiki-no-michi Linz mit [Daniel Derflinger](https://www.facebook.com/daniel.derflinger){:target="_blank"} als Gasttrainer
+* **28. März** - [Ei-kido](https://www.facebook.com/photo?fbid=922124529922759&set=pcb.922125089922703){:target="_blank"} am Gründonnerstag bei Aiki-no-michi Linz mit [Daniel Derflinger](https://www.facebook.com/daniel.derflinger){:target="_blank"} als Gasttrainer
 * **15. März** - [Vereins-Hoodies](https://www.facebook.com/photo?fbid=911502974318248&set=pcb.911504557651423){:target="_blank"}, bestickt mit unserem Logo von von [Druck und Faden](https://www.facebook.com/search/top?q=druck%20%26%20faden){:target="_blank"} wurden geliefert
 * **12. Februar** - [Rosenmontag](https://www.facebook.com/photo/?fbid=894601306008415&set=pcb.894601976008348){:target="_blank"} bei Aiki-no-michi Linz
 * **5. Jänner** - Aiki-no-michi Linz - Ji An Kan - [Kagami Biraki](https://www.facebook.com/photo/?fbid=917215139835302&set=a.173888970834593){:target="_blank"}
