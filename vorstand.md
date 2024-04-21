@@ -35,7 +35,7 @@ Ich wurde 1991 in Linz geboren und habe an der FH Oberösterreich Campus Hagenbe
 ## Fachwart
 
 **Angelika Lang**   
-Ich wurde 1985 in Linz geboren und habe in Salzburg Psychologie studiert. Seit 2012 arbeite ich mit Freude als Schulpsychologin im Bezirk Amstetten. Zur Zeit bin ich in Babypause.
+Ich wurde 1985 in Linz geboren und habe in Salzburg Psychologie studiert. Seit 2012 arbeite ich mit Freude als Schulpsychologin im Bezirk Amstetten.
 </div>
 </div>
 <div class="row" style="padding-bottom: 50px;">
