@@ -7,7 +7,7 @@ title: Training
 <div class="row">
 <div class="col" markdown="1">
 # Wann und wo
-Aktuell werden in der Schulzeit zwei Trainingseinheiten pro Woche (Montag und Donnerstag) im BRG Solar City angeboten. An schulfreien Tagen bzw. in den Ferienzeiten müssen wir die Turnhalle separat beantragen, daher kann nicht allgemein angegeben werden, wann wir trainieren können. Manchmal sind wir in den Ferienzeiten auch im Sportpark Pichling zum Trainieren. Der [Trainings-Kalender]({{ site.baseurl }}/trainingsUndLehrgaenge) ist aber nach bestem Wissen und Gewissen richtig und aktuell und beinhaltet sowohl Trainingsort als auch Trainingszeit. Im Zweifelsfall oder bei Fragen kannst du uns gerne [kontaktieren](#kontaktPosition).
+Aktuell werden in der Schulzeit zwei Trainingseinheiten pro Woche (Montag und Donnerstag) im BRG Solar City angeboten. An schulfreien Tagen bzw. in den Ferienzeiten müssen wir die Nutzung der Turnhalle separat beantragen, daher kann nicht allgemein angegeben werden, wann wir in dieser Zeit trainieren können. Manchmal sind wir in den Ferienzeiten auch im Sportpark Pichling zum Trainieren. Der [Trainings-Kalender]({{ site.baseurl }}/trainingsUndLehrgaenge) ist aber nach bestem Wissen und Gewissen richtig und aktuell und beinhaltet sowohl Trainingsort als auch Trainingszeit. Im Zweifelsfall oder bei Fragen kannst du uns gerne [kontaktieren](#kontaktPosition).
 
 <div style="width: 100%; overflow: hidden; height: 480px;">
 <!--
