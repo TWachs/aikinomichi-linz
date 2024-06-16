@@ -11,7 +11,7 @@ title: Aktuelles
 ### 2024 - das Jahr des [Drachen](https://www.facebook.com/photo/?fbid=858191322982747&set=a.441578571310693&notif_id=1704027669781123&notif_t=feedback_reaction_generic&ref=notif){:target="_blank"}
 
 * **2. Dezember** - Gasttraining mit Brigitte Prasek (6. Dan) und Bernhard Wardein (6. Dan) vom [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/){:target="_blank"} 
-* **7. September** - 3. Aiki-no-michi Linz Shinsa Renshukai
+* **7. September** - 3. Aiki-no-michi Linz [Shinsa Renshukai](https://www.facebook.com/photo/?fbid=1006464580910357&set=a.173888970834593){:target="_blank"} 
 * **22. Juni** - Aikido-Sommerfest im Dojo Ji-An-Kan
 * **29. Mai - 2. Juni** - [Männerfest 2024](https://www.maennerfestival.at/festival.html){:target="_blank"} - Workshop [Schwertarbeit](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"}
 * **28. März** - [Ei-kido](https://www.facebook.com/photo?fbid=922124529922759&set=pcb.922125089922703){:target="_blank"} am Gründonnerstag bei Aiki-no-michi Linz mit [Daniel Derflinger](https://www.facebook.com/daniel.derflinger){:target="_blank"} als Gasttrainer
