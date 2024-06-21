@@ -15,7 +15,7 @@ title: Trainer / Sempai
 ## Martin Hölzl
 
 **5. Dan Aikido (Aikikai), 4. Dan Iaido (Kyoshinryu-Iai Kempo)**   
-Im Alter von 7 Jahren habe ich begonnen **Judo** zu trainieren. Nachdem ich aber körperlich klein und auch zart gebaut bin, habe ich im Judo-Training sehr schnell feststellen müssen, dass 10 kg weniger Körpergewicht und ein halber Kopf Größenunterschied einen enormen Nachteil im Wettkampf darstellen. Der Wettkampf war also nichts für mich, Kampfkünste haben mich aber weiterhin fasziniert. Fast 10 Jahre später habe ich dann eine Vorführung der japanische Kampfkunst Aikido gesehen und habe gewusst, dass das die richtige Kampfkunst für mich ist.
+Im Alter von 7 Jahren habe ich begonnen **Judo** zu trainieren. Nachdem ich aber körperlich klein und auch zart gebaut bin, habe ich im Judo-Training sehr schnell feststellen müssen, dass 10 kg weniger Körpergewicht und ein halber Kopf Größenunterschied einen enormen Nachteil im Wettkampf darstellen. Der Wettkampf war also nichts für mich, Kampfkünste haben mich aber weiterhin fasziniert. Fast 10 Jahre später habe ich dann eine Vorführung der japanischen Kampfkunst Aikido gesehen und habe gewusst, dass das die richtige Kampfkunst für mich ist.
 
 So habe ich 1993 begonnen **Aikido** in Linz unter der Leitung von Thomas Hamberger und Georg Meindl zu trainieren. Damals war die österreichische Aikidolandschaft stark von **Tamura Sensei** und seinen Schülern geprägt. Natürlich gab es auch Lehrgänge mit anderen Aikidolehrern in Österreich, wie z. B. **Endo Sensei**, aber ich konnte nicht wirklich etwas mit diesem Aikidostil anfangen. Ich war jung, unerfahren, habe wenig verstanden aber viel trainiert und habe 1996 den Sho-dan (1. Dan) von Tamura Sensei erhalten. 
 
