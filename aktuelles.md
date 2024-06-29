@@ -12,7 +12,7 @@ title: Aktuelles
 
 * **2. Dezember** - Gasttraining mit Brigitte Prasek (6. Dan) und Bernhard Wardein (6. Dan) vom [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/){:target="_blank"} 
 * **7. September** - 3. Aiki-no-michi Linz [Shinsa Renshukai](https://www.facebook.com/photo/?fbid=1006464580910357&set=a.173888970834593){:target="_blank"} 
-* **22. Juni** - Aikido-Sommerfest im Dojo Ji-An-Kan
+* **22. Juni** - [Aikido-Sommerfest](https://www.facebook.com/photo?fbid=122154300854234000&set=pcb.122154300908234000){:target="_blank"} gemeinsam mit [Aikido Union Kremstal](https://www.facebook.com/profile.php?id=61557020004810){:target="_blank"} im Dojo Ji-An-Kan
 * **29. Mai - 2. Juni** - [Männerfest 2024](https://www.maennerfestival.at/festival.html){:target="_blank"} - Workshop [Schwertarbeit](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"}
 * **28. März** - [Ei-kido](https://www.facebook.com/photo?fbid=922124529922759&set=pcb.922125089922703){:target="_blank"} am Gründonnerstag bei Aiki-no-michi Linz mit [Daniel Derflinger](https://www.facebook.com/daniel.derflinger){:target="_blank"} als Gasttrainer
 * **15. März** - [Vereins-Hoodies](https://www.facebook.com/photo?fbid=911502974318248&set=pcb.911504557651423){:target="_blank"}, bestickt mit unserem Logo von von [Druck und Faden](https://www.facebook.com/search/top?q=druck%20%26%20faden){:target="_blank"} wurden geliefert
