@@ -51,7 +51,7 @@ Wir nutzen im Training besondere Anlässe, um die soziale Interaktion zwischen d
 **Willkommenskultur**
 Aikido zu erlernen ist wie eine neue Sprache zu erlernen. Dies erfordert (insbesondere anfangs) oft Geduld und viel Durchhaltevermögen. Unsere Trainer:innen und auch die anderen Mitglieder des Vereins sind stets bemüht, dies den neuen Interessenten zu vermitteln. Jede:r ist willkommen und soll sich wohlfühlen bei uns. 
 
-**Unsere Ziele und Beiträge als Verein**
+**Unsere Ziele und Beiträge**
 
 **Qualitätsstandard** 
 Da unsere Trainer:innen stets persönlich bemüht sind, ihre Techniken zu verbessern und sich selber weiterzuentwickeln, besuchen sie regelmäßig sowohl nationale und auch internationale Lehrgänge. Daraus resultierend wird im Verein ein qualitativ hochwertiger Unterricht abgehalten, der auf die verschiedenen Niveaus der Teilnehmer eingeht. Dies dient dazu, die Mitglieder unseres Vereins bestmöglich in ihrer Entwicklung zu unterstützen und zu fördern. 
