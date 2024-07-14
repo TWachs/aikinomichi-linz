@@ -10,12 +10,16 @@ title: Über Uns
 Unser technischer Leiter ist [Christian Tissier Shihan](http://www.christiantissier.com){:target="_blank"} (8. Dan Aikikai) - wir arbeiten eng mit seinem Schüler [Stéphane Goffin Sensei](http://www.stephanegoffin.com){:target="_blank"} (6. Dan Aikikai) zusammen.
 
 Für weitere Informationen findest du in der Fußzeile die Kontaktdaten des Vereins.
+
+
 </div>
 <div class="col">
 <img class="imageStyleUeberUns" src="{{ site.baseurl }}/images/UeberUns.jpg" alt="" />
 </div>
 </div>
 </div>
+<div class="container block" markdown="1">
+
 **Unser Leitbild und unsere Idee von Aikido**
 
 Der Verein Aiki-no-michi Linz steht nicht nur für sportliche Betätigung und das Vermitteln von Kampfkunst-Techniken, sondern bietet auch Raum für **Persönlichkeitsentwicklung in einem geschützten Rahmen**. Da Aikido eine sanfte Kampfkunst ist, unterstützt unser Verein den Gedanken, dass sie allen Altersgruppen und Geschlechtern prinzipiell zugänglich sein sollte, körperliche und geistige Gesundheit vorausgesetzt. Unsere Vision beinhaltet auch das achtsame Eingehen auf individuelle Bedürfnisse für die optimale Entwicklung und Entfaltung. 
