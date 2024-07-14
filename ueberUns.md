@@ -53,6 +53,7 @@ Wir nutzen im Training besondere Anlässe, um die soziale Interaktion zwischen d
 **Willkommenskultur**<br>
 Aikido zu erlernen ist wie eine neue Sprache zu erlernen. Dies erfordert (insbesondere anfangs) oft Geduld und viel Durchhaltevermögen. Unsere Trainer:innen und auch die anderen Mitglieder des Vereins sind stets bemüht, dies den neuen Interessenten zu vermitteln. Jede:r ist willkommen und soll sich wohlfühlen bei uns. 
 
+<br>
 
 **Unsere Ziele und Beiträge**
 
