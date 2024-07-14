@@ -28,6 +28,7 @@ Daher ist es unser Wunsch und unsere Aufgabe, alle Praktizierenden dort abzuhole
 
 Im Vordergrund stehen für unseren Verein die Werte **Achtsamkeit**, **Respekt** und gegenseitige **Wertschätzung**. 
 
+
 **Unsere Werte und Überzeugungen**
 
 **Achtsamkeit**<br>
@@ -51,6 +52,7 @@ Wir nutzen im Training besondere Anlässe, um die soziale Interaktion zwischen d
 **Willkommenskultur**<br>
 Aikido zu erlernen ist wie eine neue Sprache zu erlernen. Dies erfordert (insbesondere anfangs) oft Geduld und viel Durchhaltevermögen. Unsere Trainer:innen und auch die anderen Mitglieder des Vereins sind stets bemüht, dies den neuen Interessenten zu vermitteln. Jede:r ist willkommen und soll sich wohlfühlen bei uns. 
 
+
 **Unsere Ziele und Beiträge**
 
 **Qualitätsstandard**<br> 
@@ -64,6 +66,4 @@ Es werden im Verein regelmäßig Prüfungen abgehalten. Die Prüfungskandidat:in
 
 **Gemeinschaftskultur**<br>
 Ein wichtiger Pfeiler des Vereins sind unsere gemeinsamen Aktivitäten auch außerhalb des Trainings und auch gemeinsam mit anderen Aikido-Vereinen (Wandertag, Kino-Abend, Weihnachtstraining, Sommertraining ...). 
-</div>
-</div>
 </div>
