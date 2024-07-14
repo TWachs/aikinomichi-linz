@@ -31,25 +31,25 @@ Im Vordergrund stehen für unseren Verein die Werte **Achtsamkeit**, **Respekt**
 **Unsere Werte und Überzeugungen**
 
 **Achtsamkeit**
-        ◦ Wir sind achtsam im Training. Achtsamkeit ist das nicht-bewertende Gewahrsein von dem, was jetzt gerade ist (wann und wo findet der Angriff statt, wie geht es mir dabei, wo ist meine Komfortzone, wo sind meine eigenen Grenzen, wo sind die Grenzen meines Übungspartners/meiner Übungspartnerin...)
+Wir sind achtsam im Training. Achtsamkeit ist das nicht-bewertende Gewahrsein von dem, was jetzt gerade ist (wann und wo findet der Angriff statt, wie geht es mir dabei, wo ist meine Komfortzone, wo sind meine eigenen Grenzen, wo sind die Grenzen meines Übungspartners/meiner Übungspartnerin...)
 
 **Respekt** 
-        ◦ Wir begegnen uns auf Augenhöhe. Wir respektieren im Training nicht nur unser Gegenüber und seine Grenzen, sondern auch uns selbst und  unsere Grenzen, sowie auch die japanischen Traditionen, aus denen Aikido sich entwickelt hat, insbesondere die Etikette und die Höflichkeit.
+Wir begegnen uns auf Augenhöhe. Wir respektieren im Training nicht nur unser Gegenüber und seine Grenzen, sondern auch uns selbst und  unsere Grenzen, sowie auch die japanischen Traditionen, aus denen Aikido sich entwickelt hat, insbesondere die Etikette und die Höflichkeit.
 
 **Wertschätzung**
-        ◦ Wir gehen wertschätzend miteinander um. Die philosophische Haltung, Konflikten nicht auszuweichen, sondern friedvoll zu lösen, üben wir im Training. Wir ermöglichen dieser wertschätzenden Einstellung dadurch, sich in den Alltag zu übertragen und das Leben zu bereichern. 
+Wir gehen wertschätzend miteinander um. Die philosophische Haltung, Konflikten nicht auszuweichen, sondern friedvoll zu lösen, üben wir im Training. Wir ermöglichen dieser wertschätzenden Einstellung dadurch, sich in den Alltag zu übertragen und das Leben zu bereichern. 
 
 Die wertschätzende Haltung im Aikido gepaart mit dem achtsamen Umgang mit uns selber und anderen Personen (auch einem Angreifer gegenüber) und dem Erlernen von Konfliktlösungsstrategien in Form von Kampfkunst-Techniken fördern das **Selbstvertrauen**.
 
 **Fördern des Gemeinschaftsgedankens** 
-        ◦ Aikido kann man nicht alleine trainieren, man braucht dazu immer einen Partner/eine Partnerin, der/die in kooperativer Art und Weise mit einem übt. 
-        ◦ Der Zusammenhalt der Aikido Gemeinschaft im Verein fördert das Gefühl der  Zusammengehörigkeit und des Selbstvertrauens. Wir sind keine Einzelkämpfer, sondern eine Gruppe, die sich gemeinsam entwickelt.
-        ◦ Durch ein stabiles und beständiges Trainerteam können alte wie neue Mitglieder auch nach längeren Trainingspausen wieder an einen sicheren Hafen andocken. 
-        ◦ Wir veranstalten regelmäßig gemeinsame Aktivitäten auch außerhalb des Trainings, die den Zusammenhalt fördern (Wandern, Weihnachtsfeier, Sommergrillerei …). Uns wird nicht fad. 😊
-        ◦ Wir nutzen im Training besondere Anlässe, um die soziale Interaktion zwischen den Mitgliedern zu fördern – so gibt es z. B. Faschingskrapfen am Rosenmontag, Ostereier zu Ostern, Kekse in der Weihnachtszeit ...
+Aikido kann man nicht alleine trainieren, man braucht dazu immer einen Partner/eine Partnerin, der/die in kooperativer Art und Weise mit einem übt. 
+Der Zusammenhalt der Aikido Gemeinschaft im Verein fördert das Gefühl der  Zusammengehörigkeit und des Selbstvertrauens. Wir sind keine Einzelkämpfer, sondern eine Gruppe, die sich gemeinsam entwickelt.
+Durch ein stabiles und beständiges Trainerteam können alte wie neue Mitglieder auch nach längeren Trainingspausen wieder an einen sicheren Hafen andocken. 
+Wir veranstalten regelmäßig gemeinsame Aktivitäten auch außerhalb des Trainings, die den Zusammenhalt fördern (Wandern, Weihnachtsfeier, Sommergrillerei …). Uns wird nicht fad. 😊
+Wir nutzen im Training besondere Anlässe, um die soziale Interaktion zwischen den Mitgliedern zu fördern – so gibt es z. B. Faschingskrapfen am Rosenmontag, Ostereier zu Ostern, Kekse in der Weihnachtszeit ...
 
 **Willkommenskultur**
-        ◦ Aikido zu erlernen ist wie eine neue Sprache zu erlernen. Dies erfordert (insbesondere anfangs) oft Geduld und viel Durchhaltevermögen. Unsere Trainer:innen und auch die anderen Mitglieder des Vereins sind stets bemüht, dies den neuen Interessenten zu vermitteln. Jede:r ist willkommen und soll sich wohlfühlen bei uns. 
+Aikido zu erlernen ist wie eine neue Sprache zu erlernen. Dies erfordert (insbesondere anfangs) oft Geduld und viel Durchhaltevermögen. Unsere Trainer:innen und auch die anderen Mitglieder des Vereins sind stets bemüht, dies den neuen Interessenten zu vermitteln. Jede:r ist willkommen und soll sich wohlfühlen bei uns. 
 
 **Unsere Ziele und Beiträge als Verein**
 
