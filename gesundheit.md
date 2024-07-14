@@ -6,7 +6,7 @@ title: Gesundheit
 
 <div class="container block" markdown="1">
 
-Ist Aikido gesundsheitsfördernd? Aikido ist eine wunderbare Schule für Körper und Geist - die psychischen und kognitiven Aspekte wie Stärkung des Selbstvertraunens, Fokussierung der Aufmerksamkeit, Verbesserung der Präsenz, ... sind ausführlich auf dieser Homepage im Teil ["Was ist Aikido"]({{ site.baseurl }}/aikido) angeführt. 
+Ist Aikido gesundheitsfördernd? Aikido ist eine wunderbare Schule für Körper und Geist - die psychischen und kognitiven Aspekte wie Stärkung des Selbstvertrauens, Fokussierung der Aufmerksamkeit, Verbesserung der Präsenz, ... sind ausführlich auf dieser Homepage im Teil ["Was ist Aikido"]({{ site.baseurl }}/aikido) angeführt. 
 
 Wie sieht es aber mit den physischen Aspekten aus? Durch Aikido wird die **Kernmuskulatur gestärkt** - es wirkt also in ähnlicher Weise wie ein _Core-Training_. Je nach Niveau der Praktizierenden, kann Aikido sehr anstrengend sein, und steigert somit die **Ausdauer** und wirkt sich positiv auf das Herz-Kreislauf-System aus. 
 
