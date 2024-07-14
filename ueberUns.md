@@ -30,20 +30,20 @@ Im Vordergrund stehen für unseren Verein die Werte **Achtsamkeit**, **Respekt**
 
 **Unsere Werte und Überzeugungen**
 
-**Achtsamkeit**<\br>
+**Achtsamkeit**<br>
 Wir sind achtsam im Training. Achtsamkeit ist das nicht-bewertende Gewahrsein von dem, was jetzt gerade ist (wann und wo findet der Angriff statt, wie geht es mir dabei, wo ist meine Komfortzone, wo sind meine eigenen Grenzen, wo sind die Grenzen meines Übungspartners/meiner Übungspartnerin...)
 
-**Respekt**<\br> 
+**Respekt** <br> 
 Wir begegnen uns auf Augenhöhe. Wir respektieren im Training nicht nur unser Gegenüber und seine Grenzen, sondern auch uns selbst und  unsere Grenzen, sowie auch die japanischen Traditionen, aus denen Aikido sich entwickelt hat, insbesondere die Etikette und die Höflichkeit.
 
-**Wertschätzung**</br>
+**Wertschätzung**<br>
 Wir gehen wertschätzend miteinander um. Die philosophische Haltung, Konflikten nicht auszuweichen, sondern friedvoll zu lösen, üben wir im Training. Wir ermöglichen dieser wertschätzenden Einstellung dadurch, sich in den Alltag zu übertragen und das Leben zu bereichern. 
 
 Die wertschätzende Haltung im Aikido gepaart mit dem achtsamen Umgang mit uns selber und anderen Personen (auch einem Angreifer gegenüber) und dem Erlernen von Konfliktlösungsstrategien in Form von Kampfkunst-Techniken fördern das **Selbstvertrauen**.
 
 **Fördern des Gemeinschaftsgedankens**</br> 
 Aikido kann man nicht alleine trainieren, man braucht dazu immer einen Partner/eine Partnerin, der/die in kooperativer Art und Weise mit einem übt.<\br>
-Der Zusammenhalt der Aikido Gemeinschaft im Verein fördert das Gefühl der  Zusammengehörigkeit und des Selbstvertrauens. Wir sind keine Einzelkämpfer, sondern eine Gruppe, die sich gemeinsam entwickelt.<\br>
+Der Zusammenhalt der Aikido Gemeinschaft im Verein fördert das Gefühl der  Zusammengehörigkeit und des Selbstvertrauens. Wir sind keine Einzelkämpfer, sondern eine Gruppe, die sich gemeinsam entwickelt. <br>
 Durch ein stabiles und beständiges Trainerteam können alte wie neue Mitglieder auch nach längeren Trainingspausen wieder an einen sicheren Hafen andocken.<\br>
 Wir veranstalten regelmäßig gemeinsame Aktivitäten auch außerhalb des Trainings, die den Zusammenhalt fördern (Wandern, Weihnachtsfeier, Sommergrillerei …). Uns wird nicht fad. 😊<\br>
 Wir nutzen im Training besondere Anlässe, um die soziale Interaktion zwischen den Mitgliedern zu fördern – so gibt es z. B. Faschingskrapfen am Rosenmontag, Ostereier zu Ostern, Kekse in der Weihnachtszeit ...
