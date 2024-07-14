@@ -62,7 +62,7 @@ Neben den normalen Trainingseinheiten veranstalten wir einerseits selber regelm�
 **Prüfungskultur**<br>
 Es werden im Verein regelmäßig Prüfungen abgehalten. Die Prüfungskandidat:innen werden bestmöglich auf die Prüfungen vorbereitet. Auch der Ablauf der Prüfungen und die dazugehörige Prüfungsetikette werden dabei vermittelt. 
 
-**Gemeinschaftskultur**</br>
+**Gemeinschaftskultur**<br>
 Ein wichtiger Pfeiler des Vereins sind unsere gemeinsamen Aktivitäten auch außerhalb des Trainings und auch gemeinsam mit anderen Aikido-Vereinen (Wandertag, Kino-Abend, Weihnachtstraining, Sommertraining ...). 
 </div>
 </div>
