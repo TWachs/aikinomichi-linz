@@ -41,25 +41,25 @@ Wir gehen wertschätzend miteinander um. Die philosophische Haltung, Konflikten 
 
 Die wertschätzende Haltung im Aikido gepaart mit dem achtsamen Umgang mit uns selber und anderen Personen (auch einem Angreifer gegenüber) und dem Erlernen von Konfliktlösungsstrategien in Form von Kampfkunst-Techniken fördern das **Selbstvertrauen**.
 
-**Fördern des Gemeinschaftsgedankens**</br> 
-Aikido kann man nicht alleine trainieren, man braucht dazu immer einen Partner/eine Partnerin, der/die in kooperativer Art und Weise mit einem übt.<\br>
+**Fördern des Gemeinschaftsgedankens**<br> 
+Aikido kann man nicht alleine trainieren, man braucht dazu immer einen Partner/eine Partnerin, der/die in kooperativer Art und Weise mit einem übt.<br>
 Der Zusammenhalt der Aikido Gemeinschaft im Verein fördert das Gefühl der  Zusammengehörigkeit und des Selbstvertrauens. Wir sind keine Einzelkämpfer, sondern eine Gruppe, die sich gemeinsam entwickelt. <br>
-Durch ein stabiles und beständiges Trainerteam können alte wie neue Mitglieder auch nach längeren Trainingspausen wieder an einen sicheren Hafen andocken.<\br>
-Wir veranstalten regelmäßig gemeinsame Aktivitäten auch außerhalb des Trainings, die den Zusammenhalt fördern (Wandern, Weihnachtsfeier, Sommergrillerei …). Uns wird nicht fad. 😊<\br>
+Durch ein stabiles und beständiges Trainerteam können alte wie neue Mitglieder auch nach längeren Trainingspausen wieder an einen sicheren Hafen andocken.<br>
+Wir veranstalten regelmäßig gemeinsame Aktivitäten auch außerhalb des Trainings, die den Zusammenhalt fördern (Wandern, Weihnachtsfeier, Sommergrillerei …). Uns wird nicht fad. 😊<br>
 Wir nutzen im Training besondere Anlässe, um die soziale Interaktion zwischen den Mitgliedern zu fördern – so gibt es z. B. Faschingskrapfen am Rosenmontag, Ostereier zu Ostern, Kekse in der Weihnachtszeit ...
 
-**Willkommenskultur**</br>
+**Willkommenskultur**<br>
 Aikido zu erlernen ist wie eine neue Sprache zu erlernen. Dies erfordert (insbesondere anfangs) oft Geduld und viel Durchhaltevermögen. Unsere Trainer:innen und auch die anderen Mitglieder des Vereins sind stets bemüht, dies den neuen Interessenten zu vermitteln. Jede:r ist willkommen und soll sich wohlfühlen bei uns. 
 
 **Unsere Ziele und Beiträge**
 
-**Qualitätsstandard**</br> 
+**Qualitätsstandard**<br> 
 Da unsere Trainer:innen stets persönlich bemüht sind, ihre Techniken zu verbessern und sich selber weiterzuentwickeln, besuchen sie regelmäßig sowohl nationale und auch internationale Lehrgänge. Daraus resultierend wird im Verein ein qualitativ hochwertiger Unterricht abgehalten, der auf die verschiedenen Niveaus der Teilnehmer eingeht. Dies dient dazu, die Mitglieder unseres Vereins bestmöglich in ihrer Entwicklung zu unterstützen und zu fördern. 
 
-**Seminare**</br>
+**Seminare**<br>
 Neben den normalen Trainingseinheiten veranstalten wir einerseits selber regelmäßig Seminare und Aikido-Events, andererseits besuchen wir auch Lehrgänge und Seminare von anderen Aikido-Vereinen. Hierzu sind sowohl Anfänger als auch Fortgeschrittene herzlich willkommen. Dies fördert sowohl die Freundschaften innerhalb des Vereins als auch die Freundschaften zwischen den Vereinen.
 
-**Prüfungskultur**</br>
+**Prüfungskultur**<br>
 Es werden im Verein regelmäßig Prüfungen abgehalten. Die Prüfungskandidat:innen werden bestmöglich auf die Prüfungen vorbereitet. Auch der Ablauf der Prüfungen und die dazugehörige Prüfungsetikette werden dabei vermittelt. 
 
 **Gemeinschaftskultur**</br>
