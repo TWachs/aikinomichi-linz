@@ -28,6 +28,7 @@ Daher ist es unser Wunsch und unsere Aufgabe, alle Praktizierenden dort abzuhole
 
 Im Vordergrund stehen für unseren Verein die Werte **Achtsamkeit**, **Respekt** und gegenseitige **Wertschätzung**. 
 
+<br>
 
 **Unsere Werte und Überzeugungen**
 
