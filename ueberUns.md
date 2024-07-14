@@ -65,3 +65,5 @@ Es werden im Verein regelmäßig Prüfungen abgehalten. Die Prüfungskandidat:in
 **Gemeinschaftskultur**
 Ein wichtiger Pfeiler des Vereins sind unsere gemeinsamen Aktivitäten auch außerhalb des Trainings und auch gemeinsam mit anderen Aikido-Vereinen (Wandertag, Kino-Abend, Weihnachtstraining, Sommertraining ...). 
 </div>
+</div>
+</div>
