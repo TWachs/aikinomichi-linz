@@ -16,10 +16,10 @@ Für weitere Informationen findest du in der Fußzeile die Kontaktdaten des Vere
 </div>
 </div>
 </div>
-Unser Leitbild und unsere Idee von Aikido
+**Unser Leitbild und unsere Idee von Aikido**
 
-Der Verein Aiki-no-michi Linz steht nicht nur für sportliche Betätigung und das Vermitteln von Kampfkunst-Techniken, sondern bietet auch Raum für Persönlichkeitsentwicklung in einem geschützten Rahmen. Da Aikido eine sanfte Kampfkunst ist, unterstützt unser Verein den Gedanken, dass sie allen Altersgruppen und Geschlechtern prinzipiell zugänglich sein sollte, körperliche und geistige Gesundheit vorausgesetzt. Unsere Vision beinhaltet auch das achtsame Eingehen auf individuelle Bedürfnisse für die optimale Entwicklung und Entfaltung. 
+Der Verein Aiki-no-michi Linz steht nicht nur für sportliche Betätigung und das Vermitteln von Kampfkunst-Techniken, sondern bietet auch Raum für **Persönlichkeitsentwicklung in einem geschützten Rahmen**. Da Aikido eine sanfte Kampfkunst ist, unterstützt unser Verein den Gedanken, dass sie allen Altersgruppen und Geschlechtern prinzipiell zugänglich sein sollte, körperliche und geistige Gesundheit vorausgesetzt. Unsere Vision beinhaltet auch das achtsame Eingehen auf individuelle Bedürfnisse für die optimale Entwicklung und Entfaltung. 
 
 Daher ist es unser Wunsch und unsere Aufgabe, alle Praktizierenden dort abzuholen, wo sie gerade im Leben stehen. Durch das regelmäßige Training und häufige Wiederholen der Techniken werden kontinuierlich Fortschritte erzielt. Der Verein bietet diesbezüglich einen sicheren und geschützten Rahmen, mit der Möglichkeit der Selbsterfahrung und persönlichen Weiterentwicklung in individuellem Tempo. 
 
-Im Vordergrund stehen für unseren Verein die Werte Achtsamkeit, Respekt und gegenseitige Wertschätzung. 
+Im Vordergrund stehen für unseren Verein die Werte **Achtsamkeit**, **Respekt** und gegenseitige **Wertschätzung**. 
