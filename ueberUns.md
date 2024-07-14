@@ -42,9 +42,9 @@ Wir gehen wertschätzend miteinander um. Die philosophische Haltung, Konflikten 
 Die wertschätzende Haltung im Aikido gepaart mit dem achtsamen Umgang mit uns selber und anderen Personen (auch einem Angreifer gegenüber) und dem Erlernen von Konfliktlösungsstrategien in Form von Kampfkunst-Techniken fördern das **Selbstvertrauen**.
 
 **Fördern des Gemeinschaftsgedankens** 
-Aikido kann man nicht alleine trainieren, man braucht dazu immer einen Partner/eine Partnerin, der/die in kooperativer Art und Weise mit einem übt. 
+Aikido kann man nicht alleine trainieren, man braucht dazu immer einen Partner/eine Partnerin, der/die in kooperativer Art und Weise mit einem übt.
 Der Zusammenhalt der Aikido Gemeinschaft im Verein fördert das Gefühl der  Zusammengehörigkeit und des Selbstvertrauens. Wir sind keine Einzelkämpfer, sondern eine Gruppe, die sich gemeinsam entwickelt.
-Durch ein stabiles und beständiges Trainerteam können alte wie neue Mitglieder auch nach längeren Trainingspausen wieder an einen sicheren Hafen andocken. 
+Durch ein stabiles und beständiges Trainerteam können alte wie neue Mitglieder auch nach längeren Trainingspausen wieder an einen sicheren Hafen andocken.
 Wir veranstalten regelmäßig gemeinsame Aktivitäten auch außerhalb des Trainings, die den Zusammenhalt fördern (Wandern, Weihnachtsfeier, Sommergrillerei …). Uns wird nicht fad. 😊
 Wir nutzen im Training besondere Anlässe, um die soziale Interaktion zwischen den Mitgliedern zu fördern – so gibt es z. B. Faschingskrapfen am Rosenmontag, Ostereier zu Ostern, Kekse in der Weihnachtszeit ...
 
