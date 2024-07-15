@@ -70,11 +70,6 @@ title: Downloads & Links
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="https://www.stenudd.com/aikido/aikido-stenudd.pdf" target="blank">Aikido – Stenudd Stefan [PDF]</a>
-<a href="https://www.stenudd.com/aikido/aikido-stenudd.pdf" target="blank">Öffnen</a>
-</li>
-<li>
-<img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
 <a href="http://www.aikikai.or.jp/eng/information/review.html" target="blank">Grading Examination System – Hombu Dojo [HTML]</a>
 <a href="http://www.aikikai.or.jp/eng/information/review.html" target="blank">Öffnen</a>
 </li>
