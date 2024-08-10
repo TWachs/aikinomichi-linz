@@ -8,9 +8,13 @@ title: Aktuelles
 
 <iframe width="560" height="315" style="display:block; margin: 0 auto 30px auto;" src="https://www.youtube.com/embed/DrgovmdFho8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### 2023 - das Jahr der Schlange
+* **10. Jänner" - Kagami Biraki
+
 ### 2024 - das Jahr des [Drachen](https://www.facebook.com/photo/?fbid=858191322982747&set=a.441578571310693&notif_id=1704027669781123&notif_t=feedback_reaction_generic&ref=notif){:target="_blank"}
 
 * **2. Dezember** - Gasttraining mit Brigitte Prasek (6. Dan) und Bernhard Wardein (6. Dan) vom [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/){:target="_blank"} 
+* **9. September** - Beginn des Anfängertrainings (jeden Montag um 18:30)
 * **7. September** - 3. Aiki-no-michi Linz [Shinsa Renshukai](https://www.facebook.com/photo/?fbid=1006464580910357&set=a.173888970834593){:target="_blank"} 
 * **22. Juni** - [Aikido-Sommerfest](https://www.facebook.com/photo?fbid=122154300854234000&set=pcb.122154300908234000){:target="_blank"} gemeinsam mit [Aikido Union Kremstal](https://www.facebook.com/profile.php?id=61557020004810){:target="_blank"} im Dojo Ji-An-Kan
 * **29. Mai - 2. Juni** - [Männerfest 2024](https://www.maennerfestival.at/festival.html){:target="_blank"} - Workshop [Schwertarbeit](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"}
