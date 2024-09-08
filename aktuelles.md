@@ -15,7 +15,7 @@ title: Aktuelles
 
 * **2. Dezember** - Gasttraining mit Brigitte Prasek (6. Dan) und Bernhard Wardein (6. Dan) vom [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/){:target="_blank"} 
 * **9. September** - Beginn des Anfängertrainings (jeden Montag um 18:30)
-* **7. September** - 3. Aiki-no-michi Linz [Shinsa Renshukai](https://www.facebook.com/photo/?fbid=1006464580910357&set=a.173888970834593){:target="_blank"} 
+* **7. September** - 3. Aiki-no-michi Linz [Shinsa Renshukai](https://www.instagram.com/p/C_qDaVOIg1F/?igsh=MWV6OHRieDdpZ25pcA==){:target="_blank"} - Jo-waza 
 * **24. August** - Aiki-no-michi Linz [Wandertag](https://www.facebook.com/photo/?fbid=1029010159234195&set=pcb.1029012219233989){:target="_blank"} im [Thurytal](https://freistadt.city/standort/thurytal/){:target="_blank"} bei Freistadt
 * **22. Juni** - [Aikido-Sommerfest](https://www.facebook.com/photo?fbid=122154300854234000&set=pcb.122154300908234000){:target="_blank"} gemeinsam mit [Aikido Union Kremstal](https://www.facebook.com/profile.php?id=61557020004810){:target="_blank"} im Dojo Ji-An-Kan
 * **29. Mai - 2. Juni** - [Männerfest 2024](https://www.maennerfestival.at/festival.html){:target="_blank"} - Workshop [Schwertarbeit](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"}
