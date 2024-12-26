@@ -15,7 +15,7 @@ title: Aikido in Linz - Aiki-no-michi Linz
     </ol>
     <div class="carousel-inner" role="listbox">
         <!-- Slide One - Set the background image for this slide in the line below -->
-        <div class="carousel-item active" style="background-image: url('./images/Slider/Vers3/Slider1_DSC01616.jpg')">
+        <div class="carousel-item active" style="background-image: url('./images/Slider/Vers3/Slider1_DSC01588.jpg')">
             <!--<div class="carousel-caption d-none d-md-block">
                 <h3>Third One</h3>
                 <p>This is a description for the third slide.</p>
@@ -23,15 +23,15 @@ title: Aikido in Linz - Aiki-no-michi Linz
         </div>
         <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider2_DSC01481-Edit.jpg')">
         </div>
-        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider3_DSC01605.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider3_DSC01616.jpg')">
         </div>
-        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider4_DSC01584-Edit.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider4_DSC01558-Edit.jpg')">
         </div>
-        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider5_DSC01623.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider5_DSC01605.jpg')">
         </div>
-        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider6_DSC01558-Edit.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider6_DSC01584-Edit.jpg')">
         </div>
-        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider7_DSC01588.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/Slider/Vers3/Slider7_DSC01623.jpg')">
         </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
