@@ -14,6 +14,7 @@ title: Aktuelles
 
 ### 2024 - das Jahr des [Drachen](https://www.facebook.com/photo/?fbid=858191322982747&set=a.441578571310693&notif_id=1704027669781123&notif_t=feedback_reaction_generic&ref=notif){:target="_blank"}
 
+* **26. Dezember** - die Titelseite der Homepage bekommt neue Fotos 
 * **7.Dezeber** - Weihnachtsfeier im [Ebi](https://www.ebi-vienna.at/home){:target="_blank"}
 * **2. Dezember** - Gasttraining mit Brigitte Prasek (6. Dan) und Bernhard Wardein (6. Dan) vom [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/){:target="_blank"} 
 * **9. September** - Beginn des Anfängertrainings (jeden Montag um 18:30)
