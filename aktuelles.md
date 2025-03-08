@@ -9,7 +9,7 @@ title: Aktuelles
 <iframe width="560" height="315" style="display:block; margin: 0 auto 30px auto;" src="https://www.youtube.com/embed/DrgovmdFho8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2025 - das Jahr der [Schlange](https://www.facebook.com/photo/?fbid=1132203962248147&set=a.441578571310693){:target="_blank"}
-* **6. September** - 4. Aiki-no-michi Linz Shinsa Renshukai - [Ranori](https://www.facebook.com/photo/?fbid=1174729291328947&set=a.441578571310693){:target="_blank"}
+* **6. September** - 4. Aiki-no-michi Linz Shinsa Renshukai - [Randori](https://www.facebook.com/photo/?fbid=1174729291328947&set=a.441578571310693){:target="_blank"}
 * **19. - 22. Juni** - Workshop ["Japanische Schwertarbeit"](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"} am [Männerfest 2025](https://www.maennerfestival.at/festival.html){:target="_blank"} 
 * **17. April** - Ei-kido mit Daniel Derflinger als Gasttrainer
 * **3. März** - [Rosenmontag](https://www.facebook.com/photo/?fbid=1187472893387920&set=pcb.1187473386721204){:target="_blank"}  bei Aiki-no-michi Linz mitKrapfen und [Handtücher](https://www.facebook.com/photo?fbid=1187473023387907&set=pcb.1187473386721204){:target="_blank"} 
