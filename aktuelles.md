@@ -11,8 +11,8 @@ title: Aktuelles
 ### 2025 - das Jahr der [Schlange](https://www.facebook.com/photo/?fbid=1132203962248147&set=a.441578571310693){:target="_blank"}
 * **6. September** - 4. Aiki-no-michi Linz Shinsa Renshukai - [Ranori](https://www.facebook.com/photo/?fbid=1174729291328947&set=a.441578571310693){:target="_blank"}
 * **19. - 22. Juni** - Workshop ["Japanische Schwertarbeit"](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"} am [Männerfest 2025](https://www.maennerfestival.at/festival.html){:target="_blank"} 
-* **17. April** - Ei-kido mit Daniel Derflinger als Gastttrainer
-* **3. März** - Rosenmontag bei Aiki-no-michi Linz
+* **17. April** - Ei-kido mit Daniel Derflinger als Gasttrainer
+* **3. März** - [Rosenmontag](https://www.facebook.com/photo/?fbid=1187472893387920&set=pcb.1187473386721204){:target="_blank"}  bei Aiki-no-michi Linz mitKrapfen und [Handtücher](https://www.facebook.com/photo?fbid=1187473023387907&set=pcb.1187473386721204){:target="_blank"} 
 * **9. Jänner** - [Kagami Biraki](https://www.instagram.com/p/DEtzIN4Iak6/?utm_source=ig_web_button_share_sheet&fbclid=IwY2xjawHwZZhleHRuA2FlbQIxMAABHThLZ9u4nC8rJWLtzyCYykURs55qepCa4rDj4jCdBjL7b1lZC2dw_f38ag_aem_CEpqNRSNSKzN4rJhkZ5oSw&img_index=1){:target="_blank"} gemeinsam mit [Aikido Union Kremstal](https://www.facebook.com/profile.php?id=61557020004810){:target="_blank"}
 
 ### 2024 - das Jahr des [Drachen](https://www.facebook.com/photo/?fbid=858191322982747&set=a.441578571310693&notif_id=1704027669781123&notif_t=feedback_reaction_generic&ref=notif){:target="_blank"}
