@@ -12,7 +12,7 @@ title: Aktuelles
 * **6. September** - 4. Aiki-no-michi Linz Shinsa Renshukai - [Randori](https://www.facebook.com/photo/?fbid=1174729291328947&set=a.441578571310693){:target="_blank"}
 * **30. Juni** - Gasttraining mit [Brigitte Prasek](https://www.facebook.com/brigitte.prasek){:target="_blank"}, [Berhard Wardein](https://www.facebook.com/bernhard.wardein){:target="_blank"} und [Andrei Polskii](https://www.facebook.com/andrey.polskiy){:target="_blank"} zum Sommerabschluss
 * **19. - 22. Juni** - Workshop ["Japanische Schwertarbeit"](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"} am [Männerfest 2025](https://www.maennerfestival.at/festival.html){:target="_blank"} 
-* **17. April** - Ei-kido mit Daniel Derflinger als Gasttrainer
+* **17. April** - Ei-kido mit [Daniel Derflinger](https://www.facebook.com/reel/1632790944023037){:target="_blank"} als Gasttrainer
 * **3. März** - [Rosenmontag](https://www.facebook.com/photo/?fbid=1187472893387920&set=pcb.1187473386721204){:target="_blank"}  bei Aiki-no-michi Linz mitKrapfen und [Handtücher](https://www.facebook.com/photo?fbid=1187473023387907&set=pcb.1187473386721204){:target="_blank"} 
 * **9. Jänner** - [Kagami Biraki](https://www.instagram.com/p/DEtzIN4Iak6/?utm_source=ig_web_button_share_sheet&fbclid=IwY2xjawHwZZhleHRuA2FlbQIxMAABHThLZ9u4nC8rJWLtzyCYykURs55qepCa4rDj4jCdBjL7b1lZC2dw_f38ag_aem_CEpqNRSNSKzN4rJhkZ5oSw&img_index=1){:target="_blank"} gemeinsam mit [Aikido Union Kremstal](https://www.facebook.com/profile.php?id=61557020004810){:target="_blank"}
 
