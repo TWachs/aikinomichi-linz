@@ -10,7 +10,7 @@ title: Aktuelles
 
 ### 2025 - das Jahr der [Schlange](https://www.facebook.com/photo/?fbid=1132203962248147&set=a.441578571310693){:target="_blank"}
 * **6. September** - 4. Aiki-no-michi Linz Shinsa Renshukai - [Randori](https://www.facebook.com/photo/?fbid=1174729291328947&set=a.441578571310693){:target="_blank"}
-* **9. August** - Paul Weingraber besteht die Prüfung zum 2. Dan
+* **9. August** - Paul Weingraber besteht die Prüfung zum [2. Dan](https://www.facebook.com/photo/?fbid=24125783083757840&set=a.834961483266662&notif_id=1754801156484925&notif_t=feedback_reaction_generic_tagged&ref=notif){:target="_blank"}
 * **30. Juni** - Gasttraining mit [Brigitte Prasek](https://www.facebook.com/brigitte.prasek){:target="_blank"}, [Berhard Wardein](https://www.facebook.com/bernhard.wardein){:target="_blank"} und [Andrei Polskii](https://www.facebook.com/andrey.polskiy){:target="_blank"} zum [Sommerabschluss](https://www.facebook.com/photo?fbid=1294359936032548&set=a.441578571310693){:target="_blank"}
 * **19. - 22. Juni** - Workshop ["Japanische Schwertarbeit"](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"} am [Männerfest 2025](https://www.maennerfestival.at/festival.html){:target="_blank"} 
 * **17. Mai** - Aiki-no-michi Linz wird Mitglied beim Aiki-no-michi Austria - Verband zur Förderung des Aikido
