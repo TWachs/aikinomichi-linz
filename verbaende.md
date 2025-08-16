@@ -20,6 +20,9 @@ Der Aiki-no-michi Linz ist Mitglied des Dachverbands [Allgemeiner Sportverband O
 </div>
 <div class="row">
 <div class="col-12" markdown="1">
+# Fachverband
+Der Aiki-no-michi Linz ist Mitglied des Fachverbands Aiki-no-michi Austria, Verband zur Förderung des Aikido. Der Overall Technical Advisor ist Christian Tisssier Shihan, der Technical Advisor ist Stéphane Goffin Sensei.
+
 # Hombu-Dojo
 
 Die Weltzentrale des Aikikai-Aikido ist das Hombu-Dojo in Tokio (Shinjuku-ku, Wakamatsu-cho). Es wurde 1931 von Morihei Ueshiba, dem Begründer des Aikido, unter dem Namen _Kobukan_ gegründet und wird derzeit von Moriteru Ueshiba, seinem Enkel geleitet. In den späten 1960er- und frühen 1970er-Jahren wurde das Hombu-Dojo modernisiert und renoviert. Im Hombu-Dojo gibt es jeden Tag Aikido-Training, das derzeit von ca. 20 verschiedenen Shihan geleitet wird.
