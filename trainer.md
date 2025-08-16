@@ -12,7 +12,7 @@ title: Trainer / Sempai
 <img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Martin2.jpg" alt="Martin" />
 </div>
 <div class="col-9" markdown="1">
-## Martin Hölzl
+## Martin Hölzl - Shidoin
 
 **5. Dan Aikido (Aikikai), 4. Dan Iaido (Kyoshinryu-Iai Kempo)**   
 Im Alter von 7 Jahren habe ich begonnen **Judo** zu trainieren. Nachdem ich aber körperlich klein und auch zart gebaut bin, habe ich im Judo-Training sehr schnell feststellen müssen, dass 10 kg weniger Körpergewicht und ein halber Kopf Größenunterschied einen enormen Nachteil im Wettkampf darstellen. Der Wettkampf war also nichts für mich, Kampfkünste haben mich aber weiterhin fasziniert. Fast 10 Jahre später habe ich dann eine Vorführung der japanischen Kampfkunst Aikido gesehen und habe gewusst, dass das die richtige Kampfkunst für mich ist.
@@ -36,7 +36,7 @@ Um mit [**Tissier Sensei**](https://www.youtube.com/watch?v=8yjp8YgHqB0){:target
 <img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Tamara2.jpg" alt="Tamara" />
 </div>
 <div class="col-9" markdown="1">
-## Tamara Wachs
+## Tamara Wachs - Fukoshidoin
 
 **2. Dan Aikido (Aikikai)**   
 Meine ersten Erfahrungen mit Kampfkünsten und Selbstverteidigung habe ich im Alter von ca. 15 Jahren gemacht. Damals trainierte ich “Special Concept Defence” mit Schwerpunkt Wing Tsun für ca. zweieinhalb Jahre. Eine Verletzung am Handgelenk machte aber die Fortführung des Training (vor allem Schläge) unmöglich. Nachdem auch drei Operationen und Ergotherapie am Handgelenk die ursprüngliche Belastbarkeit nicht wieder herstellen konnten, folgte gezwungenermaßen eine mehrjährige Pause. 
