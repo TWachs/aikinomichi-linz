@@ -21,7 +21,7 @@ Der Aiki-no-michi Linz ist Mitglied des Dachverbands [Allgemeiner Sportverband O
 <div class="row">
 <div class="col-12" markdown="1">
 # Fachverband
-Der Aiki-no-michi Linz ist Mitglied des Fachverbands Aiki-no-michi Austria, Verband zur Förderung des Aikido. Der Overall Technical Advisor ist Christian Tisssier Shihan, der Technical Advisor ist Stéphane Goffin Sensei.
+Der Aiki-no-michi Linz ist Mitglied des Fachverbands Aiki-no-michi Austria, Verband zur Förderung des Aikido. Der Overall Technical Advisor ist [Christian Tisssier Shihan](https://christiantissier.com/){:target="_blank"} , der Technical Advisor ist [Stéphane Goffin Sensei](https://www.stephanegoffin.com/english-stephane-goffin/){:target="_blank"} .
 
 # Hombu-Dojo
 
