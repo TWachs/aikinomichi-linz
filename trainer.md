@@ -43,8 +43,27 @@ Meine ersten Erfahrungen mit Kampfkünsten und Selbstverteidigung habe ich im Al
 
 Mein Wunsch eine Kampfkunst zu betreiben, in der ich mich körperlich und geistig weiterentwickeln konnte, blieb aber bestehen. Es musste aber eine Kampfkunst sein, wo Rücksicht auf mein Handgelenk möglich war. So habe ich 2014 mit der japanischen Kampfkunst **Aikido** begonnen und es war schnell klar, dass Aikido für mich möglich ist: es gibt keinen Wettkampf, der Umgang im Training ist respektvoll, meine Grenzen bezüglich Handgelenk werden respektiert und akzeptiert.
 
-Ich habe in den ersten Jahren unterschiedliche Trainer und unterschiedliche Konzepte kennengelernt. Es war relativ schnell klar, dass bezüglich Logik und Aufbau die Unterrichtsweise von [**Tissier Sensei**](https://www.youtube.com/watch?v=8yjp8YgHqB0){:target="_blank"} die passende für mich ist. 2018 war ich daher Gründungsmitglied des Vereins Aiki-no-michi Linz, da dieser Verein eben dieser Schule folgen wollte. Seither besuche ich regelmäßig Lehrgänge von Tissier Sensei und vor allem von seinem Schüler [**Stéphane Goffin Sensei**](https://www.youtube.com/watch?v=v6zHpNuHkYQ){:target="_blank"} im In- und Ausland. 2023 habe ich meine Prüfung zum Ni-dan bestanden.
+Ich habe in den ersten Jahren unterschiedliche Trainer und unterschiedliche Konzepte kennengelernt. Es war relativ schnell klar, dass bezüglich Logik und Aufbau die Unterrichtsweise von [**Tissier Sensei**](https://www.youtube.com/watch?v=8yjp8YgHqB0){:target="_blank"} die passende für mich ist. 2018 war ich daher Gründungsmitglied des Vereins Aiki-no-michi Linz, da dieser Verein eben dieser Schule folgen wollte. Seither besuche ich regelmäßig Lehrgänge von Christian Tissier Sensei und vor allem von seinem Schüler [**Stéphane Goffin Sensei**](https://www.youtube.com/watch?v=v6zHpNuHkYQ){:target="_blank"} im In- und Ausland. 2023 habe ich meine Prüfung zum Ni-dan bestanden.
 </div>
 </div>
 
+<div class="row">
+<div class="col">
+<img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Tamara1.jpg" alt="Tamara" />
+<p></p>
+<img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Tamara2.jpg" alt="Tamara" />
+</div>
+<div class="col-9" markdown="1">
+## Paul Weingraber - Fukoshidoin
+
+**2. Dan Aikido (Aikikai)**
+Meinen ersten Kontakt mit Kampfsport hatte ich im Alter von neun Jahren, als ich mit Judo begann. Nach zwei Jahren Training wäre es soweit gewesen, an Wettkämpfen teilzunehmen. Doch schon damals widerstrebte es mir, jemanden zu Boden ringen und besiegen zu müssen. So entschied ich mich, mit Judo aufzuhören und machte mich auf die Suche nach einer neuen Kampfkunst.
+
+So entdeckte ich Aikido für mich. Ich fand eine Kampfkunst, die durch ein kooperatives Training und ein gemeinsames Wachstum charakterisiert ist, was meiner persönlichen Einstellung mehr entsprach als der Wettkampf. Ich lebte damals im Zentrum von Linz, und meine erste Anlaufstelle war die Aikido-Schule Steingasse unter der Leitung von Georg Meindl. Später trainierte ich einige Jahre im Dojo von Sandra Jenner und Thomas Gattringer.  
+
+Auf einem Lehrgang im Jahr 2011 begegnete ich Martin Hölzl. Seine Präzision und Technik beeindruckten mich sofort. Schon bald beschloss ich, ihm und somit dem Lehrsystem von Christian Tissier Sensei zu folgen. Seithern fahre ich regelmäßig auf Lehrgänge von Stéphane Goffin Sensei, einem großartigen Lehrer und Schüler von Tissier Sensei, der mir stets viel wertvollen Input gab.
+
+2018 wurde schließlich der Verein Aiki-no-michi Linz gegründet, von dem ich Gründungsmitglied bin. Im Jahr 2025 legte ich erfolgreich meine Prüfung zum Ni-dan ab.
+
+Aikido bedeutet für mich ein lebenslanges Lernen – auf der Matte wie auch im Alltag.
 </div>
