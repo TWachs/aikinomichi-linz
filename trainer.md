@@ -56,13 +56,12 @@ Ich habe in den ersten Jahren unterschiedliche Trainer und unterschiedliche Konz
 <div class="col-9" markdown="1">
 ## Paul Weingraber - Fukoshidoin
 
-**2. Dan Aikido (Aikikai)**
-
+**2. Dan Aikido (Aikikai)**     
 Meinen ersten Kontakt mit Kampfsport hatte ich im Alter von neun Jahren, als ich mit Judo begann. Nach zwei Jahren Training wäre es soweit gewesen, an Wettkämpfen teilzunehmen. Doch schon damals widerstrebte es mir, jemanden zu Boden ringen und besiegen zu müssen. So entschied ich mich, mit Judo aufzuhören und machte mich auf die Suche nach einer neuen Kampfkunst.
 
-So entdeckte ich Aikido für mich. Ich fand eine Kampfkunst, die durch ein kooperatives Training und ein gemeinsames Wachstum charakterisiert ist, was meiner persönlichen Einstellung mehr entsprach als der Wettkampf. Ich lebte damals im Zentrum von Linz, und meine erste Anlaufstelle war die Aikido-Schule Steingasse unter der Leitung von Georg Meindl. Später trainierte ich einige Jahre im Dojo von Sandra Jenner und Thomas Gattringer.  
+So entdeckte ich **Aikido** für mich. Ich fand eine Kampfkunst, die durch ein kooperatives Training und ein gemeinsames Wachstum charakterisiert ist, was meiner persönlichen Einstellung mehr entsprach als der Wettkampf. Ich lebte damals im Zentrum von Linz, und meine erste Anlaufstelle war die Aikido-Schule Steingasse unter der Leitung von Georg Meindl. Später trainierte ich einige Jahre im Dojo von Sandra Jenner und Thomas Gattringer.  
 
-Auf einem Lehrgang im Jahr 2011 begegnete ich Martin Hölzl. Seine Präzision und Technik beeindruckten mich sofort. Schon bald beschloss ich, ihm und somit dem Lehrsystem von Christian Tissier Sensei zu folgen. Seithern fahre ich regelmäßig auf Lehrgänge von Stéphane Goffin Sensei, einem großartigen Lehrer und Schüler von Tissier Sensei, der mir stets viel wertvollen Input gab.
+Auf einem Lehrgang im Jahr 2011 begegnete ich **Martin Hölzl**. Seine Präzision und Technik beeindruckten mich sofort. Schon bald beschloss ich, ihm und somit dem Lehrsystem von **Christian Tissier Sensei** zu folgen. Seither fahre ich regelmäßig auf Lehrgänge von **Stéphane Goffin Sensei**, einem großartigen Lehrer und Schüler von Tissier Sensei, der mir stets viel wertvollen Input gab.
 
 2018 wurde schließlich der Verein Aiki-no-michi Linz gegründet, von dem ich Gründungsmitglied bin. Im Jahr 2025 legte ich erfolgreich meine Prüfung zum Ni-dan ab.
 
