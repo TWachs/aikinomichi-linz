@@ -51,6 +51,8 @@ Ich habe in den ersten Jahren unterschiedliche Trainer und unterschiedliche Konz
 <div class="col">
 <img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Paul_1.jpg" alt="Paul" />
 <p></p>
+<img class="imageStyleTrainer" src="{{ site.baseurl }}/images/A9_35053.jpg" alt="Paul" />
+<p></p>
 <img class="imageStyleTrainer" src="{{ site.baseurl }}/images/Paul_2.jpg" alt="Paul" />
 </div>
 <div class="col-9" markdown="1">
