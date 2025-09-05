@@ -24,7 +24,7 @@ title: Aktuelles
 * **3. März** - [Rosenmontag](https://www.facebook.com/photo/?fbid=1187472893387920&set=pcb.1187473386721204){:target="_blank"}  bei Aiki-no-michi Linz mit Krapfen und [Handtücher](https://www.facebook.com/photo?fbid=1187473023387907&set=pcb.1187473386721204){:target="_blank"} 
 * **9. Jänner** - [Kagami Biraki](https://www.instagram.com/p/DEtzIN4Iak6/?utm_source=ig_web_button_share_sheet&fbclid=IwY2xjawHwZZhleHRuA2FlbQIxMAABHThLZ9u4nC8rJWLtzyCYykURs55qepCa4rDj4jCdBjL7b1lZC2dw_f38ag_aem_CEpqNRSNSKzN4rJhkZ5oSw&img_index=1){:target="_blank"} gemeinsam mit [Aikido Union Kremstal](https://www.facebook.com/profile.php?id=61557020004810){:target="_blank"}
 
-### 2024 - das Jahr des [Drachen](https://www.facebook.com/photo/?fbid=858191322982747&set=a.441578571310693&notif_id=1704027669781123&notif_t=feedback_reaction_generic&ref=notif){:target="_blank"}
+### 2024 - das Jahr des [Drachens](https://www.facebook.com/photo/?fbid=858191322982747&set=a.441578571310693&notif_id=1704027669781123&notif_t=feedback_reaction_generic&ref=notif){:target="_blank"}
 
 * **26. Dezember** - die Titelseite der Homepage bekommt neue Fotos 
 * **7.Dezeber** - Weihnachtsfeier im [Ebi](https://www.ebi-vienna.at/home){:target="_blank"}
@@ -39,7 +39,7 @@ title: Aktuelles
 * **12. Februar** - [Rosenmontag](https://www.facebook.com/photo/?fbid=894601306008415&set=pcb.894601976008348){:target="_blank"} bei Aiki-no-michi Linz
 * **5. Jänner** - Aiki-no-michi Linz - Ji An Kan - [Kagami Biraki](https://www.facebook.com/photo/?fbid=917215139835302&set=a.173888970834593){:target="_blank"}
 
-### 2023 - das Jahr des [Hasen](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
+### 2023 - das Jahr des [Hasens](https://www.facebook.com/photo/?fbid=594639669337915&set=a.441578571310693){:target="_blank"}
 
 * **18. Dezember** - [Weihnachtstraining](https://www.facebook.com/photo/?fbid=850766070391939&set=pcb.850768587058354){:target="_blank"}
 * **8. Dezember** - [Weihnachtsfeier](https://www.facebook.com/photo/?fbid=842946447840568&set=pcb.842947737840439){:target="_blank"} im [Fika](https://fika-linz.eatbu.com/?lang=de){:target="_blank"}
