@@ -6,7 +6,12 @@ title: Aktuelles
 
 <div class="container block" markdown="1">
 
-<iframe width="560" height="315" style="display:block; margin: 0 auto 30px auto;" src="https://www.youtube.com/embed/DrgovmdFho8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+  <div class="video-thumbnail" id="video-thumbnail">
+    <img style="width: 560px; height: 315px; display:block; margin: 0 auto 30px auto;" src="{{ site.baseurl }}/images/youtube_imagevideo.png" alt="Anklicken um Image-Video abzuspielen">
+    <button class="play-btn">Bitte klicken damit das Viedeo geladen und abgespielt wird</button>
+  </div>
+</div>
 
 ### 2026 - das Jahr des Pferdes
 
@@ -109,3 +114,20 @@ title: Aktuelles
 * **30. März** - Gründung des Vereins "Aikido-Verein Aiki-no-michi Linz"
 
 </div>
+
+<script>
+    document.getElementById('video-thumbnail').addEventListener('click', function() {
+        // Create iframe when clicked
+        var iframe = document.createElement('iframe');
+        iframe.setAttribute('src', 'https://www.youtube.com/embed/DrgovmdFho8?autoplay=1&rel=0&modestbranding=1');
+        iframe.setAttribute('frameborder', '0');
+        iframe.setAttribute('allowfullscreen', 'false');
+        iframe.setAttribute('width', '560');
+        iframe.setAttribute('height', '315');
+        iframe.setAttribute('class', 'video-iframe');
+
+        // Replace thumbnail with iframe
+        this.innerHTML = '';
+        this.appendChild(iframe);
+    });
+</script>
