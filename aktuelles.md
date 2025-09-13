@@ -8,8 +8,8 @@ title: Aktuelles
 
 <div class="video-container">
   <div class="video-thumbnail" id="video-thumbnail">
-    <img style="width: 560px; height: 315px; display:block; margin: 0 auto 30px auto;" src="{{ site.baseurl }}/images/youtube_imagevideo.png" alt="Anklicken um Image-Video abzuspielen">
-    <button class="play-btn">Bitte klicken damit das Viedeo geladen und abgespielt wird</button>
+    <img src="{{ site.baseurl }}/images/CookieBlock/youtube_imagevideo.png" alt="Anklicken um Image-Video von Youtube zu laden und abzuspielen">
+    <button class="play-btn">Bitte klicken damit das Video geladen und abgespielt wird</button>
   </div>
 </div>
 

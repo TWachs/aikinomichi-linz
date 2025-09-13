@@ -9,12 +9,17 @@ title: Training
 # Wann und wo
 Aktuell werden in der Schulzeit zwei Trainingseinheiten pro Woche (Montag und Donnerstag) im BRG Solar City angeboten. An schulfreien Tagen bzw. in den Ferienzeiten müssen wir die Nutzung der Turnhalle separat beantragen, daher kann nicht allgemein angegeben werden, wann wir in dieser Zeit trainieren können. Manchmal sind wir in den Ferienzeiten auch im Sportpark Pichling zum Trainieren. Der [Trainings-Kalender]({{ site.baseurl }}/trainingsUndLehrgaenge) ist aber nach bestem Wissen und Gewissen richtig und aktuell und beinhaltet sowohl Trainingsort als auch Trainingszeit. Im Zweifelsfall oder bei Fragen kannst du uns gerne [kontaktieren](#kontaktPosition).
 
-<div style="width: 100%; overflow: hidden; height: 480px;">
-<!--
-<iframe src="https://www.google.com/maps/d/embed?mid=1OIoleZmsnFjgnRor_2qF2PnTd1qx9t9e" width="100%" height="780px" frameborder="0" style="margin-top: -50px;"></iframe>
--->
-<iframe src="https://www.google.com/maps/d/embed?mid=1FaREw3yb-k2IqrDPJsFljkuYYraBZVYo" width="100%" height="780px" frameborder="0" style="margin-top: -50px;"></iframe>
+<div class="map-container">
+  <div class="map-thumbnail" id="map-thumbnail">
+    <!-- Static Image Placeholder (You can choose your own) -->
+    <img src="{{ site.baseurl }}/images/CookieBlock/googlemaps.png" alt="Anklicken um Google Maps zu laden">
+    <button class="show-google-btn">Bitte hier klicken damit Google-Maps geladen wird</button>
+  </div>
 </div>
+<!--
+<div style="width: 100%; overflow: hidden; height: 480px;">
+<iframe src="https://www.google.com/maps/d/embed?mid=1FaREw3yb-k2IqrDPJsFljkuYYraBZVYo" width="100%" height="780px" frameborder="0" style="margin-top: -50px;"></iframe>
+</div>-->
 
 | **BRG Solar City** | [Heliosallee 140-142, 4030 Linz](https://www.google.at/maps/dir//48.2552757,14.360738/@48.2552113,14.3599065,18z/data=!4m2!4m1!3e0?hl=de){:target="_blank"} | [Wegbeschreibung](https://www.google.at/maps/dir/48.2565,14.3621667/48.255253,14.3610156/@48.2559553,14.3599123,596m/am=t/data=!3m2!1e3!4b1){:target="_blank"} |
 | **Sportpark Pichling** | [Weikerlseestraße 73-75, 4030 Linz](https://goo.gl/maps/y5o5E9E66BfYRFrs6){:target="_blank"} | |
@@ -50,3 +55,24 @@ Zum Abschluss des Aikido-Trainings verbeugen wir uns ebenfalls voreinander und s
 </div>
 </div>
 </div>
+
+<script>
+    document.getElementById('map-thumbnail').addEventListener('click', function() {
+        // Create iframe when clicked
+        var iframe = document.createElement('iframe');
+        iframe.setAttribute('src', 'https://www.google.com/maps/d/embed?mid=1FaREw3yb-k2IqrDPJsFljkuYYraBZVYo');  // Your My Maps ID
+        iframe.setAttribute('frameborder', '0');
+        iframe.setAttribute('width', '100%');
+        iframe.setAttribute('height', '580px');
+        iframe.setAttribute('class', 'map-iframe');
+
+        var div = document.createElement('div');
+        div.setAttribute('class', 'map-div');
+
+        div.appendChild(iframe);
+
+        // Replace thumbnail with iframe
+        this.innerHTML = '';
+        this.appendChild(div);
+    });
+</script>
