@@ -16,9 +16,11 @@ function checkCookieConsent() {
   console.log('is called');
   const cookieConsent = getCookie("cookieConsent");
   if (cookieConsent === "accepted") {
+      console.log('is accepted')
       // Hide the cookie banner if the user has already accepted
       document.getElementById("cookie-banner").style.display = "none";
   } else {
+      console.log('is not accepted')
       // Show the cookie banner if not accepted
       document.getElementById("cookie-banner").style.display = "block";
 
