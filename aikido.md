@@ -29,7 +29,7 @@ Eine Sache zum Wort „Ai“ sei hier noch angemerkt. Oft wird es mit „Harmoni
 In der japanischen Kultur steht „Ai“ aber oft für das Zusammenkommen von Elementen die komplementär sind, so wie zwei Zahnräder die ineinandergreifen oder ein Hammer und ein Nagel. Hammer und Nagel sind komplementär, sie können alleine ihre Aufgabe nicht erfüllen. Wenn die beiden aber **im richtigen Moment in der richtigen Art und Weise** zusammenkommen (so wie der Angriff und die Verteidigung im Aikido), dann wird der Nagel in das Holz getrieben, ohne verbogen zu werden und ohne dabei das Holz zu spalten, nicht zerstörerisch sondern zielgerichtet. Das ist „Ai“.
 
 Auch [Kanai Sensei](https://en.wikipedia.org/wiki/Mitsunari_Kanai){:target="_blank"} findet dafür sehr klare Worte in seinem [Technical Aikido](https://www.neaikikai.org/kanai-sensei){:target="_blank"}:
-<blockquote><p style="text-align:center;">"Harmony does not mean just getting along with people on the Basis of a lowest common denominator, or creating agreement without regard to rules in order to avoid confrontation and maintain an easy going or overly comfortable Environment."</p></blockquote>
+<blockquote><p style="text-align:center;">"Harmony does not mean just getting along with people on the basis of a lowest common denominator, or creating agreement without regard to rules in order to avoid confrontation and maintain an easy going or overly comfortable environment."</p></blockquote>
 
 Im zweiten Schritt wollen wir etwas näher darauf eingehen, warum wir, der Aiki-no-michi Linz, Aikido als Kampfkunst zur Persönlichkeitsentwicklung sehen, und warum es im Aikido weder um Kämpfen, noch um Gewinnen oder Verlieren geht.
 
