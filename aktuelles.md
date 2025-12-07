@@ -10,10 +10,12 @@ title: Aktuelles
 
 ### 2026 - das Jahr des Pferdes
 
-* **10./11. Jänner** - Freundschaftsseminar in Graz
+* **10./11. Jänner** - [Freundschaftsseminar](https://www.facebook.com/photo?fbid=855900666798277&set=a.184451493943201){:target="_blank"} in Graz auf Einladung des [Steiermärkischen Fachverbands für Aikido](https://www.facebook.com/stmkFvA){:target="_blank"}
+* **5. Jänner** - Kagami Biraki Feier
 
 ### 2025 - das Jahr der [Schlange](https://www.facebook.com/photo/?fbid=1132203962248147&set=a.441578571310693){:target="_blank"}
 
+* **15. Dezember** - Weihnachtstraining
 * **6. September** - 4. Aiki-no-michi Linz [Shinsa Renshukai](https://www.facebook.com/photo/?fbid=1349647077170500&set=a.441578571310693){:target="_blank"} - [Randori](https://www.facebook.com/photo/?fbid=1174729291328947&set=a.441578571310693){:target="_blank"}
 * **24. August** - Wandertag zum [Pilgerkreuz](https://www.facebook.com/photo/?fbid=1342616391206902&set=pcb.1342622284539646){:target="_blank"} im Kürnbergerwald bei Leonding
 * **9. August** - Paul Weingraber besteht die Prüfung zum [2. Dan](https://www.facebook.com/photo/?fbid=24125783083757840&set=a.834961483266662&notif_id=1754801156484925&notif_t=feedback_reaction_generic_tagged&ref=notif){:target="_blank"}
