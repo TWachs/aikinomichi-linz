@@ -8,7 +8,7 @@ title: Aktuelles
 
 <iframe width="560" height="315" style="display:block; margin: 0 auto 30px auto;" src="https://www.youtube.com/embed/DrgovmdFho8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### 2026 - das Jahr des Pferdes
+### 2026 - das Jahr des [Pferdes](https://www.facebook.com/photo?fbid=1457542109714329&set=a.441578571310693){:target="_blank"}
 
 * **10./11. Jänner** - [Freundschaftsseminar](https://www.facebook.com/photo/?fbid=872913081763702&set=a.184451493943201){:target="_blank"} in Graz auf Einladung des [Steiermärkischen Fachverbands für Aikido](https://www.facebook.com/stmkFvA){:target="_blank"}
 * **5. Jänner** - Kagami Biraki Feier
