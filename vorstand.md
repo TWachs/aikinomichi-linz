@@ -29,6 +29,17 @@ Ich wurde 1991 in Linz geboren und habe an der FH Oberösterreich Campus Hagenbe
 </div>
 <div class="row" style="padding-bottom: 50px;">
 <div class="col">
+<img class="imageStyle" src="{{ site.baseurl }}/images/Paul.jpg" alt="Paul" />
+</div>
+<div class="col-9" markdown="1">
+## Fachwart
+
+**Paul Weingraber**   
+Ich wurde 1989 in Linz geboren und habe 2019 die Meisterprüfung für Chemie und Umwelttechnik abgelegt. Seit 2013 arbeite ich als Chemieverfahrenstechniker am Chemiepark Linz.
+</div>
+</div>
+<div class="row" style="padding-bottom: 50px;">
+<div class="col">
 <img class="imageStyle" src="{{ site.baseurl }}/images/Angelika.jpg" alt="Angelika" />
 </div>
 <div class="col-9" markdown="1">
@@ -38,15 +49,16 @@ Ich wurde 1991 in Linz geboren und habe an der FH Oberösterreich Campus Hagenbe
 Ich wurde 1985 in Linz geboren und habe in Salzburg Psychologie studiert. Seit 2012 arbeite ich mit Freude als Schulpsychologin im Bezirk Amstetten.
 </div>
 </div>
+
 <div class="row" style="padding-bottom: 50px;">
 <div class="col">
-<img class="imageStyle" src="{{ site.baseurl }}/images/Paul.jpg" alt="Paul" />
+<img class="imageStyle" src="{{ site.baseurl }}/images/Linda.jpg" alt="Linda" />
 </div>
 <div class="col-9" markdown="1">
-## Fachwart
+## Beirat
 
-**Paul Weingraber**   
-Ich wurde 1989 in Linz geboren und habe 2019 die Meisterprüfung für Chemie und Umwelttechnik abgelegt. Seit 2013 arbeite ich als Chemieverfahrenstechniker am Chemiepark Linz.
+**Linda Rotzinger**   
+
 </div>
 </div>
 </div>
