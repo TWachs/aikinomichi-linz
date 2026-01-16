@@ -14,7 +14,7 @@ title: Trainer / Sempai
 <div class="col-9" markdown="1">
 ## Martin Hölzl - Shidoin
 
-**5. Dan Aikido (Aikikai), 4. Dan Iaido (Kyoshinryu-Iai Kempo)**   
+**6. Dan Aikido (Aikikai), 4. Dan Iaido (Kyoshinryu-Iai Kempo)**   
 Im Alter von 7 Jahren habe ich begonnen **Judo** zu trainieren. Nachdem ich aber körperlich klein und auch zart gebaut bin, habe ich im Judo-Training sehr schnell feststellen müssen, dass 10 kg weniger Körpergewicht und ein halber Kopf Größenunterschied einen enormen Nachteil im Wettkampf darstellen. Der Wettkampf war also nichts für mich, Kampfkünste haben mich aber weiterhin fasziniert. Fast 10 Jahre später habe ich dann eine Vorführung der japanischen Kampfkunst Aikido gesehen und habe gewusst, dass das die richtige Kampfkunst für mich ist.
 
 So habe ich 1993 begonnen **Aikido** in Linz unter der Leitung von Thomas Hamberger und Georg Meindl zu trainieren. Damals war die österreichische Aikidolandschaft stark von **Tamura Sensei** und seinen Schülern geprägt. Natürlich gab es auch Lehrgänge mit anderen Aikidolehrern in Österreich, wie z. B. **Endo Sensei**, aber ich konnte nicht wirklich etwas mit diesem Aikidostil anfangen. Ich war jung, unerfahren, habe wenig verstanden aber viel trainiert und habe 1996 den Sho-dan (1. Dan) von Tamura Sensei erhalten. 
@@ -25,7 +25,7 @@ In dieser Zeit habe ich aber bewusst begonnen einen neuen Lehrer für mich zu su
 
 Durch Tissier Sensei habe ich auch Kontakt zu den Techniken des **Kashima Shinryu**, eine alte Schwertschule, bekommen und ich beschäftige mich seit dieser Zeit auch intensiver mit dem japanischen Schwert. 2011 bis 2013 habe ich regelmäßig **Kendo** in Linz trainiert. Dadurch  habe ich **Yamamoto Sensei**, den Soke (Leiter dieser Schule) von **Kyoshinryu-Iai-Kempo** kennengelernt und auch er hat mich tief geprägt. Er hat zu mir gesagt: „you have to know the correct theory and then you have to learn by your body“ - und ich gebe ihm Recht: man muss wissen, was man übt, sonst ist das Training sinnlos. Seit dieser Zeit trainiere ich auch regelmäßig [**Iaido**](http://www.kendolinz.org/iaido){:target="_blank"}. 2023 habe ich von Yamamoto Sensei den 4. Dan Iaido erhalten.
 
-Um mit [**Tissier Sensei**](https://www.youtube.com/watch?v=8yjp8YgHqB0){:target="_blank"} und vor allem seinem Schüler [**Stéphane Goffin Sensei**](https://www.youtube.com/watch?v=nt9jrpoq2jU){:target="_blank"} enger zusammenarbeiten zu können, war es vonnöten, dass ich politisch alle Verbindungen zu anderen Shihans löse – daher wurde der Aikido Verein Aiki-no-michi Linz im April 2018 aus der Taufe gehoben. 2020 bekam ich auf Empfehlung von Tissier Sensei den 5. Dan im Aikido.
+Um mit [**Tissier Sensei**](https://www.youtube.com/watch?v=8yjp8YgHqB0){:target="_blank"} und vor allem seinem Schüler [**Stéphane Goffin Sensei**](https://www.youtube.com/watch?v=nt9jrpoq2jU){:target="_blank"} enger zusammenarbeiten zu können, war es vonnöten, dass ich politisch alle Verbindungen zu anderen Shihans löse – daher wurde der Aikido Verein Aiki-no-michi Linz im April 2018 aus der Taufe gehoben. 2020 bekam ich auf Empfehlung von Tissier Sensei den 5. Dan im Aikido, 2026 den 6. Dan.
 </div>
 </div>
 
