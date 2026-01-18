@@ -15,7 +15,7 @@ title: Aktuelles
 * **5. März** - Gasttraining mit [Michael Mayr](https://www.facebook.com/michael.mayr6){:target="_blank"}
 * **9. Februar** - Rosenmontagstraining bei Aiki-no-michi Linz
 * **11. Jänner** - Verleihung des 6. Dan an Martin Hölzl beim [Kagami Biraki](https://www.guillaumeerard.com/aikido/events-aikido/kagamibiraki-2026){:target="_blank"} in Tokio
-* **10./11. Jänner** - [Freundschaftsseminar](https://www.facebook.com/photo/?fbid=872913081763702&set=a.184451493943201){:target="_blank"} in Graz auf Einladung des [Steiermärkischen Fachverbands für Aikido](https://www.facebook.com/stmkFvA){:target="_blank"}
+* **10./11. Jänner** - [Freundschaftsseminar](https://www.facebook.com/reel/884636200621376){:target="_blank"} in Graz auf Einladung des [Steiermärkischen Fachverbands für Aikido](https://www.facebook.com/stmkFvA){:target="_blank"}
 * **5. Jänner** - Kagami Biraki Feier im ["Lime Kitchen"](https://www.limekitchen.at/){:target="_blank"}
 
 ### 2025 - das Jahr der [Schlange](https://www.facebook.com/photo/?fbid=1132203962248147&set=a.441578571310693){:target="_blank"}
