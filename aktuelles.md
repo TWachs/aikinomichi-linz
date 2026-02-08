@@ -10,7 +10,7 @@ title: Aktuelles
 
 ### 2026 - das Jahr des [Pferdes](https://www.facebook.com/photo?fbid=1457542109714329&set=a.441578571310693){:target="_blank"}
 
-* **12. September** - Aiki-no-michi Salzburg trifft Aiki-no-michi Linz
+* **12. September** - Aiki-no-michi Salzburg meets Aiki-no-michi Linz - [Gasshuku](https://www.instagram.com/p/DUfoaI8iKzz/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA%3D%3D){:target="_blank"}
 * **6. Juli** - Sommerabschluss mit [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/de/Dojo){:target="_blank"}
 * **5. März** - Gasttraining mit [Michael Mayr](https://www.facebook.com/michael.mayr6){:target="_blank"}
 * **9. Februar** - Rosenmontagstraining bei Aiki-no-michi Linz
