@@ -13,7 +13,7 @@ title: Aktuelles
 * **12. September** - Aiki-no-michi Salzburg meets Aiki-no-michi Linz - [Gasshuku](https://www.instagram.com/p/DUfoaI8iKzz/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA%3D%3D){:target="_blank"}
 * **6. Juli** - Sommerabschluss mit [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/de/Dojo){:target="_blank"}
 * **5. März** - Gasttraining mit [Michael Mayr](https://www.facebook.com/michael.mayr6){:target="_blank"}
-* **9. Februar** - Rosenmontagstraining bei Aiki-no-michi Linz
+* **9. Februar** - "Rosenmontags"-training bei Aiki-no-michi Linz
 * **11. Jänner** - Verleihung des 6. Dan an Martin Hölzl beim [Kagami Biraki](https://www.guillaumeerard.com/aikido/events-aikido/kagamibiraki-2026){:target="_blank"} in Tokio
 * **10./11. Jänner** - [Freundschaftsseminar](https://www.facebook.com/reel/884636200621376){:target="_blank"} in Graz auf Einladung des [Steiermärkischen Fachverbands für Aikido](https://www.facebook.com/stmkFvA){:target="_blank"}
 * **5. Jänner** - Kagami Biraki Feier im ["Lime Kitchen"](https://www.limekitchen.at/){:target="_blank"}
