@@ -58,7 +58,7 @@ Ich wurde 1985 in Linz geboren und habe in Salzburg Psychologie studiert. Seit 2
 ## Beirat
 
 **Linda Rotzinger**   
-
+Ich wurde 1992 in Gmunden geboren und habe in Linz Technische Physik studiert. Seit 2023 arbeite ich bei Siemens Energy im Bereich Process and Tool Transformation.
 </div>
 </div>
 </div>

@@ -70,8 +70,8 @@ title: Downloads & Links
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="http://www.aikikai.or.jp/eng/information/review.html" target="blank">Grading Examination System – Hombu Dojo [HTML]</a>
-<a href="http://www.aikikai.or.jp/eng/information/review.html" target="blank">Öffnen</a>
+<a href="http://www.aikikai.or.jp/eng/hombudojo/grading/" target="blank">Grading Examination System – Hombu Dojo [HTML]</a>
+<a href="http://www.aikikai.or.jp/eng/hombudojo/grading/" target="blank">Öffnen</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
@@ -87,6 +87,11 @@ title: Downloads & Links
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
 <a href="http://www.aikinomichi.at" target="blank">www.aikinomichi.at</a>
 <a href="http://www.aikinomichi.at" target="blank">Öffnen</a>
+</li>
+<li>
+<img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
+<a href="https://aikido-kremstal.at" target="blank">aikido-kremstal.at</a>
+<a href="https://aikido-kremstal.at" target="blank">Öffnen</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
