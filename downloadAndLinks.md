@@ -110,6 +110,11 @@ title: Downloads & Links
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
+<a href="https://www.facebook.com/ShinGiTaiAikidoPortugal/" target="blank">Shin Gi Tai Aikido Portugal</a>
+<a href="https://www.facebook.com/ShinGiTaiAikidoPortugal/" target="blank">Öffnen</a>
+</li>
+<li>
+<img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
 <a href="http://www.andersleben.at" target="blank">www.andersleben.at</a>
 <a href="http://www.andersleben.at" target="blank">Öffnen</a>
 </li>
