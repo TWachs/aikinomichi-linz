@@ -90,22 +90,22 @@ title: Downloads & Links
 <ul class="fileDownload">
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="http://www.aikinomichi.at" target="blank">www.aikinomichi.at</a>
+<a href="http://www.aikinomichi.at" target="blank">Aiki-no-michi Wien</a>
 <a href="http://www.aikinomichi.at" target="blank">Öffnen</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="https://aikido-kremstal.at" target="blank">aikido-kremstal.at</a>
+<a href="https://aikido-kremstal.at" target="blank">Aikido Kremstal</a>
 <a href="https://aikido-kremstal.at" target="blank">Öffnen</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="http://www.svk-aikido.com" target="blank">www.svk-aikido.com</a>
+<a href="http://www.svk-aikido.com" target="blank">SVK Aikido</a>
 <a href="http://www.svk-aikido.com" target="blank">Öffnen</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="http://zummaikido.hu" target="blank">zummaikido.hu</a>
+<a href="http://zummaikido.hu" target="blank">Zumm Aikido</a>
 <a href="http://zummaikido.hu" target="blank">Öffnen</a>
 </li>
 <li>
@@ -115,7 +115,7 @@ title: Downloads & Links
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="http://www.andersleben.at" target="blank">www.andersleben.at</a>
+<a href="http://www.andersleben.at" target="blank">Anders leben</a>
 <a href="http://www.andersleben.at" target="blank">Öffnen</a>
 </li>
 <li>
