@@ -75,7 +75,7 @@ title: Downloads & Links
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="https://www.selbstgemacht.co.at/aikido/wp-content/uploads/2019/03/AAVB-Brosch%C3%BCre-AIKIDO-Grundlagen-1.3.pdf" target="blank">Vöklabruck [HTML]</a>
+<a href="https://www.selbstgemacht.co.at/aikido/wp-content/uploads/2019/03/AAVB-Brosch%C3%BCre-AIKIDO-Grundlagen-1.3.pdf" target="blank">Vöklabruck [pdf]</a>
 <a href="https://www.selbstgemacht.co.at/aikido/wp-content/uploads/2019/03/AAVB-Brosch%C3%BCre-AIKIDO-Grundlagen-1.3.pdf" target="blank">Öffnen</a>
 </li>
 
