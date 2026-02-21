@@ -73,11 +73,6 @@ title: Downloads & Links
 <a href="http://www.aikikai.or.jp/eng/hombudojo/grading/" target="blank">Grading Examination System – Hombu Dojo [HTML]</a>
 <a href="http://www.aikikai.or.jp/eng/hombudojo/grading/" target="blank">Öffnen</a>
 </li>
-<li>
-<img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="http://www.nippon-kan.org/wp-content/uploads/AikidoForLife-EDIT.pdf" target="blank">Aikido For Life – Gaku Homma [PDF]</a>
-<a href="http://www.nippon-kan.org/wp-content/uploads/AikidoForLife-EDIT.pdf" target="blank">Öffnen</a>
-</li>
 </ul>
 
 # Freunde
