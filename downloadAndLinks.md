@@ -49,7 +49,7 @@ title: Downloads & Links
 <a href="{{ site.baseurl }}/images/DanImAikido.jpg" download="DanImAikido.jpg">Download</a>
 </li>
 <li>
-<img src="{{ site.baseurl }}/images/pdf_icon.png" alt="Pdf" />
+<img src="{{ site.baseurl }}/images/image_icon.png" alt="Pdf" />
 <a href="{{ site.baseurl }}/downloads/Shinshun_no_gasshuku.pdf" download="Shinshun_no_gasshuku.pdf">Shinshun no gasshuku</a>
 <a href="{{ site.baseurl }}/downloads/Shinshun_no_gasshuku.pdf" download="Shinshun_no_gasshuku.pdf">Download</a>
 </li>
