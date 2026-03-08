@@ -100,8 +100,8 @@ title: Downloads & Links
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
-<a href="http://www.svk-aikido.com" target="blank">SVK Aikido</a>
-<a href="http://www.svk-aikido.com" target="blank">Öffnen</a>
+<a href="https://svkaikido.jimdofree.com/" target="blank">SVK Aikido</a>
+<a href="https://svkaikido.jimdofree.com/" target="blank">Öffnen</a>
 </li>
 <li>
 <img src="{{ site.baseurl }}/images/link_icon.png" alt="Link" />
