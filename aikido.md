@@ -43,11 +43,13 @@ Wie kann aber körperliches Training einer Kampfkunst, wie Aikido, den Geist des
 
 * Um möglichst stabil zu sein, brauchen wir eine **aufrechte Haltung**. Dieses Prinzip der Körperachse (Seichusen) findet man in jeder Kampfkunst. Diese gute Haltung, die wir im Training verinnerlichen, wird sich automatisch in unseren Alltag einschleichen: wir werden stabiler und aufrichtiger im Leben.
 
-* Im Aikido wird miteinander in kooperativer Weise geübt. Durch dieses miteinander Üben, statt gegeneinander zu kämpfen, steigt das Niveau beider Partner gleichermaßen und sie werden sich gegenseitig mehr fordern können, was wiederum die Grundlage für die weitere Entwicklung ist. Auch im Alltag ist es oft besser eine **kooperative Lösung** zu suchen (win-win-Situation) und sich gemeinsam zu entwickeln als stur gegeneinander zu kämpfen.
-
 * Ein Angriff ist nur dann gefährlich, wenn der Angreifer in die "persönliche Zone" eindringt und man sich dadurch innerhalb der Reichweite dieses Angriffs befindet. Diese persönliche Zone lernen wir durch das Aikido-Training kennen und wir lernen ebenso, den Partner diese Grenze zur persönlichen Zone nicht überschreiten zu lassen. Genauso lernen wir im Alltag unsere Grenzen zu erkennen, **Grenzen bewusst zu setzen** und damit auch **Selbstvertrauen** aufzubauen.
 
 * Durch die Etikette im Aikido-Training erlernen wir **Höflichkeit und Respekt** und kultivieren unseren Geist.
+
+* Im Aikido wird miteinander in kooperativer Weise geübt. Durch dieses miteinander Üben, statt gegeneinander zu kämpfen, steigt das Niveau beider Partner gleichermaßen und sie werden sich gegenseitig mehr fordern können, was wiederum die Grundlage für die weitere Entwicklung ist. Auch im Alltag ist es oft besser eine **kooperative Lösung** zu suchen (win-win-Situation) und sich gemeinsam zu entwickeln als stur gegeneinander zu kämpfen.
+
+<blockquote><p style="text-align:center;">"The best victory is the one, in which everybody wins." - [Terry Dobson](https://dontmindnomind.wordpress.com/2010/06/29/soul-series-a-short-story-by-terry-dobson/){:target="_blank"}</p></blockquote>
 
 Aus diesen Beispielen ist ersichtlich warum wir beim Aiki-no-michi Linz Aikido als Kampfkunst zur Persönlichkeitsentwicklung sehen. Das soll aber nicht darüber hinweg täuschen, dass im Training sehr viel Wert auf die kampftechnisch sinnvolle und korrekte Durchführung der Techniken gelegt wird und, dass die Techniken prinzipiell das Potential haben zu verletzen bzw. auch zu töten.
 
