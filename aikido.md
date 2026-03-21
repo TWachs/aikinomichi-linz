@@ -14,6 +14,9 @@ Was ist Aikido? Es gibt viele gute Erklärungen und Definitionen, was Aikido ist
 Unser Lehrer, Christian Tissier Sensei, hat in einem Interview gemeint: 
 <blockquote><p style="text-align:center;">„... it´s a way to learn how to face a problem.“</p></blockquote>
 
+Hombu-Dojo in Tokyo sieht als Ziel des Aikido...
+<blockquote><p style="text-align:center;">„...the improvement of social relationship through physical exercise.“</p></blockquote>
+
 Sehen wir uns im ersten Schritt die einzelnen Silben des Wortes Ai-ki-do an:
 </div>
 <div markdown="1" class="centered-text">
@@ -49,7 +52,8 @@ Wie kann aber körperliches Training einer Kampfkunst, wie Aikido, den Geist des
 
 * Im Aikido wird miteinander in kooperativer Weise geübt. Durch dieses miteinander Üben, statt gegeneinander zu kämpfen, steigt das Niveau beider Partner gleichermaßen und sie werden sich gegenseitig mehr fordern können, was wiederum die Grundlage für die weitere Entwicklung ist. Auch im Alltag ist es oft besser eine **kooperative Lösung** zu suchen (win-win-Situation) und sich gemeinsam zu entwickeln als stur gegeneinander zu kämpfen.
 
-<blockquote><p style="text-align:center;">"The best victory is the one, in which everybody wins." - [Terry Dobson](https://dontmindnomind.wordpress.com/2010/06/29/soul-series-a-short-story-by-terry-dobson/){:target="_blank"}</p></blockquote>
+[Terry Dobson](https://dontmindnomind.wordpress.com/2010/06/29/soul-series-a-short-story-by-terry-dobson/){:target="_blank"} hat gemeint
+<blockquote><p style="text-align:center;">"The best victory is the one, in which everybody wins."</p></blockquote>
 
 Aus diesen Beispielen ist ersichtlich warum wir beim Aiki-no-michi Linz Aikido als Kampfkunst zur Persönlichkeitsentwicklung sehen. Das soll aber nicht darüber hinweg täuschen, dass im Training sehr viel Wert auf die kampftechnisch sinnvolle und korrekte Durchführung der Techniken gelegt wird und, dass die Techniken prinzipiell das Potential haben zu verletzen bzw. auch zu töten.
 
