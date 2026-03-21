@@ -14,7 +14,7 @@ Was ist Aikido? Es gibt viele gute Erklärungen und Definitionen, was Aikido ist
 Unser Lehrer, Christian Tissier Sensei, hat in einem Interview gemeint: 
 <blockquote><p style="text-align:center;">„... it´s a way to learn how to face a problem.“</p></blockquote>
 
-Hombu-Dojo in Tokyo sieht als Ziel des Aikido...
+Hombu-Dojo in Tokio sieht als Ziel des Aikido...
 <blockquote><p style="text-align:center;">„...the improvement of social relationship through physical exercise.“</p></blockquote>
 
 Sehen wir uns im ersten Schritt die einzelnen Silben des Wortes Ai-ki-do an:
