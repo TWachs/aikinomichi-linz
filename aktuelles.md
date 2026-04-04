@@ -12,7 +12,7 @@ title: Aktuelles
 
 * **12. September** - Aiki-no-michi Salzburg meets Aiki-no-michi Linz - [Gasshuku](https://www.instagram.com/p/DUfoaI8iKzz/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA%3D%3D){:target="_blank"}
 * **6. Juli** - Sommerabschluss mit [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/de/Dojo){:target="_blank"}
-* **2. April** - Ei-kido bei Aiki-no-michi Linz
+* **2. April** - [Ei-kido](https://www.facebook.com/100063756601597/videos/pcb.1543635784438294/1250798580562250){:target="_blank"} bei Aiki-no-michi Linz
 * **5. März** - [Gasttraining](https://www.facebook.com/photo/?fbid=1518076503660889&set=pcb.1518083716993501){:target="_blank"} mit [Michael Mayr](https://www.facebook.com/michael.mayr6){:target="_blank"}
 * **9. Februar** - ["Rosenmontags"-training](https://www.facebook.com/photo/?fbid=1505421694926370&set=pcb.1505423611592845){:target="_blank"} bei Aiki-no-michi Linz
 * **11. Jänner** - Verleihung des 6. Dan an [Martin Hölzl](https://www.facebook.com/photo/?fbid=25743477305321735&set=a.834961483266662){:target="_blank"} beim [Kagami Biraki](https://www.guillaumeerard.com/aikido/events-aikido/kagamibiraki-2026){:target="_blank"} in Tokio
