@@ -28,7 +28,6 @@ title: Aktuelles
 * **9. August** - Paul Weingraber besteht die Prüfung zum [2. Dan](https://www.facebook.com/photo/?fbid=24125783083757840&set=a.834961483266662&notif_id=1754801156484925&notif_t=feedback_reaction_generic_tagged&ref=notif){:target="_blank"}
 * **30. Juni** - Gasttraining mit [Brigitte Prasek](https://www.facebook.com/brigitte.prasek){:target="_blank"}, [Berhard Wardein](https://www.facebook.com/bernhard.wardein){:target="_blank"} und [Andrei Polskii](https://www.facebook.com/andrey.polskiy){:target="_blank"} zum [Sommerabschluss](https://www.facebook.com/photo?fbid=1294359936032548&set=a.441578571310693){:target="_blank"}
 * **19. - 22. Juni** - Workshop ["Japanische Schwertarbeit"](https://www.maennerfestival.at/japanische-schwertarbeit-2.html){:target="_blank"} am [Männerfest 2025](https://www.maennerfestival.at/festival.html){:target="_blank"} 
-* **17. Mai** - Aiki-no-michi Linz wird Mitglied beim Aiki-no-michi Austria - Verband zur Förderung des Aikido
 * **17. April** - [Ei-kido](https://www.facebook.com/photo/?fbid=9533057176786037&set=pcb.9533058270119261){:target="_blank"} mit [Daniel Derflinger](https://www.facebook.com/reel/1632790944023037){:target="_blank"} als Gasttrainer
 * **3. März** - [Rosenmontag](https://www.facebook.com/photo/?fbid=1187472893387920&set=pcb.1187473386721204){:target="_blank"}  bei Aiki-no-michi Linz mit Krapfen und [Handtücher](https://www.facebook.com/photo?fbid=1187473023387907&set=pcb.1187473386721204){:target="_blank"} 
 * **9. Jänner** - [Kagami Biraki](https://www.instagram.com/p/DEtzIN4Iak6/?utm_source=ig_web_button_share_sheet&fbclid=IwY2xjawHwZZhleHRuA2FlbQIxMAABHThLZ9u4nC8rJWLtzyCYykURs55qepCa4rDj4jCdBjL7b1lZC2dw_f38ag_aem_CEpqNRSNSKzN4rJhkZ5oSw&img_index=1){:target="_blank"} gemeinsam mit [Aikido Union Kremstal](https://www.facebook.com/profile.php?id=61557020004810){:target="_blank"}
@@ -37,7 +36,7 @@ title: Aktuelles
 
 * **26. Dezember** - die Titelseite der Homepage bekommt neue Fotos 
 * **7.Dezeber** - Weihnachtsfeier im [Ebi](https://www.ebi-vienna.at/home){:target="_blank"}
-* **2. Dezember** - Gasttraining mit Brigitte Prasek (6. Dan) und Bernhard Wardein (6. Dan) vom [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/){:target="_blank"} 
+* **2. Dezember** - Gasttraining mit Brigitte Prasek (6. Dan) und Bernhard Wardein (6. Dan) vom [Aiki-no-michi Wien](https://www.aikinomichi.at/){:target="_blank"} 
 * **9. September** - Beginn des Anfängertrainings (jeden Montag um 18:30)
 * **7. September** - 3. Aiki-no-michi Linz [Shinsa Renshukai](https://www.instagram.com/p/C_qDaVOIg1F/?igsh=MWV6OHRieDdpZ25pcA==){:target="_blank"} - Jo-waza 
 * **24. August** - Aiki-no-michi Linz [Wandertag](https://www.facebook.com/photo/?fbid=1029010159234195&set=pcb.1029012219233989){:target="_blank"} im [Thurytal](https://freistadt.city/standort/thurytal/){:target="_blank"} bei Freistadt
@@ -115,6 +114,7 @@ title: Aktuelles
 ### 2018 - das Jahr des Hundes
 
 * **17. Oktober** - der Aiki-no-michi Linz wird Schutzmitglied beim [ASVÖ](https://www.asvoe.at/de/asvoe/landesorganisationen/asvoe-oberoesterreich){:target="_blank"} - Allgemeiner Sportverband OÖ
+* **1. April** - Beginn der Zusammenarbeit mit dem [Aiki-no-michi Wien](https://www.aikinomichi.at/){:target="_blank"}, die zur Verbandsgründung [Aiki-no-michi Austria](https://www.aikinomichi.at/aikinomichi_austria.html){:target="_blank"} führte 
 * **30. März** - Gründung des Vereins "Aikido-Verein Aiki-no-michi Linz"
 
 </div>
