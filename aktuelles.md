@@ -12,7 +12,8 @@ title: Aktuelles
 
 * **29. Oktober** - Gasttraining im [Budokan Wels](https://www.budokan.at/){:target="_blank"}
 * **12. September** - Aiki-no-michi Salzburg meets Aiki-no-michi Linz - [Gasshuku](https://www.instagram.com/p/DUfoaI8iKzz/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA%3D%3D){:target="_blank"}
-* **6. Juli** - Sommerabschluss mit [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/de/Dojo){:target="_blank"}
+* **15. August** - Wandertag [Tempetalweg](https://www.kremsmuenster.at/Tourismus/Wanderwege/Tempetalweg){:target="_blank"}
+* **6. Juli** - [Sommerabschluss](https://www.facebook.com/photo/?fbid=1635797521888786&set=pcb.1067243339206634){:target="_blank"} mit [Aiki-no-michi Wien](http://www.aikinomichi.at/drupal7/de/Dojo){:target="_blank"}
 * **2. April** - [Ei-kido](https://www.facebook.com/100063756601597/videos/pcb.1543635784438294/1250798580562250){:target="_blank"} bei Aiki-no-michi Linz
 * **5. März** - [Gasttraining](https://www.facebook.com/photo/?fbid=1518076503660889&set=pcb.1518083716993501){:target="_blank"} mit [Michael Mayr](https://www.facebook.com/michael.mayr6){:target="_blank"}
 * **9. Februar** - ["Rosenmontags"-training](https://www.facebook.com/photo/?fbid=1505421694926370&set=pcb.1505423611592845){:target="_blank"} bei Aiki-no-michi Linz
