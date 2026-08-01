@@ -10,6 +10,7 @@ title: Aktuelles
 
 ### 2026 - das Jahr des [Pferdes](https://www.facebook.com/photo?fbid=1457542109714329&set=a.441578571310693){:target="_blank"}
 
+* **17. Dezember** - gemeinsames Weihnachtstraining 
 * **29. Oktober** - Gasttraining im [Budokan Wels](https://www.budokan.at/){:target="_blank"}
 * **29. September** - Aikido beim Gesundheitstag der [Mittelschule 23](https://www.ms23-linz.at/){:target="_blank"} in Linz/Ebelsberg
 * **12. September** - Aiki-no-michi Salzburg meets Aiki-no-michi Linz - [Gasshuku](https://www.instagram.com/p/DUfoaI8iKzz/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA%3D%3D){:target="_blank"}
