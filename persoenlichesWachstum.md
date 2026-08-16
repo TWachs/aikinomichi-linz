@@ -19,4 +19,16 @@ Dieses persönliche Wachstum kann, wenn Aikido regelmäßig geübt wird, auf ver
 Auf der körperlichen Ebene werden sich ganz automatisch eine verbesserte Haltung und Beweglichkeit sowie eine ruhigere Atmung einstellen. Durch die bewusste Bewegung und Atmung erfolgt körperlich ein Stressabbau. Wir sind besser im Gleichgewicht und körperlich mehr zentriert. Die körperliche Wahrnehmung wird gestärkt, einerseits zum eigenen Körper, andererseits – durch die Partnerübungen – auch zum Körper des Partners/Gegners.
 
 Auf der emotionalen Ebene entwickeln wir vor allem Selbstvertrauen: wir lernen wie wir mit einem Angriff umgehen können. Dieses Selbstvertrauen erwächst daher aus der Erfahrung und wird nicht vom Ego genährt. Man erlebt Sicherheit und Kontrolle in den Übungen und nimmt diese Erfahrungen in den Alltag mit. 
+
+In körperlichen oder verbalen Konfliktsituationen können wir gelassener bleiben, weil wir nicht von Reflexen, Ängsten, Wut oder anderen Emotionen gesteuert werden . Wir lernen im Training stressige Situationen kennen (Angriffe) und lernen damit umzugehen (Techniken). Durch das wiederholte Üben werden wir entspannter, gehen in keinen automatischen Modus [fight, flight, freeze, fawn](https://de.wikipedia.org/wiki/Kampf-oder-Flucht-Reaktion){:target="_blank"}, den wir nicht bewusst steuern. So bleiben wir auch in einer stressigen Situation zentriert (körperlich und emotional). 
+
+Auf der kognitiven Ebene geht es darum unbewusste Muster, Denkstrukturen und Überzeugungen zu hinterfragen und – wenn gewünscht - zu verändern. Nur wenn wir unsere unbewussten Muster erkennen, können wir diese auch bewusst verändern.
+
+Die Präzision der Technik schafft einen Rahmen, in dem man sich selbst erkennen kann. (Tissier)
+
+Durch das wiederholte und regelmäßige Üben in einem sicheren Raum können wir diese unbewussten und teilweise unerwünschten Muster erkennen, bewusst ablegen und durch neue gewünschte Verhaltensweisen ersetzen. Diese Entwicklung ist oft auch außerhalb des Dojos spürbar. Aikido ist daher nicht nur eine Kampfkunst sondern ein Lebensweg. 
+
+<blockquote><p style="text-align:center;">Aikido ist eine Kunst der Transformation. Es ist nicht der Gegner, der sich verändert – wir sind es. (Christian Tissier)</p></blockquote>
+
+
 </div>
