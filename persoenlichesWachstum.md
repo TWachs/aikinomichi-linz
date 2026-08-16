@@ -18,7 +18,7 @@ Dieses persönliche Wachstum kann, wenn Aikido regelmäßig geübt wird, auf ver
 
 Auf der körperlichen Ebene werden sich ganz automatisch eine verbesserte Haltung und Beweglichkeit sowie eine ruhigere Atmung einstellen. Durch die bewusste Bewegung und Atmung erfolgt körperlich ein Stressabbau. Wir sind besser im Gleichgewicht und körperlich mehr zentriert. Die körperliche Wahrnehmung wird gestärkt, einerseits zum eigenen Körper, andererseits – durch die Partnerübungen – auch zum Körper des Partners/Gegners.
 
-Auf der emotionalen Ebene entwickeln wir vor allem Selbstvertrauen: wir lernen wie wir mit einem Angriff umgehen können. Dieses Selbstvertrauen erwächst daher aus der Erfahrung und wird nicht vom Ego genährt. Man erlebt Sicherheit und Kontrolle in den Übungen und nimmt diese Erfahrungen in den Alltag mit. 
+Auf der emotionalen Ebene entwickeln wir vor allem **Selbstvertrauen**: wir lernen wie wir mit einem Angriff umgehen können. Dieses Selbstvertrauen erwächst daher aus der Erfahrung und wird nicht vom Ego genährt. Man erlebt **Sicherheit und Kontrolle** in den Übungen und nimmt diese Erfahrungen in den Alltag mit. 
 
 In körperlichen oder verbalen Konfliktsituationen können wir gelassener bleiben, weil wir nicht von Reflexen, Ängsten, Wut oder anderen Emotionen gesteuert werden . Wir lernen im Training stressige Situationen kennen (Angriffe) und lernen damit umzugehen (Techniken). Durch das wiederholte Üben werden wir entspannter, gehen in keinen automatischen Modus [fight, flight, freeze, fawn](https://de.wikipedia.org/wiki/Kampf-oder-Flucht-Reaktion){:target="_blank"}, den wir nicht bewusst steuern. So bleiben wir auch in einer stressigen Situation zentriert (körperlich und emotional). 
 
