@@ -12,10 +12,9 @@ Unser Shihan Christian Tissier Sensei hat es folgendermaßen ausgedrückt:
  
 [Yoko Okamaoto Sensei](https://www.youtube.com/watch?v=Tv7BTKQzn50&list=PLisTNqUkdrSW_62p8NZm8c9VMfTSjDnoV&index=3){:target="_blank"} spricht auf ihrer [Homepage](https://aikidokyoto.com/en){:target="_blank"} vom Prozess des persönlichen Wachstums:
 
-Aikido is not an easy martial art. However, it is accessible to anyone who has a desire to train. During your practice you will go through high and low points, at times you will feel overjoyed and fulfilled. At other times you will feel exhausted. Whichever the case, as you walk along the Aikido's "path" you will have countless eye-opening encounters, learn about your own self, and refine your ability to judge and make decisions.
-Through the practice of Aikido, it is possible to experience the process of personal growth in harmony with others and your surrounding. 
+<blockquote><p style="text-align:center;">Aikido is not an easy martial art. However, it is accessible to anyone who has a desire to train. During your practice you will go through high and low points, at times you will feel overjoyed and fulfilled. At other times you will feel exhausted. Whichever the case, as you walk along the Aikido's "path" you will have countless eye-opening encounters, learn about your own self, and refine your ability to judge and make decisions.Through the practice of Aikido, it is possible to experience the process of personal growth in harmony with others and your surrounding.</p></blockquote> 
 
-Dieses persönliche Wachstum kann, wenn Aikido regelmäßig geübt wird, auf verschiedenen Ebenen stattfinden: es wirkt auf der körperlichen Ebene (Spannung, Fluchtreflex), auf der emotionalen Ebene (Angst, Aggression) und auf der kognitiven Ebene (unbewusste Bewertungen und Reaktionen).
+Dieses persönliche Wachstum kann, wenn Aikido regelmäßig geübt wird, auf verschiedenen Ebenen stattfinden: es wirkt auf der **körperlichen Ebene** (Spannung, Fluchtreflex), auf der **emotionalen Ebene** (Angst, Aggression) und auf der **kognitiven Ebene** (unbewusste Bewertungen und Reaktionen).
 
 Auf der körperlichen Ebene werden sich ganz automatisch eine verbesserte Haltung und Beweglichkeit sowie eine ruhigere Atmung einstellen. Durch die bewusste Bewegung und Atmung erfolgt körperlich ein Stressabbau. Wir sind besser im Gleichgewicht und körperlich mehr zentriert. Die körperliche Wahrnehmung wird gestärkt, einerseits zum eigenen Körper, andererseits – durch die Partnerübungen – auch zum Körper des Partners/Gegners.
 
