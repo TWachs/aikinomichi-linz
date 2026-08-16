@@ -5,13 +5,12 @@ title: Persönliches Wachstum
 
 <div class="container block" markdown="1">
 
-Aikido hat das Potential dich zu verändern, wenn du es möchtest. Bei dieser Transformation geht es nicht darum, dass du eine andere Person wirst; es geht darum, dein Zentrum zu finden. Es geht nicht darum, zu verändern wer du bist, sondern zu erfahren wer du bist. Es geht darum im Rahmen des Trainings deine Gedanken, Emotionen und Reaktionen zu beobachten, diese zu erkennen und bei Bedarf bewusst zu verändern.
+Aikido hat das Potential dich zu verändern, wenn du es möchtest. Bei dieser Transformation geht es nicht darum, dass du eine andere Person wirst; es geht darum, dein Zentrum zu finden. Es geht nicht darum, zu **verändern** wer du bist, sondern zu **erfahren** wer du bist. Es geht darum im Rahmen des Trainings deine Gedanken, Emotionen und Reaktionen zu beobachten, diese zu erkennen und bei Bedarf bewusst zu verändern.
 
 Unser Shihan Christian Tissier Sensei hat es folgendermaßen ausgedrückt:
-
-Im Aikido geht es nicht darum andere zu kontrollieren, sondern sich selbst durch die Bewegung kennenzulernen. 
-
-Yoko Okamaoto Sensei spricht auf ihrer Homepage vom Prozess des persönlichen Wachstums:
+<blockquote><p style="text-align:center;">„Im Aikido geht es nicht darum andere zu kontrollieren, sondern sich selbst durch die Bewegung kennenzulernen.“</p></blockquote>
+ 
+[Yoko Okamaoto Sensei](https://www.youtube.com/watch?v=Tv7BTKQzn50&list=PLisTNqUkdrSW_62p8NZm8c9VMfTSjDnoV&index=3){:target="_blank"} spricht auf ihrer [Homepage](https://aikidokyoto.com/en){:target="_blank"} vom Prozess des persönlichen Wachstums:
 
 Aikido is not an easy martial art. However, it is accessible to anyone who has a desire to train. During your practice you will go through high and low points, at times you will feel overjoyed and fulfilled. At other times you will feel exhausted. Whichever the case, as you walk along the Aikido's "path" you will have countless eye-opening encounters, learn about your own self, and refine your ability to judge and make decisions.
 Through the practice of Aikido, it is possible to experience the process of personal growth in harmony with others and your surrounding. 
