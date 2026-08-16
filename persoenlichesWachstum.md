@@ -24,7 +24,7 @@ In körperlichen oder verbalen Konfliktsituationen können wir gelassener bleibe
 
 Auf der kognitiven Ebene geht es darum unbewusste Muster, Denkstrukturen und Überzeugungen zu hinterfragen und – wenn gewünscht - zu verändern. Nur wenn wir unsere unbewussten Muster erkennen, können wir diese auch bewusst verändern.
 
-Die Präzision der Technik schafft einen Rahmen, in dem man sich selbst erkennen kann. (Tissier)
+<blockquote><p style="text-align:center;">Die Präzision der Technik schafft einen Rahmen, in dem man sich selbst erkennen kann. (Christian Tissier)</p></blockquote>
 
 Durch das wiederholte und regelmäßige Üben in einem sicheren Raum können wir diese unbewussten und teilweise unerwünschten Muster erkennen, bewusst ablegen und durch neue gewünschte Verhaltensweisen ersetzen. Diese Entwicklung ist oft auch außerhalb des Dojos spürbar. Aikido ist daher nicht nur eine Kampfkunst sondern ein Lebensweg. 
 
