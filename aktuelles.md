@@ -8,7 +8,7 @@ title: Aktuelles
 
 <iframe width="560" height="315" style="display:block; margin: 0 auto 30px auto;" src="https://www.youtube.com/embed/DrgovmdFho8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### 2026 - das Jahr des Schafes
+### 2027 - das Jahr des Schafes
 
 * **23./24. Jänner** - Freundschaftsseminar in Graz auf Einladung des Steiermärkischen Fachverbands für Aikido
 
