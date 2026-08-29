@@ -8,9 +8,13 @@ title: Aktuelles
 
 <iframe width="560" height="315" style="display:block; margin: 0 auto 30px auto;" src="https://www.youtube.com/embed/DrgovmdFho8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### 2026 - das Jahr des Schafes
+
+* **23./24. Jänner** - Freundschaftsseminar in Graz auf Einladung des Steiermärkischen Fachverbands für Aikido
+
 ### 2026 - das Jahr des [Pferdes](https://www.facebook.com/photo?fbid=1457542109714329&set=a.441578571310693){:target="_blank"}
 
-* **17. Dezember** - gemeinsames Weihnachtstraining 
+* **17. Dezember** - gemeinsames Weihnachtstraining im Budokan Wels
 * **29. Oktober** - Gasttraining im [Budokan Wels](https://www.budokan.at/){:target="_blank"}
 * **29. September** - Aikido beim Gesundheitstag der [Mittelschule 23](https://www.ms23-linz.at/){:target="_blank"} in Linz/Ebelsberg
 * **12. September** - Aiki-no-michi Salzburg meets Aiki-no-michi Linz - [Gasshuku](https://www.instagram.com/p/DUfoaI8iKzz/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA%3D%3D){:target="_blank"}
